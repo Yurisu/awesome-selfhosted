@@ -1,0 +1,5 @@
+# 翻译工作临时/本地产物
+*.bak
+*.testbak
+.prebuild
+.workbuddy/
