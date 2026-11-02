@@ -53,6 +53,7 @@ def translate(text, retries=5):
     if has_cjk(text):
         cache[text] = text
         return text
+    orig = text  # 保留含真实链接的原始文本，失败时回退用
     links = LINK_RE.findall(text)
     for i, lk in enumerate(links):
         text = text.replace(lk, f"\u0002L{i}\u0002", 1)
@@ -70,27 +71,34 @@ def translate(text, retries=5):
             if st == 200 and t:
                 if "YOU USED ALL" in t.upper() or "QUOTA" in str(data.get("responseDetails", "")).upper():
                     STOP = True
-                    return text
+                    return orig
                 for i, lk in enumerate(links):
                     t = t.replace(f"\u0002L{i}\u0002", lk)
+                # 防御：若仍有残留占位符（翻译服务丢弃了控制符），还原剩余链接
+                for mm in re.finditer(r'\u0002L(\d+)\u0002', t):
+                    idx = int(mm.group(1))
+                    if idx < len(links):
+                        t = t[:mm.start()] + links[idx] + t[mm.end():]
+                if "\u0002" in t:  # 链接彻底丢失，放弃该条，回退原文
+                    return orig
                 cache[text] = t
                 time.sleep(DELAY)
                 return t
-            # 429 限流：退避后重试；持续限流则优雅停止（不缓存，下次续传）
+            # 429 限流：退避后重试；持续限流则优雅停止（回退原文，不缓存）
             if st == 429:
                 if attempt < retries - 1:
                     time.sleep(backoff)
                     backoff = min(backoff * 2, 120)
                     continue
                 STOP = True
-                return text
+                return orig
             if st in (402, 403) or "QUOTA" in str(data.get("responseDetails", "")).upper():
                 STOP = True
-                return text
+                return orig
         except Exception:
             time.sleep(2)
-    # 网络/解析失败：保留原文，不缓存（下次重试）
-    return text
+    # 网络/解析失败：保留原文（含真实链接），不缓存（下次重试）
+    return orig
 
 def process_entry(line):
     m = entry_re.match(line)

@@ -3,7 +3,7 @@
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted.svg?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
-Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
+自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从L0提供商那里消费。
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
 
@@ -247,7 +247,7 @@ _Related: [Archiving and Digital Preservation (DP) 存档与数字化保存（DP
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [blog](https://en.wikipedia.org/wiki/Blog) is a discussion or informational website consisting of discrete, diary-style text entries (posts).
+L0是由离散的日记式文本条目（帖子）组成的讨论或信息网站。
 
 _Related: [Static Site Generators 静态站点生成器](#static-site-generators), [Content Management Systems (CMS) 内容管理系统（CMS）](#content-management-systems-cms)_
 
@@ -721,7 +721,7 @@ _Related: [Communication - Email - Mailing Lists and Newsletters 通信 - 电子
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Web interfaces for [database](https://en.wikipedia.org/wiki/Database) management. Includes tools for database analytics and visualization.
+用于L0管理的Web界面。包括用于数据库分析和可视化的工具。
 
 _Related: [Analytics 分析](#analytics), [Automation 自动化](#automation)_
 
@@ -754,7 +754,7 @@ _See also: [dbdb.io - Database of Databases](https://dbdb.io/)_
 
 [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) servers and management tools with advertisement blocking functionality, primarily aimed at home or small networks.
 
-_See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awesome-sysadmin#dns---servers), [awesome-sysadmin/DNS - Control Panels & Domain Management](https://github.com/awesome-foss/awesome-sysadmin#dns---control-panels--domain-management)_
+_另请参阅： L0, L1_
 
 - [AdGuard Home](https://adguard.com/en/adguard-home/overview.html) - 用户友好的广告和跟踪器拦截DNS服务器。（ L0 ） `GPL-3.0` `Docker`
 - [blocky](https://0xerr0r.github.io/blocky/latest/) - 快速轻量级的DNS代理作为本地网络的广告拦截器，具有许多功能（ Pi-hole的替代品）。（ L0 ） `Apache-2.0` `Go/Docker`
@@ -769,7 +769,7 @@ _See also: [awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/awes
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [document management system](https://en.wikipedia.org/wiki/Document_management_system) (DMS) is a system used to receive, track, manage and store documents and reduce paper.
+L0 （ DMS ）是一种用于接收、跟踪、管理和存储文档并减少纸张的系统。
 
 - [BentoPDF](https://bentopdf.com) `⚠` - 功能强大、以隐私为先的客户端PDF工具包，可让您直接在浏览器中操作、编辑、合并和处理PDF文件。(L0, L1) `AGPL-3.0` `Nodejs/Docker`
 - [Bottle Rocket](https://bottle-rocket.app/) - 文档扫描和管理应用程序，兼容Rocketbook和Scribzee格式。（ L0 ） `MIT` `C#/Docker`
@@ -835,7 +835,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-An [integrated library system](https://en.wikipedia.org/wiki/Integrated_library_system) is an enterprise resource planning system for a library, used to track items owned, orders made, bills paid, and patrons who have borrowed.
+L0是图书馆的企业资源规划系统，用于跟踪所拥有的物品、订单、支付的账单和借阅的订阅会员。
 
 _Related: [Content Management Systems (CMS) 内容管理系统（CMS）](#content-management-systems-cms), [Archiving and Digital Preservation (DP) 存档与数字化保存（DP）](#archiving-and-digital-preservation-dp)_
 
@@ -892,7 +892,7 @@ _Related: [Community-Supported Agriculture (CSA) 社区支持农业（CSA）](#c
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed a feed aggregator, feed reader, news reader, [RSS](https://en.wikipedia.org/wiki/RSS) reader, is an application that aggregates web content such as newspapers/blogs/vlogs/podcasts in one location for easy viewing.
+L0 ，也称为Feed聚合器、Feed阅读器、新闻阅读器、L1阅读器，是一种将报纸/博客/视频博客/播客等网络内容聚合在一个位置以方便查看的应用程序。
 
 - [Bubo Reader](https://github.com/georgemandis/bubo-rss) - 不合理的最小RSS源阅读器。（ L0 ） `MIT` `Nodejs`
 - [CommaFeed](https://www.commafeed.com/) - 受Google Reader启发的RSS阅读器。(L0, L1) `Apache-2.0` `Java/Docker`
@@ -952,7 +952,7 @@ _Related: [Groupware 群件](#groupware)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Network distributed filesystems.
+网络分布式文件系统。
 
 **请访问 [awesome-sysadmin/Distributed Filesystems](https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems)**
 
@@ -993,7 +993,7 @@ Network distributed filesystems.
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Simplified file servers for sharing of one-time/short-lived/temporary files, providing single-click or [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) upload functionality.
+简化的文件服务器，用于共享一次性/短期/临时文件，提供单击或L0上传功能。
 
 - [015](https://send.fudaoyuan.icu) - 临时文件共享平台。专注于提供一次性、临时的文件和文本上传、处理和共享服务。（ L0 ） `AGPL-3.0` `Docker`
 - [Chibisafe](https://chibisafe.app) - 旨在易于使用和设置的文件上传服务。它接受文件，照片，文件，任何您想象的东西，并为您提供一个可共享的链接，供您发送给其他人。（ L0 ） `MIT` `Docker/Nodejs`
@@ -1030,7 +1030,7 @@ Simplified file servers for sharing of one-time/short-lived/temporary files, pro
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Web-based [file managers](https://en.wikipedia.org/wiki/File_manager).
+基于Web的L0。
 
 _Related: [Groupware 群件](#groupware)_
 
@@ -1056,7 +1056,7 @@ _Related: [Groupware 群件](#groupware)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Multiplayer game servers and [browser games](https://en.wikipedia.org/wiki/Browser_game).
+多人游戏服务器和L0。
 
 _Related: [Games - Administrative Utilities & Control Panels 游戏 - 管理工具与控制面板](#games---administrative-utilities--control-panels)_
 
@@ -1086,7 +1086,7 @@ _Related: [Games - Administrative Utilities & Control Panels 游戏 - 管理工�
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Utilities for managing game servers and game libraries.
+用于管理游戏服务器和游戏库的实用程序。
 
 _Related: [Games 游戏](#games)_
 
@@ -1154,7 +1154,7 @@ _Related: [Games 游戏](#games)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborative_software) is designed to help people working on a common task to attain their goals. Groupware often regroups multiple services such as file sharing, calendar/events management, appointment scheduling, address books... in a single, integrated application.
+协作软件或L0旨在帮助从事共同任务的人员实现其目标。群件通常会在单个集成应用程序中重新组合多个服务，例如文件共享、日历/事件管理、约会安排、地址簿……。
 
 _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling)_
 
@@ -1194,7 +1194,7 @@ _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data.
+L0结合了许多系统和流程，以确保L1、业务流程和数据的轻松管理。
 
 - [admidio](https://www.admidio.org/) - 适用于组织和团体网站的用户管理系统。系统具有灵活的角色模型，因此可以反映组织的结构和权限。(L0, L1) `GPL-2.0` `PHP/Docker`
 - [Frappe HR](https://frappe.io/hr) - 完整的人力资源管理系统解决方案，包含超过13个不同的模块，从员工管理、入职、休假到薪资、税务等。(L0) `GPL-3.0` `Docker/Python/Nodejs`
@@ -1288,7 +1288,7 @@ _Related: [Note-taking & Editors 笔记与编辑器](#note-taking--editors), [Wi
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Tools and software to help with education and learning.
+帮助教育和学习的工具和软件。
 
 - [Canvas LMS](https://www.instructure.com/canvas/) - 学习管理系统（ LMS ）正在彻底改变我们的教育方式。（ L0 ） `AGPL-3.0` `Ruby`
 - [Chamilo LMS](https://chamilo.org/) - 创建一个在线或半在线培训的虚拟校园。（ L0 ） `GPL-3.0` `PHP`
@@ -1312,7 +1312,7 @@ Tools and software to help with education and learning.
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CNC machines](https://en.wikipedia.org/wiki/Numerical_control) and other physical manufacturing tools.
+用于管理L0、L1和其他物理制造工具的软件。
 
 - [CNCjs](https://cnc.js.org/) - 运行Grbl、Smoothieware或TinyG的数控铣削控制器的Web界面。（ L0 ） `MIT` `Nodejs`
 - [Fluidd](https://docs.fluidd.xyz/) - 3D打印机固件Klipper的轻量级和响应式用户界面。（ L0 ） `GPL-3.0` `Docker/Nodejs`
@@ -1434,17 +1434,17 @@ _Related: [Media Management 媒体管理](#media-management)_
 - [moOde Audio](https://moodeaudio.org/) - 发烧友品质的音乐播放，适用于美妙的Raspberry Pi系列单板电脑。（ L0 ） `GPL-3.0` `PHP`
 - [Mopidy](https://docs.mopidy.com/) `⚠` - 可扩展的音乐服务器。提供MPD API的超集，以及与Spotify、SoundCloud等第三方服务的集成。（ L0 ） `Apache-2.0` `Python/deb`
 - [mpd](https://www.musicpd.org/) - 守护进程可远程播放音乐、流式传输音乐、处理和组织播放列表。许多客户可用。（ L0、L1 ） `GPL-2.0` `C++`
-- [mStream](https://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. (L0) `GPL-3.0` `Nodejs`
-- [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - Scrobble plays from multiple sources to multiple scrobbling services. (L0) `MIT` `Nodejs/Docker`
-- [musikcube](https://github.com/clangen/musikcube) - Streaming audio server with Linux/macOS/Windows/Android clients. `BSD-3-Clause` `C++/deb`
-- [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. (L0, L1, L2) `GPL-3.0` `Docker/Go`
-- [Pinepods](https://www.pinepods.online/) - Podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. (L0, L1) `GPL-3.0` `Docker`
-- [Polaris](https://github.com/agersant/polaris) - Music browsing and streaming application optimized for large music collections, ease of use and high performance. `MIT` `Rust/Docker`
-- [Snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
-- [Stretto](https://github.com/benkaiser/stretto) `⚠` - Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. (L0, L1) `MIT` `Nodejs`
-- [Supysonic](https://github.com/spl0k/supysonic) - Python implementation of the Subsonic server API. `AGPL-3.0` `Python/deb`
-- [SwingMusic](https://swingmusic.vercel.app/) - Beautiful music player and streaming server for your local audio files. Like a cooler Spotify ... but bring your own music. (L0) `MIT` `Python/Docker`
-- [vod2pod-rss](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+- [mStream](https://mstream.io/) - 带有GUI管理工具的音乐流服务器。在Mac、Windows和Linux上运行。(L0) `GPL-3.0` `Nodejs`
+- [multi-scrobbler](https://foxxmd.github.io/multi-scrobbler) - Scrobble从多个来源播放到多个scrobbling服务。（ L0 ） `MIT` `Nodejs/Docker`
+- [musikcube](https://github.com/clangen/musikcube) - 使用Linux/macOS/Windows/Android客户端流式传输音频服务器。 `BSD-3-Clause` `C++/deb`
+- [Navidrome Music Server](https://www.navidrome.org) - 现代音乐服务器和串流器，兼容Subsonic/Airsonic。（ L0、L1、L2 ） `GPL-3.0` `Docker/Go`
+- [Pinepods](https://www.pinepods.online/) - 支持多用户的播客管理系统。Pinepods利用中央数据库，因此收听时间和主题等内容会随设备而来。(L0, L1) `GPL-3.0` `Docker`
+- [Polaris](https://github.com/agersant/polaris) - 针对大型音乐收藏、易用性和高性能而优化的音乐浏览和流媒体应用程序。 `MIT` `Rust/Docker`
+- [Snapcast](https://github.com/snapcast/snapcast) - 同步多房间音频服务器。 `GPL-3.0` `C++/deb`
+- [Stretto](https://github.com/benkaiser/stretto) `⚠` - 带有Youtube/Soundcloud导入和iTunes/Spotify探索功能的音乐播放器。(L0, L1) `MIT` `Nodejs`
+- [Supysonic](https://github.com/spl0k/supysonic) - Subsonic服务器API的Python实现。 `AGPL-3.0` `Python/deb`
+- [SwingMusic](https://swingmusic.vercel.app/) - 美丽的音乐播放器和流媒体服务器，可播放本地音频文件。像一个更酷的Spotify...但带上你自己的音乐。（ L0 ） `MIT` `Python/Docker`
+- [vod2pod-rss](https://github.com/madiele/vod2pod-rss) `⚠` - 将YouTube和Twitch频道转换为播客，无需存储空间。动态将VoD转码为MP3 192k ，生成RSS源以用于播客客户端。 `MIT` `Docker`
 
 
 <a id="media-streaming---multimedia-streaming"></a>
@@ -1456,22 +1456,22 @@ _Related: [Media Management 媒体管理](#media-management)_
 
 _Related: [Media Streaming - Video Streaming 媒体流 - 视频流](#media-streaming---video-streaming), [Media Streaming - Audio Streaming 媒体流 - 音频流](#media-streaming---audio-streaming), [Media Management 媒体管理](#media-management)_
 
-- [ClipBucket](https://clipbucket.fr/) - Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes. (L0, L1) `AAL` `Docker/PHP`
-- [cmyflix](https://github.com/farfalleflickan/cmyflix) - Minimalist Plex/Jellyfin alternative to stream video. `AGPL-3.0` `C/deb`
-- [Gerbera](https://gerbera.io/) - UPnP Media Server, which allows you to stream your digital media throughout your home network and listen to/watch it on a variety of UPnP compatible devices. (L0) `GPL-2.0` `Docker/deb/C++`
-- [Icecast 2](https://icecast.org) - Streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. (L0, L1) `GPL-2.0` `C`
-- [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. (L0, L1, L2) `GPL-2.0` `C#/deb/Docker`
-- [Karaoke Eternal](https://www.karaoke-eternal.com) - Host awesome karaoke parties where everyone can easily find and queue songs from their phone's browser. The player is also fully browser-based with support for MP3+G, MP4 and WebGL visualizations. (L0) `ISC` `Docker/Nodejs`
-- [Kodi](https://kodi.tv/) - Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. (L0) `GPL-2.0` `C++/deb`
-- [Kyoo](https://github.com/zoriya/kyoo) - Innovative media browser designed for seamless streaming of anime, series and movies, offering advanced features like dynamic transcoding, auto watch history and intelligent metadata retrieval. (L0) `GPL-3.0` `Docker`
-- [MediaMTX](https://mediamtx.org) - Ready-to-use, zero-dependency real-time media server and proxy to publish, read, record, playback and route video/audio streams over SRT, WebRTC, RTSP, RTMP, HLS, MPEG-TS, RTP. (L0, L1) `MIT` `Go/Docker`
-- [Meelo](https://github.com/Arthi-chaud/Meelo) - Personal Music Server, designed for collectors and music maniacs. `GPL-3.0` `Docker`
-- [MistServer](https://mistserver.org/) - Public domain streaming media server that works with any device and any format. (L0) `Unlicense` `C++`
-- [NymphCast](http://nyanko.ws/nymphcast.php) - Turn your choice of Linux-capable hardware into an audio and video source for a television or powered speakers (alternative to Chromecast). (L0) `BSD-3-Clause` `C++`
-- [Rygel](https://gnome.pages.gitlab.gnome.org/rygel/) - UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller. (L0) `LGPL-2.1` `C`
-- [Stash](https://stashapp.cc) - Web-based library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. (L0) `AGPL-3.0` `Docker/Go`
-- [µStreamer](https://github.com/pikvm/ustreamer) - Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. `GPL-3.0` `C/deb`
-- [üWave](https://u-wave.net/) `⚠` - Collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud. (L0, L1) `MIT` `Nodejs`
+- [ClipBucket](https://clipbucket.fr/) - 只需几分钟即可创建自己的视频共享网站（ YouTube/Netflix Clone ）。(L0, L1) `AAL` `Docker/PHP`
+- [cmyflix](https://github.com/farfalleflickan/cmyflix) - 视频流的极简主义Plex/Jellyfin替代品。 `AGPL-3.0` `C/deb`
+- [Gerbera](https://gerbera.io/) - UPnP媒体服务器，它允许您在整个家庭网络中流式传输数字媒体，并在各种UPnP兼容设备上收听/观看。（ L0 ） `GPL-2.0` `Docker/deb/C++`
+- [Icecast 2](https://icecast.org) - 流式音频/视频服务器，可用于创建互联网广播电台或私人运行的点唱机以及介于两者之间的许多东西。(L0, L1) `GPL-2.0` `C`
+- [Jellyfin](https://jellyfin.org) - 用于音频、视频、书籍、漫画和照片的媒体服务器，具有时尚的界面和强大的转码功能。几乎所有现代平台都有客户端，包括Roku、Android TV、iOS和Kodi。（ L0、L1、L2 ） `GPL-2.0` `C#/deb/Docker`
+- [Karaoke Eternal](https://www.karaoke-eternal.com) - 举办精彩的卡拉OK派对，每个人都可以通过手机浏览器轻松查找歌曲并排队。该播放器还完全基于浏览器，支持MP3 + G、MP4和WebGL可视化。（ L0 ） `ISC` `Docker/Nodejs`
+- [Kodi](https://kodi.tv/) - 多媒体/娱乐中心，以前称为XBMC。可在Android、BSD、Linux、macOS、iOS和Windows上运行。(L0) `GPL-2.0` `C++/deb`
+- [Kyoo](https://github.com/zoriya/kyoo) - 创新的媒体浏览器，专为动漫、剧集和电影的无缝流式传输而设计，提供动态转码、自动观看历史记录和智能元数据检索等高级功能。(L0) `GPL-3.0` `Docker`
+- [MediaMTX](https://mediamtx.org) - 随时可用、零依赖的实时媒体服务器和代理，通过SRT、WebRTC、RTSP、RTMP、HLS、MPEG-TS、RTP发布、读取、录制、播放和路由视频/音频流。(L0, L1) `MIT` `Go/Docker`
+- [Meelo](https://github.com/Arthi-chaud/Meelo) - 专为收藏家和音乐狂人设计的个人音乐服务器。 `GPL-3.0` `Docker`
+- [MistServer](https://mistserver.org/) - 适用于任何设备和任何格式的公共域流媒体服务器。（ L0 ） `Unlicense` `C++`
+- [NymphCast](http://nyanko.ws/nymphcast.php) - 将您选择的支持Linux的硬件转变为电视或带电扬声器（ Chromecast的替代品）的音频和视频源。（ L0 ） `BSD-3-Clause` `C++`
+- [Rygel](https://gnome.pages.gitlab.gnome.org/rygel/) - UPnP AV MediaServer允许您轻松共享音频、视频和图片。媒体播放器软件可以使用Rygel成为可由UPnP或DLNA控制器远程控制的MediaRenderer。(L0) `LGPL-2.1` `C`
+- [Stash](https://stashapp.cc) - 成人媒体存储的基于Web的库管理器和播放器，具有自动标记和元数据抓取支持。(L0) `AGPL-3.0` `Docker/Go`
+- [µStreamer](https://github.com/pikvm/ustreamer) - 轻量级且非常快速的服务器，可将MJPEG视频从任何V4L2设备流式传输到网络。 `GPL-3.0` `C/deb`
+- [üWave](https://u-wave.net/) `⚠` - 协作聆听平台。用户轮流从YouTube和SoundCloud等各种媒体来源播放媒体，包括歌曲、演讲、游戏视频或其他任何内容。(L0, L1) `MIT` `Nodejs`
 
 
 <a id="media-streaming---video-streaming"></a>
@@ -1483,20 +1483,20 @@ _Related: [Media Streaming - Video Streaming 媒体流 - 视频流](#media-strea
 
 _Related: [Video Surveillance 视频监控](#video-surveillance), [Media Streaming - Multimedia Streaming 媒体流 - 多媒体流](#media-streaming---multimedia-streaming), [Photo Galleries 相册](#photo-galleries), [Media Management 媒体管理](#media-management)_
 
-- [CyTube](https://github.com/calzoneman/sync) - Synchronize media, chat, and more for an arbitrary number of channels. (L0) `MIT` `Nodejs`
-- [Invidious](https://github.com/iv-org/invidious) `⚠` - Alternative YouTube front-end. (L0) `AGPL-3.0` `Docker/Crystal`
-- [MediaCMS](https://mediacms.io) - Modern, fully featured video and media CMS, written in Python/Django/React, featuring a REST API. (L0) `AGPL-3.0` `Python/Docker`
-- [OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - Streaming Server with Sub-Second Latency. (L0) `AGPL-3.0` `C++/Docker`
-- [Owncast](https://owncast.online/) - Decentralized single-user live video streaming and chat server for running your own live streams similar in style to the large mainstream options. (L0) `MIT` `Go`
-- [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser. (L0) `AGPL-3.0` `Nodejs`
-- [Rapidbay](https://github.com/hauxir/rapidbay/) - Videostreaming service/torrent client that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`
-- [Restreamer](https://datarhei.github.io/restreamer/) - Access H.264 real-time video streaming on your website without a streaming provider. (L0) `Apache-2.0` `Nodejs/Docker`
-- [SRS](https://ossrs.io/) - Simple, high efficiency and real-time video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT. (L0) `MIT` `Docker/C++`
-- [SyncTube](https://github.com/RblSb/SyncTube) - Lightweight and very simple to setup CyTube alternative to watch videos with friends and chat. `MIT` `Nodejs/Haxe`
-- [Tiramisu](https://github.com/MrRobotoGit/tiramisu) - BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid). `GPL-2.0` `Go/Docker`
-- [Tube Archivist](https://tubearchivist.com/) `⚠` - Organize, search, and enjoy your YouTube collection. Subscribe, download, and track viewed content with metadata indexing and a user-friendly interface. (L0, L1) `GPL-3.0` `Docker`
-- [Tube](https://git.mills.io/prologic/tube) - Youtube-like (without censorship and features you don't need!) video sharing app written in Go which also supports automatic transcoding to MP4 H.265 AAC, multiple collections and RSS feed. `MIT` `Go`
-- [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. (L0) `GPL-2.0` `C/deb`
+- [CyTube](https://github.com/calzoneman/sync) - 同步任意数量频道的媒体、聊天等。（ L0 ） `MIT` `Nodejs`
+- [Invidious](https://github.com/iv-org/invidious) `⚠` - 另类YouTube前端。（ L0 ） `AGPL-3.0` `Docker/Crystal`
+- [MediaCMS](https://mediacms.io) - 用Python/Django/React编写的现代化、功能齐全的视频和媒体CMS ，具有REST API。（ L0 ） `AGPL-3.0` `Python/Docker`
+- [OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) - 具有亚秒延迟的流媒体服务器。（ L0 ） `AGPL-3.0` `C++/Docker`
+- [Owncast](https://owncast.online/) - 去中心化的单用户实时视频流和聊天服务器，用于运行自己的实时流，风格类似于大型主流选项。（ L0 ） `MIT` `Go`
+- [PeerTube](https://joinpeertube.org/en/) - 直接在网络浏览器中使用P2P （ BitTorrent ）的去中心化视频流平台。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Rapidbay](https://github.com/hauxir/rapidbay/) - 视频流服务/种子客户端，允许从浏览器中的种子或从Chromecast/AppleTV/智能电视中搜索和播放视频。 `MIT` `Python/Docker`
+- [Restreamer](https://datarhei.github.io/restreamer/) - 无需流媒体提供商即可在您的网站上访问H.264实时视频流。(L0) `Apache-2.0` `Nodejs/Docker`
+- [SRS](https://ossrs.io/) - 简单、高效、实时的视频服务器，支持RTMP、WebRTC、HLS、HTTP-FLV和SRT。（ L0 ） `MIT` `Docker/C++`
+- [SyncTube](https://github.com/RblSb/SyncTube) - 轻巧且设置非常简单的CyTube替代方案，可与朋友一起观看视频和聊天。 `MIT` `Nodejs/Haxe`
+- [Tiramisu](https://github.com/MrRobotoGit/tiramisu) - 带有FUSE虚拟文件系统的BitTorrent引擎，无需下载即可将种子实时流式传输到Plex/Jellyfin （ Real-Debrid的替代品）。 `GPL-2.0` `Go/Docker`
+- [Tube Archivist](https://tubearchivist.com/) `⚠` - 整理、搜索和欣赏您的YouTube收藏。使用元数据索引和用户友好界面订阅、下载和跟踪已查看的内容。(L0, L1) `GPL-3.0` `Docker`
+- [Tube](https://git.mills.io/prologic/tube) - 类似于Youtube （无需审查和您不需要的功能！ ）用Go编写的视频共享应用程序，它还支持自动转码为MP4 H.265 AAC ，多个集合和RSS源。 `MIT` `Go`
+- [VideoLAN Client (VLC)](https://www.videolan.org/) - 跨平台多媒体播放器客户端和服务器，支持大多数多媒体文件以及DVD、音频CD、VCD和各种流媒体协议。（ L0 ） `GPL-2.0` `C/deb`
 
 
 <a id="miscellaneous"></a>
@@ -1504,82 +1504,82 @@ _Related: [Video Surveillance 视频监控](#video-surveillance), [Media Streami
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software that does not fit in another section.
+不适合其他部分的软件。
 
-- [2FAuth](https://github.com/Bubka/2FAuth) - Manage your Two-Factor Authentication (2FA) accounts and generate their security codes. (L0) `AGPL-3.0` `PHP/Docker`
-- [Anchr](https://anchr.io) - Toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. (L0) `GPL-3.0` `Nodejs`
-- [Anubis](https://anubis.techaro.lol/) - Web AI firewall utility which protects upstream resources from scraper bots. (L0) `MIT` `Docker/deb/Go`
-- [asciinema](https://asciinema.org/) - Web app for hosting asciicasts. (L0, L1) `Apache-2.0` `Elixir/Docker`
-- [Baby Buddy](https://github.com/babybuddy/babybuddy) - Helps caregivers track baby sleep, feedings, diaper changes, and tummy time. (L0) `BSD-2-Clause` `Python`
-- [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
-- [Cloudlog](https://magicbug.co.uk/cloudlog/) - Log your amateur radio contacts anywhere. (L0) `MIT` `PHP/Docker`
-- [ConvertX](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
-- [CUPS](https://www.cups.org/) - Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. (L0) `GPL-2.0` `C`
-- [CyberChef](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. (L0) `Apache-2.0` `Javascript`
-- [Digiboard](https://digiboard.app/) - Create collaborative whiteboards (documentation in French). (L0) `AGPL-3.0` `Nodejs`
-- [Digicard](https://codeberg.org/ladigitale/digicard) - Create simple graphic compositions (documentation in French). (L0) `AGPL-3.0` `Nodejs`
-- [Digicut](https://ladigitale.dev/digicut/) - Cut audio and video files using FFMPEG.wasm (documentation in French). (L0) `AGPL-3.0` `Nodejs`
-- [Digiface](https://ladigitale.dev/digiface/) - Create avatars using the Avataaars library (documentation in French). (L0, L1) `AGPL-3.0` `Nodejs`
-- [Digiflashcards](https://ladigitale.dev/digiflashcards/) - Online application to create flashcards (documentation in French). (L0) `AGPL-3.0` `Nodejs/PHP`
-- [Digimerge](https://ladigitale.dev/digimerge/) - Assemble audio and video files directly in your browser (documentation in French). (L0, L1) `AGPL-3.0` `Nodejs`
-- [Digiquiz](https://ladigitale.dev/digiquiz/) - Online application to publish content created with H5P (documentation in French). (L0) `AGPL-3.0` `Nodejs`
-- [Digiread](https://ladigitale.dev/digiread/) `⚠` - Clean up online pages and articles using Mozilla's Readability (documentation in French). (L0) `AGPL-3.0` `Nodejs/PHP`
-- [Digisteps](https://ladigitale.dev/digisteps/) - Simple application for creating online educational paths (documentation in French). (L0) `AGPL-3.0` `Nodejs/PHP`
-- [Digitranscode](https://ladigitale.dev/digitranscode) - Convert audio files and videos directly in the browser (documentation in French). (L0, L1) `AGPL-3.0` `Nodejs`
-- [Digiview](https://ladigitale.dev/digiview/) `⚠` - View YouTube videos in a distraction-free interface (documentation in French). (L0, L1) `AGPL-3.0` `Nodejs/PHP`
-- [Digiwords](https://ladigitale.dev/digiwords/) - Simple online application for creating word clouds (documentation in French). (L0) `AGPL-3.0` `Nodejs/PHP`
-- [DOCAT](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
-- [Domain Locker](https://domain-locker.com) - Domain name portfolio management and tracker. (L0, L1) `MIT` `Deno/Docker`
-- [DOMJudge](https://www.domjudge.org/) - System for running a programming contest, like the ICPC regional and world championship programming contests. (L0, L1) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
-- [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. (L0, L1) `AGPL-3.0` `PHP`
-- [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. (L0) `AGPL-3.0` `Python/Docker/deb`
-- [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. (L0, L1) `MIT` `Docker`
-- [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - Digital signage device and content management system with SMIL playlist support and scheduling. (L0) `AGPL-3.0` `Docker`
-- [Geeftlist](https://codeberg.org/nanawel/geeftlist) - Collaborative platform for managing, sharing and reserving gifts between friends and family. `GPL-3.0` `Docker`
-- [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. (L0) `MIT` `Nodejs`
-- [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. (L0) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
-- [HortusFox](https://hortusfox.github.io) - Collaborative plant management and tracking system for plant enthusiasts. (L0) `MIT` `PHP/Docker`
-- [ImgCompress](https://imgcompress.karimzouine.com) - Image processing tool that runs entirely in Docker. Compress, convert, resize, batch-process images, and remove backgrounds using local AI without cloud dependencies. (L0) `GPL-3.0` `Docker`
-- [Infisical Community Edition](https://infisical.com/) - Platform for secrets, certificates, and privileged access management. (L0) `MIT` `Docker/K8S/deb`
-- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - Block and skip sponsors, while also muting and skipping ads on YouTube. `GPL-3.0` `Docker/Python`
-- [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - Collection of handy online tools for developers (fork of it-tools). (L0) `GPL-3.0` `Docker`
-- [Jelu](https://bayang.github.io/jelu-web) - Read and to-read list book tracker. (L0) `MIT` `Java/Docker`
-- [jetlog](https://github.com/pbogre/jetlog) - Personal flight tracker and viewer. `GPL-2.0` `Docker`
-- [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. (L0, L1) `GPL-3.0` `Docker`
-- [Koillection](https://koillection.github.io/) - Service allowing users to manage any kind of collections. (L0) `MIT` `Docker/PHP`
-- [LanguageTool](https://languagetool.org/) - Proofread more than 20 languages. It finds many errors that a simple spell checker cannot detect. (L0, L1) `LGPL-2.1` `Java/Docker`
-- [Libre Translate](https://libretranslate.com/) - Machine Translation API. (L0) `AGPL-3.0` `Docker/Python`
-- [LubeLogger](https://lubelogger.com) - Web-based vehicle maintenance and fuel mileage tracker. (L0, L1) `MIT` `Docker/K8S/C#`
-- [Mirumoji](https://svdc1.github.io/mirumoji/docs) - Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation. (L0, L1) `MIT` `Docker/Python`
-- [mosparo](https://mosparo.io/) - Modern spam protection tool. It replaces other captcha methods with a simple and easy to use spam protection solution. (L0) `MIT` `PHP`
-- [Movary](https://github.com/leepeuker/movary) `⚠` - Web app to track and rate your watched movies. (L0) `MIT` `Docker/PHP`
-- [Neko](https://neko.m1k1o.net) - Virtual browser that runs in docker and uses WebRTC. (L0) `Apache-2.0` `Docker/Go`
-- [OmniTools](https://omnitools.app/) - Collection of powerful web-based tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). (L0) `MIT` `Docker`
-- [Open-Meteo](https://open-meteo.com/) - Weather API with open-data forecasts, historical and climate data from all major national weather services. (L0, L1) `AGPL-3.0` `Docker`
-- [OpenReader](https://docs.openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. (L0) `MIT` `Docker`
-- [OpenZiti](https://openziti.io/) - Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es. (L0) `Apache-2.0` `Go`
-- [Operational.co](https://operational.co) - Receive alerts in a live timeline from your product. (L0, L1) `AGPL-3.0` `Nodejs/Docker`
-- [penpot](https://penpot.app/) - Web-based design and prototyping platform meant for cross-domain teams. (L0) `MPL-2.0` `Docker`
-- [POMjs](https://password.oppetmoln.se/) - Random password generator. (L0) `GPL-2.0` `Javascript`
-- [Pønskelisten](https://github.com/aunefyren/poenskelisten) - Sharing wishlists and collaborating on gifts and presents. `GPL-3.0` `Docker/Go`
-- [re:Director](https://re-director.github.io/) - Simple domain redirection management tool. (L0) `Apache-2.0` `Java/Docker`
-- [Reactive Resume](https://rxresu.me/) - One-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable and portable. (L0, L1) `MIT` `Docker/Nodejs`
-- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. (L0, L1) `MIT` `Javascript`
-- [Revive Adserver](https://www.revive-adserver.com/) - Ad serving system. Formerly known as OpenX Adserver and phpAdsNew. (L0) `GPL-2.0` `PHP`
-- [SANE Network Scanning](http://sane-project.org/) - Allow remote clients to access image acquisition devices (scanners) available on the local host. (L0) `GPL-2.0` `C`
-- [string.is](https://string.is/) - Online string toolkit for developers. (L0) `AGPL-3.0` `Nodejs`
-- [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. (L0) `Apache-2.0` `Go/Docker/K8S`
-- [TeslaMate](https://github.com/teslamate-org/teslamate) - Powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
-- [Transmute](https://transmute.sh) - File converter for images, video, audio, json, excel and more. Supports over 2,000 conversions!. (L0) `MIT` `Docker`
-- [URL-to-PNG](https://github.com/jasonraimondi/url-to-png) - URL to PNG utility featuring parallel rendering using Playwright for screenshots and with storage caching via Local, S3, or CouchDB. `MIT` `Nodejs/Docker`
-- [Usertour](https://www.usertour.io/) - User onboarding platform allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly. (L0) `AGPL-3.0` `Docker`
-- [Warracker](https://warracker.com) - Warranty tracker that lets you monitor expiry dates, upload receipts/files, and get alerts before warranties expire. (L0) `AGPL-3.0` `Docker`
-- [Wavelog](https://www.wavelog.org) - Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. (L0, L1) `MIT` `PHP/Docker`
-- [WeeWX](https://weewx.com/) - Software for your weather station. (L0, L1) `GPL-3.0` `Python/deb`
-- [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. (L0) `MIT` `Docker/Nodejs`
-- [Wishlist](https://github.com/cmintey/wishlist) - Wishlist application that you can share with your friends and family. `MIT` `Docker/K8S`
-- [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) `⚠` - Media tracker for movies, tv shows, anime, manga, video games and books. (L0) `AGPL-3.0` `Docker/Python`
-- [Zero-TOTP](https://zero-totp.com) - Complete, reliable, secure and zero-trust webapp based on zero-knowledge encryption to store your TOTP codes. (L0) `GPL-3.0` `Docker`
+- [2FAuth](https://github.com/Bubka/2FAuth) - 管理您的双重身份验证（ 2FA ）账号并生成其安全码。(L0) `AGPL-3.0` `PHP/Docker`
+- [Anchr](https://anchr.io) - 用于互联网上小任务的工具箱，包括书签集合、URL缩短和（加密）图像上传。（ L0 ） `GPL-3.0` `Nodejs`
+- [Anubis](https://anubis.techaro.lol/) - Web AI防火墙实用程序，用于保护上游资源免受爬虫机器人的攻击。（ L0 ） `MIT` `Docker/deb/Go`
+- [asciinema](https://asciinema.org/) - 用于托管asciicast的Web应用程序。(L0, L1) `Apache-2.0` `Elixir/Docker`
+- [Baby Buddy](https://github.com/babybuddy/babybuddy) - 帮助护理人员跟踪婴儿的睡眠、喂养、尿布更换和肚子时间。（ L0 ） `BSD-2-Clause` `Python`
+- [ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - 无需按下任何按钮，即可在多台设备上即时同步剪贴板。它适用于Windows、macOS、Linux和Android ，通过端到端数据加密提供无缝和安全的剪贴板共享。 `GPL-3.0` `Java/Docker`
+- [Cloudlog](https://magicbug.co.uk/cloudlog/) - 随时随地记录您的业余无线电联系人。（ L0 ） `MIT` `PHP/Docker`
+- [ConvertX](https://github.com/C4illin/ConvertX) - 在线文件转换器，支持一千多种不同格式。 `AGPL-3.0` `Docker`
+- [CUPS](https://www.cups.org/) - 通用Unix打印系统使用互联网打印协议(IPP)来支持打印到本地和网络打印机。(L0) `GPL-2.0` `C`
+- [CyberChef](https://github.com/gchq/CyberChef) - 在Web浏览器中执行各种操作，如AES、DES和Blowfish加密和解密、创建十六进制转储、计算哈希等。（ L0 ） `Apache-2.0` `Javascript`
+- [Digiboard](https://digiboard.app/) - 创建协作白板（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Digicard](https://codeberg.org/ladigitale/digicard) - 创建简单的图形作品（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Digicut](https://ladigitale.dev/digicut/) - 使用FFMPEG.wasm剪切音频和视频文件（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Digiface](https://ladigitale.dev/digiface/) - 使用Avataaars库（法语文档）创建头像。(L0, L1) `AGPL-3.0` `Nodejs`
+- [Digiflashcards](https://ladigitale.dev/digiflashcards/) - 在线申请创建抽认卡（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs/PHP`
+- [Digimerge](https://ladigitale.dev/digimerge/) - 直接在浏览器中组合音频和视频文件（法语文档）。(L0, L1) `AGPL-3.0` `Nodejs`
+- [Digiquiz](https://ladigitale.dev/digiquiz/) - 发布使用H5P创建的内容的在线应用程序（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Digiread](https://ladigitale.dev/digiread/) `⚠` - 使用Mozilla的可读性（法语文档）清理在线页面和文章。（ L0 ） `AGPL-3.0` `Nodejs/PHP`
+- [Digisteps](https://ladigitale.dev/digisteps/) - 创建在线教育路径的简单应用程序（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs/PHP`
+- [Digitranscode](https://ladigitale.dev/digitranscode) - 直接在浏览器中转换音频文件和视频（法语文档）。(L0, L1) `AGPL-3.0` `Nodejs`
+- [Digiview](https://ladigitale.dev/digiview/) `⚠` - 在无干扰的界面中观看YouTube视频（法语文档）。(L0, L1) `AGPL-3.0` `Nodejs/PHP`
+- [Digiwords](https://ladigitale.dev/digiwords/) - 用于创建词云的简单在线应用程序（法语文档）。（ L0 ） `AGPL-3.0` `Nodejs/PHP`
+- [DOCAT](https://github.com/docat-org/docat) - 托管您的文档。简单。版本化。花哨。 `MIT` `Python/Docker`
+- [Domain Locker](https://domain-locker.com) - 域名投资组合管理和跟踪器。(L0, L1) `MIT` `Deno/Docker`
+- [DOMJudge](https://www.domjudge.org/) - 运行编程竞赛的系统，如ICPC区域和世界锦标赛编程竞赛。(L0, L1) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
+- [ESMira](https://esmira.kl.ac.at) - 进行纵向研究（ ESM、AA、EMA ） ，数据收集和与参与者的沟通完全匿名。(L0, L1) `AGPL-3.0` `PHP`
+- [F-Droid](https://f-droid.org) - 用于维护F-Droid存储库系统的服务器工具。（ L0 ） `AGPL-3.0` `Python/Docker/deb`
+- [Flyimg](https://flyimg.io) - 动态调整图像大小和裁剪图像。借助高效的缓存系统，使用ImageMagick使用MozJPEG、WebP或PNG获取优化的图像。(L0, L1) `MIT` `Docker`
+- [Garlic-Hub](https://garlic-signage.com/garlic-hub/) - 具有SMIL播放列表支持和调度的数字标牌设备和内容管理系统。（ L0 ） `AGPL-3.0` `Docker`
+- [Geeftlist](https://codeberg.org/nanawel/geeftlist) - 用于管理、分享和保留亲朋好友之间礼物的协作平台。 `GPL-3.0` `Docker`
+- [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) `⚠` - 轻松自助托管Google字体。获取eot、ttf、svg、woff和woff2文件+ CSS代码段。（ L0 ） `MIT` `Nodejs`
+- [Habitica](https://habitica.com/) - 习惯跟踪器应用程序，将您的目标视为角色扮演游戏。（ L0 ） `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
+- [HortusFox](https://hortusfox.github.io) - 针对工厂爱好者的协同工厂管理和跟踪系统。（ L0 ） `MIT` `PHP/Docker`
+- [ImgCompress](https://imgcompress.karimzouine.com) - 完全在Docker中运行的图像处理工具。使用本地AI压缩、转换、调整大小、批量处理图像和删除背景，而无需云依赖关系。（ L0 ） `GPL-3.0` `Docker`
+- [Infisical Community Edition](https://infisical.com/) - 用于机密、证书和特权访问管理的平台。（ L0 ） `MIT` `Docker/K8S/deb`
+- [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - 屏蔽和跳过赞助商，同时在YouTube上静音和跳过广告。 `GPL-3.0` `Docker/Python`
+- [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - 为开发人员收集方便的在线工具（分叉工具）。（ L0 ） `GPL-3.0` `Docker`
+- [Jelu](https://bayang.github.io/jelu-web) - 阅读和待读列表书跟踪器。（ L0 ） `MIT` `Java/Docker`
+- [jetlog](https://github.com/pbogre/jetlog) - 个人航班跟踪器和查看器。 `GPL-2.0` `Docker`
+- [Kasm Workspaces](https://kasmweb.com/) - 向最终用户流式传输容器化应用程序和桌面。示例包括浏览器中的Ubuntu ，或简单的单个应用程序，如Chrome、OpenOffice、Gimp、Filezilla等。(L0, L1) `GPL-3.0` `Docker`
+- [Koillection](https://koillection.github.io/) - 允许用户管理任何类型的集合的服务。（ L0 ） `MIT` `Docker/PHP`
+- [LanguageTool](https://languagetool.org/) - 校对超过20种语言。它会发现许多简单的拼写检查器无法检测到的错误。(L0, L1) `LGPL-2.1` `Java/Docker`
+- [Libre Translate](https://libretranslate.com/) - 机器翻译API。(L0) `AGPL-3.0` `Docker/Python`
+- [LubeLogger](https://lubelogger.com) - 基于网络的车辆维护和燃油里程跟踪器。(L0, L1) `MIT` `Docker/K8S/C#`
+- [Mirumoji](https://svdc1.github.io/mirumoji/docs) - 日语沉浸式工具包，通过字典查找和转录生成提供可点击的标记化字幕。(L0, L1) `MIT` `Docker/Python`
+- [mosparo](https://mosparo.io/) - 现代垃圾邮件防护工具。它用简单易用的垃圾邮件保护解决方案取代了其他验证码方法。（ L0 ） `MIT` `PHP`
+- [Movary](https://github.com/leepeuker/movary) `⚠` - 用于跟踪和评价您观看的电影的网络应用。(L0) `MIT` `Docker/PHP`
+- [Neko](https://neko.m1k1o.net) - 在Docker中运行并使用WebRTC的虚拟浏览器。（ L0 ） `Apache-2.0` `Docker/Go`
+- [OmniTools](https://omnitools.app/) - 用于日常任务（编码、处理图像/视频、PDF或处理数字... ）的强大基于Web的工具集合。（ L0 ） `MIT` `Docker`
+- [Open-Meteo](https://open-meteo.com/) - 天气API ，包含来自所有主要国家天气服务机构的开放数据预报、历史和气候数据。(L0, L1) `AGPL-3.0` `Docker`
+- [OpenReader](https://docs.openreader.richardr.dev/) - EPUB、PDF、DOCX、MD和TXT文件文本到语音文档阅读器。使用高质量的TTS实时阅读文档；或提取有声读物。（ L0 ） `MIT` `Docker`
+- [OpenZiti](https://openziti.io/) - 全功能、零信任、全网状覆盖网络。包括开箱即用的2FA支持，适用于所有主要桌面/移动操作系统的客户端。（ L0 ） `Apache-2.0` `Go`
+- [Operational.co](https://operational.co) - 在产品的实时时间线中接收警报。(L0, L1) `AGPL-3.0` `Nodejs/Docker`
+- [penpot](https://penpot.app/) - 适用于跨领域团队的基于Web的设计和原型设计平台。（ L0 ） `MPL-2.0` `Docker`
+- [POMjs](https://password.oppetmoln.se/) - 随便密码生成器 `GPL-2.0` `Javascript`
+- [Pønskelisten](https://github.com/aunefyren/poenskelisten) - 分享心愿单，合作制作礼物和礼物。 `GPL-3.0` `Docker/Go`
+- [re:Director](https://re-director.github.io/) - 简单的域名重定向管理工具。（ L0 ） `Apache-2.0` `Java/Docker`
+- [Reactive Resume](https://rxresu.me/) - 独一无二的简历生成器，保护您的隐私。完全安全、可定制且便携。(L0, L1) `MIT` `Docker/Nodejs`
+- [revealjs](https://revealjs.com) - 使用HTML轻松创建精美演示文稿的框架。(L0, L1) `MIT` `Javascript`
+- [Revive Adserver](https://www.revive-adserver.com/) - 广告投放系统。以前称为OpenX Adserver和phpAdsNew。（ L0 ） `GPL-2.0` `PHP`
+- [SANE Network Scanning](http://sane-project.org/) - 允许远程客户端访问本地主机上可用的图像采集设备（扫描仪）。（ L0 ） `GPL-2.0` `C`
+- [string.is](https://string.is/) - 面向开发人员的在线字符串工具包。（ L0 ） `AGPL-3.0` `Nodejs`
+- [Teleport](https://goteleport.com/) - SSH、Kubernetes、Web应用程序和数据库的证书授权和访问平面。（ L0 ） `Apache-2.0` `Go/Docker/K8S`
+- [TeslaMate](https://github.com/teslamate-org/teslamate) - 适用于特斯拉汽车的强大数据记录器。 `MIT` `Elixir/Docker`
+- [Transmute](https://transmute.sh) - 图像、视频、音频、json、excel等文件转换器。支持超过2,000次转换！. (L0) `MIT` `Docker`
+- [URL-to-PNG](https://github.com/jasonraimondi/url-to-png) - URL到PNG实用程序，具有并行渲染功能，使用Playwright进行屏幕截图，并通过Local、S3或CouchDB进行存储缓存。 `MIT` `Nodejs/Docker`
+- [Usertour](https://www.usertour.io/) - 用户入门平台，让您可以在几分钟内轻松创建应用内产品导览、检查清单和调查。(L0) `AGPL-3.0` `Docker`
+- [Warracker](https://warracker.com) - 保修跟踪器，可让您监控到期日期，上传收据/文件，并在保修到期前收到警报。（ L0 ） `AGPL-3.0` `Docker`
+- [Wavelog](https://www.wavelog.org) - 面向业余无线电爱好者的基于Web的日志记录软件。增强了浏览器的QSO日志记录、统计和地图。(L0, L1) `MIT` `PHP/Docker`
+- [WeeWX](https://weewx.com/) - 适用于气象站的软件。(L0, L1) `GPL-3.0` `Python/deb`
+- [WeTTY](https://butlerx.github.io/wetty/#/) - 通过http/https的浏览器中的终端。(L0) `MIT` `Docker/Nodejs`
+- [Wishlist](https://github.com/cmintey/wishlist) - 您可以与亲朋好友分享心愿单应用程序。 `MIT` `Docker/K8S`
+- [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) `⚠` - 用于电影、电视节目、动漫、漫画、视频游戏和书籍的媒体跟踪器。（ L0 ） `AGPL-3.0` `Docker/Python`
+- [Zero-TOTP](https://zero-totp.com) - 基于零知识加密的完整、可靠、安全和零信任的网络应用程序，可存储您的TOTP代码。(L0) `GPL-3.0` `Docker`
 
 
 <a id="money-budgeting--management"></a>
@@ -1591,43 +1591,43 @@ Software that does not fit in another section.
 
 _Related: [Inventory Management 库存管理](#inventory-management), [Resource Planning 资源规划](#resource-planning)_
 
-- [Actual](https://actualbudget.org) - Local-first personal finance tool based on zero-sum budgeting, supporting synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. (L0) `MIT` `Nodejs/Docker`
-- [Bigcapital](https://bigcapital.app/) - Financial accounting and inventory management software for small to medium businesses. (L0) `AGPL-3.0` `Docker`
-- [Bitcart](https://bitcart.ai) - Cryptocurrencies payment processor and development platform. (L0, L1) `MIT` `Docker/Python/Nodejs`
-- [BTCPay Server](https://btcpayserver.org/) - Bitcoin and other cryptocurrencies payment processor. (L0, L1) `MIT` `C#`
-- [Budget Board](https://budgetboard.net/) - Simple app for tracking monthly spending and working towards financial goals. (L0) `GPL-3.0` `Docker`
-- [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet peer-to-peer. (L0, L1) `MIT` `Nodejs`
-- [Econumo](https://econumo.com) - Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets. (L0, L1) `MIT` `Docker`
-- [Expensave](https://github.com/algirdasc/expensave) - Expense tracker for personal and family budget management. Track spending on a shared calendar, import bank statements and monitor finances with reports. `GPL-3.0` `Docker`
-- [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - Lightweight personal bookkeeping app hosted by yourself. (L0, L1) `MIT` `Go/Docker`
-- [Family Accounting Tool](https://github.com/nymanjens/facto) - Web-based finance management tool for partners with partially shared expenses. `Apache-2.0` `Scala`
-- [Fava](https://beancount.github.io/fava/) - Web frontend of Beancount, a text based double-entry accounting system. (L0, L1) `MIT` `Python`
-- [Firefly III](https://firefly-iii.org/) - Modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. (L0, L1) `AGPL-3.0` `PHP/Docker`
-- [FOSSBilling](https://fossbilling.org/) - Hosting and billing automation. Integrates with WHM, CWP, cPanel and HestiaCP. Full API and easily extensible. (L0, L1) `Apache-2.0` `PHP/Docker`
-- [Galette](https://galette.eu/) - Membership management web application aimed towards non profit organizations. (L0) `GPL-3.0` `PHP`
-- [Ghostfolio](https://ghostfol.io/) - Wealth management software to keep track of stocks, ETFs and cryptocurrencies. (L0) `AGPL-3.0` `Docker/Nodejs`
-- [GRR](https://grr.devome.com/?lang=en) - Assets management and booking for small/medium companies. (L0) `GPL-2.0` `PHP`
-- [HyperSwitch](https://hyperswitch.io/) `⚠` - Payment switch to make payments fast, reliable and affordable. Connect with multiple payment processors and route traffic effortlessly, all with a single API integration. (L0) `Apache-2.0` `Docker/Rust`
-- [IHateMoney](https://ihatemoney.org/) - Manage your shared expenses, easily. (L0, L1) `BSD-3-Clause` `Docker/Python`
-- [InvoicePlane](https://www.invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. (L0) `MIT` `PHP`
-- [InvoiceShelf](https://invoiceshelf.com/) - Track expenses, payments & create professional invoices & estimates (fork of Crater). (L0) `AGPL-3.0` `PHP/Docker`
-- [Kill Bill](https://killbill.io/) - Subscription billing & payments platform. Have access to real-time analytics and financial reports. (L0) `Apache-2.0` `Java/Docker`
-- [Kresus](https://kresus.org/) - Personal finance manager. (L0, L1) `AGPL-3.0` `Nodejs/Docker`
-- [Lago](https://www.getlago.com/) - Metering and usage-based billing. (L0) `AGPL-3.0` `Docker`
-- [Mybucks.online](https://mybucks.online) - Secure, browser-based, password-only self-custodial cryptocurrency wallet. (L0, L1) `MIT` `Nodejs`
-- [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. (L0, L1, L2) `GPL-3.0` `Nodejs/Docker`
-- [OctoBot](https://www.octobot.cloud/) - Cryptocurrency trading bot. (L0) `GPL-3.0` `Python/Docker`
-- [Ocular](https://simonwep.github.io/ocular/) - Simplistic and straightforward budgeting app to track your budget across months and years. (L0, L1) `MIT` `Docker`
-- [OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - Budgeting app based on the Bucket Budgeting Principle. `AGPL-3.0` `Docker/C#`
-- [Receipt Wrangler](https://receiptwrangler.io) `⚠` - Easy-to-use receipt manager, powered by AI. Allows users to create receipts effortlessly and quickly, categorize and more. (L0, L1) `AGPL-3.0` `Docker`
-- [REI3](https://rei3.de/home_en/) - Manage tasks, time, assets and much more within your business. (L0, L1) `MIT` `Go`
-- [SHKeeper](https://shkeeper.io/) - Cryptocurrency payment processor with the unique combination of gateway and merchant allowing you to accept payments in multiple cryptocurrencies without fees and intermediaries. (L0, L1) `GPL-3.0` `Python`
-- [SolidInvoice](https://solidinvoice.co) - Invoicing and quote application. (L0) `MIT` `PHP`
-- [Sure](https://github.com/we-promise/sure) - Personal finance application for everyone (fork of Maybe). `AGPL-3.0` `Docker`
-- [VoucherVault](https://github.com/l4rm4nd/VoucherVault) - Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO. `GPL-3.0` `Docker`
-- [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. (L0, L1) `GPL-3.0` `PHP/Docker`
-- [WYGIWYH](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. (L0) `AGPL-3.0` `Docker/Python`
-- [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. (L0, L1) `MIT` `PHP`
+- [Actual](https://actualbudget.org) - 基于零和预算的本地第一个人理财工具，支持跨设备同步、自定义规则、手动交易导入（来自QIF、OFX和QFX文件） ，以及与许多银行的可选自动同步。（ L0 ） `MIT` `Nodejs/Docker`
+- [Bigcapital](https://bigcapital.app/) - 中小型企业的财务会计和库存管理软件。（ L0 ） `AGPL-3.0` `Docker`
+- [Bitcart](https://bitcart.ai) - 加密货币支付处理器和开发平台。(L0, L1) `MIT` `Docker/Python/Nodejs`
+- [BTCPay Server](https://btcpayserver.org/) - 比特币和其他加密货币支付处理商。(L0, L1) `MIT` `C#`
+- [Budget Board](https://budgetboard.net/) - 用于跟踪每月支出并实现财务目标的简单应用程序。（ L0 ） `GPL-3.0` `Docker`
+- [DePay](https://depay.com) - 直接在您的钱包中接受Web3支付点对点。(L0, L1) `MIT` `Nodejs`
+- [Econumo](https://econumo.com) - 用于管理个人和家庭财务、支持多种货币、联合账户和预算的预算应用程序。(L0, L1) `MIT` `Docker`
+- [Expensave](https://github.com/algirdasc/expensave) - 用于个人和家庭预算管理的费用跟踪器。在共享日历上跟踪支出，导入银行对账单，并通过报告监控财务状况。 `GPL-3.0` `Docker`
+- [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - 由您自己托管的轻量级个人簿记应用程序。(L0, L1) `MIT` `Go/Docker`
+- [Family Accounting Tool](https://github.com/nymanjens/facto) - 适用于部分分担费用的合作伙伴的基于Web的财务管理工具。 `Apache-2.0` `Scala`
+- [Fava](https://beancount.github.io/fava/) - Beancount的Web前端，这是一个基于文本的复式记账系统。(L0, L1) `MIT` `Python`
+- [Firefly III](https://firefly-iii.org/) - 现代财务经理。它可以帮助您跟踪资金并进行预算预测。它支持信用卡，具有高级规则引擎，可以从许多银行导入数据。(L0, L1) `AGPL-3.0` `PHP/Docker`
+- [FOSSBilling](https://fossbilling.org/) - 出租和账单自动化。与WHM、CWP、cPanel和HestiaCP集成。完整的API ，易于扩展。(L0, L1) `Apache-2.0` `PHP/Docker`
+- [Galette](https://galette.eu/) - 针对非营利组织的会员管理Web应用程序。（ L0 ） `GPL-3.0` `PHP`
+- [Ghostfolio](https://ghostfol.io/) - 财富管理软件，用于跟踪股票、ETF和加密货币。（ L0 ） `AGPL-3.0` `Docker/Nodejs`
+- [GRR](https://grr.devome.com/?lang=en) - 中小型公司的资产管理和预订。（ L0 ） `GPL-2.0` `PHP`
+- [HyperSwitch](https://hyperswitch.io/) `⚠` - 切换付款方式，使付款快速、可靠且经济实惠。通过单一API集成，连接多家支付处理商，轻松路由流量。(L0) `Apache-2.0` `Docker/Rust`
+- [IHateMoney](https://ihatemoney.org/) - 轻松管理分摊费用。(L0, L1) `BSD-3-Clause` `Docker/Python`
+- [InvoicePlane](https://www.invoiceplane.com/) - 管理小型企业的报价、发票、付款和客户。(L0) `MIT` `PHP`
+- [InvoiceShelf](https://invoiceshelf.com/) - 跟踪费用、付款并创建专业发票和估算（ Crater分叉）。（ L0 ） `AGPL-3.0` `PHP/Docker`
+- [Kill Bill](https://killbill.io/) - 订阅账单和支付平台。可以访问实时分析和财务报告。（ L0 ） `Apache-2.0` `Java/Docker`
+- [Kresus](https://kresus.org/) - 个人理财经理。（ L0、L1 ） `AGPL-3.0` `Nodejs/Docker`
+- [Lago](https://www.getlago.com/) - 计量和使用计费。（ L0 ） `AGPL-3.0` `Docker`
+- [Mybucks.online](https://mybucks.online) - 安全、基于浏览器、仅限密码的自托管加密货币钱包。(L0, L1) `MIT` `Nodejs`
+- [MyFin Budget](https://myfinbudget.com) - 个人财务平台（ Web + REST API + Android ） ，可帮助您进行预算、跟踪收入/支出并预测未来的财务状况。（ L0、L1、L2 ） `GPL-3.0` `Nodejs/Docker`
+- [OctoBot](https://www.octobot.cloud/) - 加密货币交易机器人。（ L0 ） `GPL-3.0` `Python/Docker`
+- [Ocular](https://simonwep.github.io/ocular/) - 简单明了的预算应用程序，可跨月份和跨年份跟踪您的预算。(L0, L1) `MIT` `Docker`
+- [OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer) - 基于Bucket Budgeting原则的预算应用程序。 `AGPL-3.0` `Docker/C#`
+- [Receipt Wrangler](https://receiptwrangler.io) `⚠` - 易于使用的收据管理器，由AI提供支持。允许用户轻松快速地创建收据，进行分类等。(L0, L1) `AGPL-3.0` `Docker`
+- [REI3](https://rei3.de/home_en/) - 管理业务中的任务、时间、资产等。(L0, L1) `MIT` `Go`
+- [SHKeeper](https://shkeeper.io/) - 加密货币支付处理器具有网关和商家的独特组合，允许您以多种加密货币接受付款，无需手续费和中介机构。(L0, L1) `GPL-3.0` `Python`
+- [SolidInvoice](https://solidinvoice.co) - 开票和报价申请。（ L0 ） `MIT` `PHP`
+- [Sure](https://github.com/we-promise/sure) - 适用于所有人的个人理财应用程序（ Maybe的分支）。 `AGPL-3.0` `Docker`
+- [VoucherVault](https://github.com/l4rm4nd/VoucherVault) - 以数字方式存储和管理优惠券、礼金券、会员卡和礼品卡。支持过期通知、交易历史记录、文件上传和OIDC SSO。 `GPL-3.0` `Docker`
+- [Wallos](https://wallosapp.com) - 轻量级个人订阅跟踪器，带有统计信息和可选通知。(L0, L1) `GPL-3.0` `PHP/Docker`
+- [WYGIWYH](https://github.com/eitchtee/WYGIWYH) - 简单而强大的财务跟踪器。（ L0 ） `AGPL-3.0` `Docker/Python`
+- [YAFFA](https://www.yaffa.cc) - 个人理财Web应用程序，可用于跟踪您的资金、支出、预算和投资。它还有助于长期财务规划。(L0, L1) `MIT` `PHP`
 
 
 <a id="monitoring--status-pages"></a>
@@ -1635,7 +1635,7 @@ _Related: [Inventory Management 库存管理](#inventory-management), [Resource 
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) systems, networks, applications and websites. 
+适用于L0系统、网络、应用程序和网站的软件。
 
 **请访问 [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring--status-pages), [awesome-sysadmin/Metrics and Metric Collection](https://github.com/awesome-foss/awesome-sysadmin#metrics--metric-collection)**
 
@@ -1648,21 +1648,21 @@ _Related: [Personal Dashboards 个人仪表盘](#personal-dashboards)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Network utilities are tools and software that help manage, monitor, and troubleshoot computer networks.
+网络实用程序是帮助管理、监控和排除计算机网络故障的工具和软件。
 
 _See also: [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring)_
 
-- [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. (L0) `MIT` `Docker/K8S/Go`
-- [Canary Tokens](https://canarytokens.org) - Generates lightweight, embedded honeypot triggers called canary tokens for detecting unauthorized access. (L0) `BSD-3-Clause` `Docker/Python`
-- [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. (L0, L1) `MIT` `Nodejs/Docker`
-- [MySpeed](https://myspeed.dev/) - Speed test analysis software that shows your internet speed for up to 30 days. (L0) `MIT` `Docker/Nodejs`
-- [NetAlertX](https://netalertx.com/) - Network intruder and presence detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. (L0) `GPL-3.0` `Docker`
-- [PlugNPiN](https://deepspace2.github.io/PlugNPiN) - Automatically scrapes containers with specific labels and creates local DNS/CNAME entries in Pi-Hole/AdGuard Home and proxy hosts in Nginx Proxy Manager. (L0) `GPL-3.0` `Docker`
-- [Speed Test by OpenSpeedTest™](https://openspeedtest.com/) - HTML5 Network Performance Estimation Tool. (L0) `MIT` `Docker`
-- [Speedtest Tracker](https://docs.speedtest-tracker.dev/) - Monitor the performance and uptime of your internet connection. (L0) `MIT` `Docker/K8S`
-- [Upsnap](https://github.com/seriousm4x/UpSnap) - Simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
-- [Wakupator](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
-- [whois](https://github.com/KincaidYang/whois) - WHOIS/RDAP query API for domains, IP addresses, CIDR prefixes and ASNs, with unified JSON output, caching, API key authentication, batch queries and MCP support for AI assistants. (L0) `MIT` `Go/Docker`
+- [beelzebub](https://beelzebub-honeypot.com/) `⚠` - 蜜罐框架旨在为检测和分析网络攻击提供高度安全的环境。（ L0 ） `MIT` `Docker/K8S/Go`
+- [Canary Tokens](https://canarytokens.org) - 生成称为金丝雀令牌的轻量级嵌入式蜜罐触发器，用于检测未经授权的访问。（ L0 ） `BSD-3-Clause` `Docker/Python`
+- [MyIP](https://ipcheck.ing) `⚠` - 一体化IP工具箱。轻松检查您的IP、IP地理位置、检查DNS泄漏、检查WebRTC连接、速度测试、ping测试、MTR测试、检查网站可用性等。(L0, L1) `MIT` `Nodejs/Docker`
+- [MySpeed](https://myspeed.dev/) - 速度测试分析软件，显示您的互联网速度长达30天。（ L0 ） `MIT` `Docker/Nodejs`
+- [NetAlertX](https://netalertx.com/) - 网络入侵者和存在检测器。扫描连接到您网络的设备，并在发现新的和未知的设备时提醒您。（ L0 ） `GPL-3.0` `Docker`
+- [PlugNPiN](https://deepspace2.github.io/PlugNPiN) - 自动抓取具有特定标签的容器，并在Pi-Hole/AdGuard Home中创建本地DNS/CNAME条目，并在Nginx Proxy Manager中创建代理主机。(L0) `GPL-3.0` `Docker`
+- [Speed Test by OpenSpeedTest™](https://openspeedtest.com/) - HTML5网络性能评估工具。（ L0 ） `MIT` `Docker`
+- [Speedtest Tracker](https://docs.speedtest-tracker.dev/) - 监控互联网连接的性能和正常运行时间。（ L0 ） `MIT` `Docker/K8S`
+- [Upsnap](https://github.com/seriousm4x/UpSnap) - 简单的局域网唤醒(WOL)仪表板应用程序。唤醒网络上的设备并查看当前状态。 `MIT` `Go/Docker`
+- [Wakupator](https://github.com/Gibus21250/Wakupator) - 基于网络流量的Wake On LAN Machine Manager。 `MIT` `C`
+- [whois](https://github.com/KincaidYang/whois) - 针对域、IP地址、CIDR前缀和ASN的WHOIS/RDAP查询API ，具有针对AI助手的统一JSON输出、缓存、API密钥身份验证、批量查询和MCP支持。（ L0 ） `MIT` `Go/Docker`
 
 
 <a id="note-taking--editors"></a>
@@ -1674,28 +1674,28 @@ _See also: [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome
 
 _Related: [Wikis 维基](#wikis)_
 
-- [Blinko](https://blinko.space/) - Personal note tool with AI features. (L0) `AGPL-3.0` `Docker`
-- [DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. (L0) `MIT` `Docker`
-- [Docs](https://docs.numerique.gouv.fr/) - Collaborative note taking, wiki and documentation platform that scales. (L0) `MIT` `K8S`
-- [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. (L0) `Apache-2.0` `Javascript/Docker`
-- [flatnotes](https://github.com/dullage/flatnotes) - Database-less note-taking web app that utilises a flat folder of markdown files for storage. (L0) `MIT` `Docker`
-- [HedgeDoc](https://hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. (L0, L1) `AGPL-3.0` `Docker/Nodejs`
-- [Joplin](https://joplinapp.org/) - Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through your own Nextcloud instance or similar (alternative to Evernote). (L0) `MIT` `Nodejs`
-- [Jotty](https://jotty.page) - Lightweight but powerful alternative for managing your personal, file based, notes and checklists. (L0) `AGPL-3.0` `Docker`
-- [Livebook](https://livebook.dev) - Realtime collaborative notebook app based on Markdown that supports running Elixir code snippets, TeX and Mermaid Diagrams. Easily deployed using Docker or Elixir. (L0) `Apache-2.0` `Elixir/Docker`
-- [Many Notes](https://github.com/brufdev/many-notes) - Markdown note-taking web application designed for simplicity. `MIT` `Docker`
-- [Memos](https://usememos.com/) - Knowledge base that works with a SQLite db file. (L0, L1) `MIT` `Docker/Go`
-- [Neverkin](https://neverkin.com/) - Collaborative writing, worldbuilding and D&D-session-planning app. Tools for organizing your notes and stories. (L0, L1) `GPL-3.0` `Nodejs/Docker`
-- [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - Minimal web-based Markdown notes app. (L0) `AGPL-3.0` `Docker`
-- [NoteDiscovery](https://www.notediscovery.com/) - Markdown note-taking app with plain-file storage, graph view, and MCP integration (alternative to Obsidian, Notion). (L0, L1) `MIT` `Docker/Python`
-- [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. (L0) `AGPL-3.0` `Ruby`
-- [Plainpad](https://plainpad.org) - Modern note taking application for the cloud, utilizing the best features of progressive web apps technology. (L0, L1) `GPL-3.0` `PHP`
-- [plumio](https://plumio.app/) - Markdown notes taking app with live preview, document encryption, multi-user support, multi-organization capabilities and more. (L0, L1) `AGPL-3.0` `Nodejs/Docker`
-- [SilverBullet](https://silverbullet.md/) - Note-taking application optimized for people with a hacker mindset. (L0, L1, L2) `MIT` `Docker/Deno`
-- [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. (L0, L1) `GPL-3.0` `Ruby`
-- [TriliumNext Notes](https://github.com/TriliumNext/Trilium) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`
-- [Turtl](https://turtl.it/) - Totally private personal database and note taking app. (L0) `GPL-3.0` `CommonLisp`
-- [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. (L0) `MIT` `Javascript`
+- [Blinko](https://blinko.space/) - 具有AI功能的个人笔记工具。（ L0 ） `AGPL-3.0` `Docker`
+- [DailyTxT](https://github.com/PhiTux/DailyTxT) - 加密日记Web应用程序，保存您每天的个人记忆。包括搜索功能和加密文件上传。（ L0 ） `MIT` `Docker`
+- [Docs](https://docs.numerique.gouv.fr/) - 可扩展的协作笔记记录、维基和文档平台。（ L0 ） `MIT` `K8S`
+- [draw.io](https://draw.io) - 用于制作流程图、流程图、组织结构图、UML、ER和网络图的图表软件。（ L0 ） `Apache-2.0` `Javascript/Docker`
+- [flatnotes](https://github.com/dullage/flatnotes) - 无需数据库的记笔记Web应用程序，可利用标记文件的平面文件夹进行存储。(L0) `MIT` `Docker`
+- [HedgeDoc](https://hedgedoc.org/) - 所有平台上的实时协作扣分笔记，以前称为CodiMD和HackMD CE。(L0, L1) `AGPL-3.0` `Docker/Nodejs`
+- [Joplin](https://joplinapp.org/) - 带有markdown编辑器的应用程序以及移动和桌面平台的加密支持。运行客户端并通过您自己的Nextcloud实例或类似实例（ Evernote的替代品）进行同步。（ L0 ） `MIT` `Nodejs`
+- [Jotty](https://jotty.page) - 轻量级但功能强大的替代方案，用于管理您的个人、基于文件、笔记和清单。（ L0 ） `AGPL-3.0` `Docker`
+- [Livebook](https://livebook.dev) - 基于Markdown的实时协作笔记本应用程序，支持运行Elixir代码片段、TeX和美人鱼图。使用Docker或Elixir轻松部署。（ L0 ） `Apache-2.0` `Elixir/Docker`
+- [Many Notes](https://github.com/brufdev/many-notes) - 专为简化而设计的Markdown记笔记Web应用程序。 `MIT` `Docker`
+- [Memos](https://usememos.com/) - 使用SQLite db文件的知识库。(L0, L1) `MIT` `Docker/Go`
+- [Neverkin](https://neverkin.com/) - 协同写作、世界构建和D&D会话规划应用程序。用于整理笔记和故事的工具。(L0, L1) `GPL-3.0` `Nodejs/Docker`
+- [Note Mark](https://notemark.docs.enchantedcode.co.uk/) - 最小的基于Web的Markdown笔记应用程序。(L0) `AGPL-3.0` `Docker`
+- [NoteDiscovery](https://www.notediscovery.com/) - Markdown笔记应用程序，具有纯文件存储、图形视图和MCP集成（替代Obsidian、Notion ）。(L0, L1) `MIT` `Docker/Python`
+- [Overleaf](https://www.overleaf.com/) - 基于Web的协作LaTeX编辑器。（ L0 ） `AGPL-3.0` `Ruby`
+- [Plainpad](https://plainpad.org) - 利用渐进式Web应用程序技术的最佳功能，为云计算提供现代笔记应用程序。(L0, L1) `GPL-3.0` `PHP`
+- [plumio](https://plumio.app/) - Markdown笔记记录应用程序，包括实时预览、文档加密、多用户支持、多组织功能等。(L0, L1) `AGPL-3.0` `Nodejs/Docker`
+- [SilverBullet](https://silverbullet.md/) - 针对具有黑客思维的人员优化的笔记应用程序。（ L0、L1、L2 ） `MIT` `Docker/Deno`
+- [Standard Notes](https://docs.standardnotes.com/self-hosting/getting-started) - 简单而私密的笔记应用程序。保护您的隐私，同时完成更多工作。这就是标准注释。(L0, L1) `GPL-3.0` `Ruby`
+- [TriliumNext Notes](https://github.com/TriliumNext/Trilium) - 跨平台分层笔记应用程序，重点是构建大型个人知识库（ Trilium Notes的分支）。 `AGPL-3.0` `Nodejs/Docker/K8S`
+- [Turtl](https://turtl.it/) - 完全私人的个人数据库和笔记应用程序。（ L0 ） `GPL-3.0` `CommonLisp`
+- [Writing](https://josephernest.github.io/writing/) - 浏览器中的轻量级无干扰文本编辑器（支持Markdown和LaTeX ）。书写时无滞后。（ L0 ） `MIT` `Javascript`
 
 
 <a id="office-suites"></a>
@@ -1703,14 +1703,14 @@ _Related: [Wikis 维基](#wikis)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a collection of productivity software usually containing at least a word processor, spreadsheet and a presentation program.
+L0是生产力软件的集合，通常包含至少一个文字处理器、电子表格和演示程序。
 
-- [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. (L0) `MPL-2.0` `C++`
-- [CryptPad](https://cryptpad.org) - Collaboration suite built to enable collaboration, synchronizing changes to documents in real time. (L0) `AGPL-3.0` `Nodejs/Docker`
-- [Digislides](https://ladigitale.dev/digislides/) - Create multimedia presentations in a quick and easy way (documentation in French). (L0, L1) `AGPL-3.0` `Nodejs/PHP`
-- [Etherpad](https://etherpad.org/) - Highly customizable online editor providing collaborative editing in real-time. (L0, L1) `Apache-2.0` `Nodejs/Docker`
-- [Grist](https://getgrist.com/) - Next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). (L0, L1) `Apache-2.0` `Nodejs/Python/Docker`
-- [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. (L0) `AGPL-3.0` `Nodejs/Docker`
+- [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora在线开发版（ CODE ）是一个功能强大的基于LibreOffice的在线办公室，支持所有主要的文档、电子表格和演示文稿文件格式，您可以将其集成到自己的基础设施中。（ L0 ） `MPL-2.0` `C++`
+- [CryptPad](https://cryptpad.org) - 协作套件旨在实现协作，实时同步对文档的更改。(L0) `AGPL-3.0` `Nodejs/Docker`
+- [Digislides](https://ladigitale.dev/digislides/) - 快速轻松地创建多媒体演示文稿（法语文档）。(L0, L1) `AGPL-3.0` `Nodejs/PHP`
+- [Etherpad](https://etherpad.org/) - 高度可定制的在线编辑器，提供实时协作编辑。(L0, L1) `Apache-2.0` `Nodejs/Docker`
+- [Grist](https://getgrist.com/) - 新一代电子表格，具有关系结构、基于公式的访问控制和便携式独立格式（ Airtable的替代品）。(L0, L1) `Apache-2.0` `Nodejs/Python/Docker`
+- [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office套件，使您能够在一个地方管理文档、项目、团队和客户关系。（ L0 ） `AGPL-3.0` `Nodejs/Docker`
 
 
 <a id="password-managers"></a>
@@ -1718,15 +1718,15 @@ An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a coll
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services.
+L0允许用户存储、生成和管理本地应用程序和在线服务的密码。
 
-- [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. (L0) `MIT` `Docker`
-- [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with a webapp, browser extension, and mobile app. (L0) `AGPL-3.0` `Docker/C#`
-- [Passbolt](https://www.passbolt.com/) - Collaborative password manager. (L0) `AGPL-3.0` `PHP/deb/K8S/Docker`
-- [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. (L0, L1) `AGPL-3.0` `Docker/Python`
-- [Psono](https://psono.com/) - Password manager for companies. (L0, L1) `Apache-2.0` `Python`
-- [Teampass](https://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP. (L0) `GPL-3.0` `PHP`
-- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust/Docker`
+- [AliasVault](https://www.aliasvault.net) - 带有内置电子邮件别名生成器和服务器的端到端加密密码管理器。(L0) `MIT` `Docker`
+- [Bitwarden](https://bitwarden.com/) `⚠` - 带有网络应用、浏览器扩展和移动应用的密码管理器。(L0) `AGPL-3.0` `Docker/C#`
+- [Passbolt](https://www.passbolt.com/) - 协作密码管理器。(L0) `AGPL-3.0` `PHP/deb/K8S/Docker`
+- [PassIt](https://passit.io/) - 简单的密码管理，按组和用户共享功能，但没有管理界面。(L0, L1) `AGPL-3.0` `Docker/Python`
+- [Psono](https://psono.com/) - 公司密码管理器。(L0, L1) `Apache-2.0` `Python`
+- [Teampass](https://teampass.net/) - 专用于以协作方式管理密码的密码管理器。一个对称密钥用于加密文件和数据库中的所有共享/团队密码和存储的服务器端。适用于任何Apache、MySQL和PHP服务器。(L0) `GPL-3.0` `PHP`
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 用Rust编写的轻量级Bitwarden服务器API实现。 `GPL-3.0` `Rust/Docker`
 
 
 <a id="pastebins"></a>
@@ -1734,28 +1734,28 @@ A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows user
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text.
+L0是一种在线内容托管服务，用于共享和存储代码和文本。
 
-- [1time](https://1time.io) - Zero-knowledge one-time secret sharing. Create a one-time link for a password, API key, or file. Encrypted client-side in the browser, never reaches the server in plaintext, self-destructs after the allowed number of views (one by default). (L0, L1) `MIT` `Docker`
-- [BinPastes](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. `Apache-2.0` `Java`
-- [ByteStash](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. (L0) `GPL-3.0` `Docker`
-- [Chiyogami](https://github.com/rhee876527/chiyogami) - Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. (L0) `BSD-3-Clause` `Docker`
-- [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. (L0) `MIT` `Docker/Python`
-- [lesma](https://lesma.eu) - Simple paste app friendly with browser and command line. (L0, L1) `GPL-3.0` `Rust/Docker`
-- [Local Content Share](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
-- [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. (L0, L1) `AGPL-3.0` `Nodejs/Docker`
-- [Opengist](https://opengist.io) - Pastebin powered by Git. (L0, L1) `AGPL-3.0` `Docker/Go/Nodejs`
-- [paaster](https://paaster.io) - End-to-end encrypted pastebin built with the objective of simplicity. (L0) `AGPL-3.0` `Docker`
-- [pacebin](https://git.crueter.xyz/crueter/pacebin) - Super-minimal pastebin and file upload service focusing on small executable size, portability, and ease of configuration. (L0) `AGPL-3.0` `C`
-- [Password Pusher](https://pwpush.com) - Dead-simple application to securely communicate passwords (or text) over the web. Passwords automatically expire after a certain number of views and/or time has passed. (L0) `Apache-2.0` `Docker/K8S/Ruby`
-- [Pastefy](https://pastefy.app/) - Beautiful, simple and easy to deploy Pastebin with optional client encryption, multitab pastes, an API, a highlighted editor and more. (L0, L1) `MIT` `Docker/K8S/Java`
-- [PrivateBin](https://privatebin.info/) - Minimalist pastebin/discussion board where the server has zero knowledge of hosted data. (L0, L1) `Zlib` `PHP`
-- [rustypaste](https://github.com/orhun/rustypaste) - Minimal file upload/pastebin service. `MIT` `Rust`
-- [Snipo](https://github.com/MohamedElashri/snipo) - Lightweight, self‑hosted snippet manager for saving and organizing code and text snippets with folders, tags, API, and GitHub Gist sync. (L0) `AGPL-3.0` `Go/Docker`
-- [SnyPy](https://snypy.com) - On-prem code snippet manager. (L0, L1) `MIT` `Docker`
-- [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage. `MIT` `Go`
-- [Wastebin](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. (L0) `MIT` `Rust/Docker`
-- [Yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files. (L0) `Apache-2.0` `Go/Docker`
+- [1time](https://1time.io) - 零知识一次性秘密分享。为密码、API密钥或文件创建一次性链接。浏览器中的加密客户端，永远不会以明文形式到达服务器，在允许的视图数量（默认情况下为1个）之后自行销毁。(L0, L1) `MIT` `Docker`
+- [BinPastes](https://github.com/querwurzel/BinPastes) - 最小的pastebin支持客户端加密、全文搜索、一次性消息。适用于一到几个寻找简单pastebin部署的用户。 `Apache-2.0` `Java`
+- [ByteStash](https://github.com/jordan-dalby/ByteStash) - 具有简单Web界面的Pastebin和文件存储服务。支持语法突出显示、可选用户身份验证和公共共享。（ L0 ） `GPL-3.0` `Docker`
+- [Chiyogami](https://github.com/rhee876527/chiyogami) - 具有API、客户端加密、用户帐户、语法突出显示、markdown呈现等的粘贴箱。（ L0 ） `BSD-3-Clause` `Docker`
+- [dpaste](https://dpaste.org/) - 具有多个文本和代码选项的简单pastebin ，具有易于记忆的简短url结果。（ L0 ） `MIT` `Docker/Python`
+- [lesma](https://lesma.eu) - 使用浏览器和命令行轻松粘贴应用程序。(L0, L1) `GPL-3.0` `Rust/Docker`
+- [Local Content Share](https://github.com/Tanq16/local-content-share) - 在本地网络中存储和共享文本片段和文件。 `MIT` `Docker/Go`
+- [not-th.re](https://not-th.re) - 简单的粘贴共享平台，具有客户端加密功能，具有基于摩纳哥浏览器的代码编辑器。(L0, L1) `AGPL-3.0` `Nodejs/Docker`
+- [Opengist](https://opengist.io) - 由Git提供支持的Pastebin。(L0, L1) `AGPL-3.0` `Docker/Go/Nodejs`
+- [paaster](https://paaster.io) - 以简化为目标构建的端到端加密Pastebin。（ L0 ） `AGPL-3.0` `Docker`
+- [pacebin](https://git.crueter.xyz/crueter/pacebin) - 超级最小的pastebin和文件上传服务，专注于小的可执行文件大小，可移植性和易于配置。（ L0 ） `AGPL-3.0` `C`
+- [Password Pusher](https://pwpush.com) - 非常简单的应用程序，可在网络上安全地传递密码（或文本）。观看次数和/或时间过后，密码会自动过期。（ L0 ） `Apache-2.0` `Docker/K8S/Ruby`
+- [Pastefy](https://pastefy.app/) - 美观、简单且易于部署的Pastebin ，具有可选的客户端加密、多标签页粘贴、API、突出显示的编辑器等。(L0, L1) `MIT` `Docker/K8S/Java`
+- [PrivateBin](https://privatebin.info/) - 服务器对托管数据一无所知的极简主义pastebin/讨论板。(L0, L1) `Zlib` `PHP`
+- [rustypaste](https://github.com/orhun/rustypaste) - 最小文件上传/pastebin服务。 `MIT` `Rust`
+- [Snipo](https://github.com/MohamedElashri/snipo) - 轻量级的自托管代码段管理器，用于使用文件夹、标签、API和GitHub Gist同步保存和组织代码和文本片段。(L0) `AGPL-3.0` `Go/Docker`
+- [SnyPy](https://snypy.com) - 本地代码段管理器。(L0, L1) `MIT` `Docker`
+- [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - 非常简单（部署和使用）使用Hashicorp Vault作为机密存储的秘密消息服务。 `MIT` `Go`
+- [Wastebin](https://github.com/matze/wastebin) - 具有SQLite后端的轻量级，最小且快速的pastebin。（ L0 ） `MIT` `Rust/Docker`
+- [Yopass](https://github.com/jhaals/yopass) - 安全地共享机密、密码和文件。（ L0 ） `Apache-2.0` `Go/Docker`
 
 
 <a id="personal-dashboards"></a>
@@ -1763,29 +1763,29 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Dashboards for accessing information and applications.
+用于访问信息和应用程序的仪表板。
 
 _Related: [Monitoring & Status Pages 监控与状态页](#monitoring--status-pages), [Bookmarks and Link Sharing 书签与链接分享](#bookmarks-and-link-sharing)_
 
-- [Compass](https://adinhodovic.github.io/compass/) - Landing page for services, dashboards, and documents, with automatic discovery from sources such as Docker, Kubernetes, and Tailscale. (L0) `Apache-2.0` `Go/Docker/K8S`
-- [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. (L0, L1) `MIT` `Nodejs/Docker`
-- [Glance](https://github.com/glanceapp/glance) - Highly customizable dashboard that puts all your feeds in one place. `AGPL-3.0` `Docker/Go`
-- [gobookmarks](https://github.com/arran4/gobookmarks) - Landing page to display bookmarks stored in GitHub, GitLab or local Git. `AGPL-3.0` `Go/Docker`
-- [Heimdall](https://heimdall.site/) - Elegant solution to organise all your web applications. (L0) `MIT` `PHP`
-- [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. (L0) `MIT` `Docker/Nodejs`
-- [Homepage by gethomepage](https://github.com/gethomepage/homepage) - Highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
-- [Homepage by tomershvueli](https://github.com/tomershvueli/homepage) - Simple, standalone PHP page that is your window to your server and the web. `MIT` `PHP`
-- [Homer](https://github.com/bastienwirtz/homer) - Dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. (L0) `Apache-2.0` `Docker/K8S/Nodejs`
-- [Hubleys](https://github.com/knrdl/hubleys-dashboard) - Personal dashboards to organize links for multiple users via a central yaml config. `MIT` `Docker`
-- [LinkStack](https://linkstack.org/) - Link all your social media platforms easily accessible on one page, customizable through an intuitive, easy to use user/admin interface (alternative to Linktree and Manylink). (L0, L1) `AGPL-3.0` `PHP/Docker`
-- [LittleLink](https://littlelink.io/) - Simplistic approach for links in bio with 100+ branded buttons (alternative to Linktree). (L0, L1) `MIT` `Javascript`
-- [Mafl](https://mafl.hywax.space/) - Minimalistic flexible homepage. (L0) `MIT` `Docker/Nodejs`
-- [Nimbus](https://nimbus.turboot.com/) - Modern drag-and-drop homelab dashboard with visual editor and simple configuration. (L0, L1) `AGPL-3.0` `Docker`
-- [Personal Management System](https://volmarg.github.io/) - Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules. (L0, L1) `MIT` `Docker`
-- [portkey](https://portkey.page) - Simple web portal that serves as a startup page, displaying a compilation of links and URLs, while also allowing the addition of custom pages, all managed through a single configuration file. (L0, L1) `AGPL-3.0` `Go/Docker`
-- [ryot](https://github.com/ignisda/ryot) - Track various facets of your life - media, fitness, etc. (L0) `GPL-3.0` `Docker`
-- [Starbase 80](https://github.com/notclickable-jordan/starbase-80) - Simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
-- [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`
+- [Compass](https://adinhodovic.github.io/compass/) - 服务、仪表板和文档的登录页面，可从Docker、Kubernetes和Tailscale等来源自动发现。(L0) `Apache-2.0` `Go/Docker/K8S`
+- [Dashy](https://dashy.to/) - 功能丰富的家庭实验室主页，具有简单的YAML配置。(L0, L1) `MIT` `Nodejs/Docker`
+- [Glance](https://github.com/glanceapp/glance) - 高度可定制的控制面板，将所有订阅源集中在一个地方。 `AGPL-3.0` `Docker/Go`
+- [gobookmarks](https://github.com/arran4/gobookmarks) - 用于显示存储在GitHub、GitLab或本地Git中的书签的登录页面。 `AGPL-3.0` `Go/Docker`
+- [Heimdall](https://heimdall.site/) - 组织所有Web应用程序的优雅解决方案。（ L0 ） `MIT` `PHP`
+- [Homarr](https://homarr.dev) - 时尚、现代化的仪表板，具有许多集成和基于Web的配置。(L0) `MIT` `Docker/Nodejs`
+- [Homepage by gethomepage](https://github.com/gethomepage/homepage) - 具有Docker和服务API集成的高度可定制的主页（或起始页/应用程序仪表板）。 `GPL-3.0` `Docker/Nodejs`
+- [Homepage by tomershvueli](https://github.com/tomershvueli/homepage) - 简单、独立的PHP页面，是您访问服务器和Web的窗口。 `MIT` `PHP`
+- [Homer](https://github.com/bastienwirtz/homer) - 简单的静态主页，通过简单的yaml配置和连接检查，暴露您的服务器服务。（ L0 ） `Apache-2.0` `Docker/K8S/Nodejs`
+- [Hubleys](https://github.com/knrdl/hubleys-dashboard) - 通过中央yaml配置为多个用户组织链接的个人仪表板。 `MIT` `Docker`
+- [LinkStack](https://linkstack.org/) - 链接所有社交媒体平台，在一个页面上轻松访问，可通过直观、易于使用的用户/管理员界面进行自定义（替代Linktree和Manylink ）。(L0, L1) `AGPL-3.0` `PHP/Docker`
+- [LittleLink](https://littlelink.io/) - BIO中链接的简化方法，带有100多个品牌按钮（ Linktree的替代品）。(L0, L1) `MIT` `Javascript`
+- [Mafl](https://mafl.hywax.space/) - 简约灵活的主页。（ L0 ） `MIT` `Docker/Nodejs`
+- [Nimbus](https://nimbus.turboot.com/) - 具有可视化编辑器和简单配置的现代拖放式家庭实验室仪表板。(L0, L1) `AGPL-3.0` `Docker`
+- [Personal Management System](https://volmarg.github.io/) - 整理日常生活必需品，包括简单的待办事项清单、备注、付款和日程安排。(L0, L1) `MIT` `Docker`
+- [portkey](https://portkey.page) - 作为启动页面的简单门户网站，显示链接和URL的编译，同时还允许添加自定义页面，所有这些都通过单个配置文件进行管理。(L0, L1) `AGPL-3.0` `Go/Docker`
+- [ryot](https://github.com/ignisda/ryot) - 跟踪您生活的各个方面-媒体、健身等（ L0 ） `GPL-3.0` `Docker`
+- [Starbase 80](https://github.com/notclickable-jordan/starbase-80) - 简单的主页，带有iPad风格的应用程序网格，适用于移动和桌面。一个JSON配置文件。 `MIT` `Docker`
+- [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - 允许您记录您的Spotify收听活动，并通过Web应用程序提供有关这些活动的统计数据。 `MIT` `Nodejs/Docker`
 
 
 <a id="photo-galleries"></a>
@@ -1793,31 +1793,31 @@ _Related: [Monitoring & Status Pages 监控与状态页](#monitoring--status-pag
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [gallery](https://en.wikipedia.org/wiki/Gallery_Software) is software that helps the user publish or share photos, pictures, videos or other digital media.
+L0是帮助用户发布或共享照片、图片、视频或其他数字媒体的软件。
 
 _Related: [Static Site Generators 静态站点生成器](#static-site-generators), [Media Streaming - Video Streaming 媒体流 - 视频流](#media-streaming---video-streaming), [Content Management Systems (CMS) 内容管理系统（CMS）](#content-management-systems-cms)_
 
-- [Chevereto](https://chevereto.com/) - Ultimate image sharing software. Create your very own personal image hosting website in just minutes. (L0) `AGPL-3.0` `PHP/Docker`
-- [ChronoFrame](https://chronoframe.bh8.ga/) - Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map. (L0, L1) `MIT` `Nodejs/Docker`
-- [Damselfly](https://damselfly.info) - Fast server-based photo management system for large collections of images. Includes face detection, face & object recognition, powerful search, and EXIF Keyword tagging. Runs on Linux, MacOS and Windows. (L0) `GPL-3.0` `Docker/C#/.NET`
-- [Ente](https://ente.com/) - End-to-end encrypted photo-sharing platform (alternative to Google Photos, Apple Photos). (L0) `AGPL-3.0` `Docker/Nodejs/Go`
-- [HomeGallery](https://home-gallery.org) - Browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. (L0, L1) `MIT` `Nodejs/Docker`
-- [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. (L0) `GPL-3.0` `Docker/Go`
-- [Immich](https://immich.app/) - Photo and video backup solution directly from your mobile phone (alternative to Google Photos). (L0, L1) `AGPL-3.0` `Docker`
-- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Photo management service with a slight focus on cool graphs (alternative to Google Photos). (L0) `MIT` `Python/Docker`
-- [Lychee](https://lycheeorg.github.io/) - Grid and album based photo-management-system. (L0) `MIT` `PHP/Docker`
-- [Mediagoblin](https://mediagoblin.org) - Media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud). (L0) `AGPL-3.0` `Python`
-- [Memtly](https://docs.memtly.com/) - Event photo sharing platform and gallery with slideshow that allows guests to view and share memories via a QR code. (L0, L1) `GPL-3.0` `C#/Docker`
-- [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. (L0, L1) `AGPL-3.0` `PHP`
-- [Photofield](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer. `MIT` `Docker/Go`
-- [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow. Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. (L0, L1) `AGPL-3.0` `Go/Docker`
-- [Photoview](https://photoview.github.io/) - Simple and user-friendly photo gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. (L0, L1) `GPL-3.0` `Go/Docker`
-- [PiGallery 2](https://bpatrik.github.io/pigallery2/) - Directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. (L0) `MIT` `Docker/Nodejs`
-- [Piwigo](https://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. (L0) `GPL-2.0` `PHP`
-- [SPIS](https://github.com/gbbirkisson/spis) - Simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
-- [This week in past](https://github.com/RouHim/this-week-in-past) - Aggregates images taken this week, from previous years and presents them on a web page with a simple slideshow. `MIT` `Docker/Rust`
-- [Thumbor](http://thumbor.org/) - Smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. (L0) `MIT` `Python/Docker`
-- [Zenphoto](https://www.zenphoto.org/) - Gallery and CMS project. (L0) `GPL-2.0` `PHP`
+- [Chevereto](https://chevereto.com/) - 终极图像共享软件。只需几分钟，即可创建您自己的个人图片托管网站。(L0) `AGPL-3.0` `PHP/Docker`
+- [ChronoFrame](https://chronoframe.bh8.ga/) - 具有在线照片管理、支持实时/动态照片和探索地图的个人画廊应用程序。(L0, L1) `MIT` `Nodejs/Docker`
+- [Damselfly](https://damselfly.info) - 快速的基于服务器的照片管理系统，适用于大量图像集合。包括面部检测、面部和物体识别、强大的搜索和EXIF关键字标记。在Linux、MacOS和Windows上运行。(L0) `GPL-3.0` `Docker/C#/.NET`
+- [Ente](https://ente.com/) - 端到端加密照片共享平台（ Google相册、Apple相册的替代品）。（ L0 ） `AGPL-3.0` `Docker/Nodejs/Go`
+- [HomeGallery](https://home-gallery.org) - 浏览带有标记、移动友好和人工智能图像发现功能的个人照片和视频。(L0, L1) `MIT` `Nodejs/Docker`
+- [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - 轻量级幻灯片，适用于在使用Immich作为数据源的信息亭设备和浏览器上运行。（ L0 ） `GPL-3.0` `Docker/Go`
+- [Immich](https://immich.app/) - 直接从手机上获取照片和视频备份解决方案（ Google相册的替代方案）。(L0, L1) `AGPL-3.0` `Docker`
+- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - 稍微关注酷炫图形的照片管理服务（ Google相册的替代品）。（ L0 ） `MIT` `Python/Docker`
+- [Lychee](https://lycheeorg.github.io/) - 基于网格和相册的照片管理系统。（ L0 ） `MIT` `PHP/Docker`
+- [Mediagoblin](https://mediagoblin.org) - 任何人都可以运行的媒体发布平台（ Flickr、YouTube、SoundCloud的替代品）。（ L0 ） `AGPL-3.0` `Python`
+- [Memtly](https://docs.memtly.com/) - 活动照片分享平台和带幻灯片的画廊，让参与者可以通过二维码查看和分享回忆。(L0, L1) `GPL-3.0` `C#/Docker`
+- [Nextcloud Memories](https://memories.gallery/) - 快速、现代和先进的照片管理套件。作为Nextcloud应用程序运行。(L0, L1) `AGPL-3.0` `PHP`
+- [Photofield](https://github.com/SmilyOrg/photofield) - 实验性快速照片查看器。 `MIT` `Docker/Go`
+- [PhotoPrism](https://photoprism.org) - 由Go和Google TensorFlow提供支持的个人照片管理。使用最新技术自动标记和查找图片，浏览、整理和共享您的个人照片集。(L0, L1) `AGPL-3.0` `Go/Docker`
+- [Photoview](https://photoview.github.io/) - 适用于个人服务器的简单且用户友好的照片库。它专为摄影师设计，旨在通过数千张高分辨率照片，为导航目录提供一种简单快捷的方式。(L0, L1) `GPL-3.0` `Go/Docker`
+- [PiGallery 2](https://bpatrik.github.io/pigallery2/) - 目录优先的照片库网站，具有丰富的用户界面，针对在低资源服务器上运行进行了优化。（ L0 ） `MIT` `Docker/Nodejs`
+- [Piwigo](https://piwigo.org/) - 由活跃的用户和开发者社区构建的网络照片库软件。(L0) `GPL-2.0` `PHP`
+- [SPIS](https://github.com/gbbirkisson/spis) - 简单、轻便、快速的媒体服务器，具有良好的移动支持。 `GPL-3.0` `Docker/Rust`
+- [This week in past](https://github.com/RouHim/this-week-in-past) - 聚合本周前几年拍摄的图像，并通过简单的幻灯片将它们呈现在网页上。 `MIT` `Docker/Rust`
+- [Thumbor](http://thumbor.org/) - 智能成像服务，支持按需裁剪、调整大小、应用滤镜和优化图像。(L0) `MIT` `Python/Docker`
+- [Zenphoto](https://www.zenphoto.org/) - Gallery和CMS项目。（ L0 ） `GPL-2.0` `PHP`
 
 
 <a id="polls-and-events"></a>
@@ -1825,29 +1825,29 @@ _Related: [Static Site Generators 静态站点生成器](#static-site-generators
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and [events](https://en.wikipedia.org/wiki/Event).
+用于组织L0和L1的软件。
 
 _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling)_
 
-- [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - Conduct polls about dates, times or general questions. (L0) `GPL-3.0` `Docker/Python`
-- [Bracket](https://docs.bracketapp.nl/) - Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. (L0, L1) `AGPL-3.0` `Docker/Nodejs`
-- [Christmas Community](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
-- [Claper](https://claper.co/) - Add Q&A, polls, quizzes, forms, live captions and reactions to your slides (alternative to Slido, AhaSlides and Mentimeter). (L0) `GPL-3.0` `Elixir/Docker`
-- [ClearFlask](https://clearflask.com) - Community-feedback tool for managing incoming feedback and prioritizing a public roadmap (alternative to Canny, UserVoice, Upvoty). (L0, L1) `AGPL-3.0` `Docker`
-- [docassemble](https://docassemble.org/) - System for guided interviews and document assembly, based on Python, YAML, and Markdown. (L0, L1) `MIT` `Docker/Python`
-- [EventSchedule](https://eventschedule.com/) - Share events, sell tickets, and bring communities together. (L0) `AAL` `PHP/Docker`
-- [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). (L0, L1) `MIT` `Docker`
-- [Formbricks](https://formbricks.com) - Experience Management Suite built on the largest survey stack worldwide. Gracefully gather feedback at every step of the customer journey to know what your customers need. (L0, L1) `AGPL-3.0` `Nodejs/Docker`
-- [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. (L0, L1) `CECILL-B` `PHP`
-- [Gancio](https://gancio.org/) - Local community event and agenda sharing. (L0, L1) `AGPL-3.0` `Nodejs`
-- [gathio](https://docs.gath.io/) - Self-destructing, shareable, no-registration event pages. (L0, L1) `GPL-3.0` `Nodejs/Docker`
-- [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. (L0) `AGPL-3.0` `Docker`
-- [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. (L0, L1) `AGPL-3.0` `Ruby`
-- [LimeSurvey](https://www.limesurvey.org) - Feature-rich web-based polling software. Supports extensive survey logic. (L0, L1) `GPL-2.0` `PHP`
-- [Meetable](https://events.indieweb.org) - Minimal events aggregator. (L0) `MIT` `PHP`
-- [Mobilizon](https://mobilizon.org) - Federated tool that helps you find, create and organise events and groups. (L0) `AGPL-3.0` `Elixir/Docker`
-- [OpnForm](https://opnform.com) - Beautiful form builder. (L0, L1) `AGPL-3.0` `PHP/Nodejs/Docker`
-- [Revel](https://www.letsrevel.io) `⚠` - Community-focused event management and ticketing platform. (L0, L1, L2) `MIT` `Python/Docker`
+- [Bitpoll](https://github.com/fsinfuhh/Bitpoll) - 就日期、时间或一般问题进行民意调查。(L0) `GPL-3.0` `Docker/Python`
+- [Bracket](https://docs.bracketapp.nl/) - 灵活的锦标赛系统可以构建锦标赛设置、添加团队、安排比赛、跟踪分数并向公众实时展示排名。(L0, L1) `AGPL-3.0` `Docker/Nodejs`
+- [Christmas Community](https://github.com/Wingysam/Christmas-Community) - 创建一个简单的地方，供全家人用来寻找人们想要的礼物，并避免双重赠送。 `AGPL-3.0` `Docker/Nodejs`
+- [Claper](https://claper.co/) - 为幻灯片添加问答、投票、测验、表单、实时字幕和反应（替代Slido、AhaSlides和Mentimeter ）。（ L0 ） `GPL-3.0` `Elixir/Docker`
+- [ClearFlask](https://clearflask.com) - 社区反馈工具，用于管理收到的反馈并确定公共路线图的优先级（ Canny、UserVoice、Upvoty的替代方案）。(L0, L1) `AGPL-3.0` `Docker`
+- [docassemble](https://docassemble.org/) - 基于Python、YAML和Markdown的引导式访谈和文档汇编系统。(L0, L1) `MIT` `Docker/Python`
+- [EventSchedule](https://eventschedule.com/) - 分享活动，出售门票，将社区聚集在一起。（ L0 ） `AAL` `PHP/Docker`
+- [Fider](https://fider.io) - 开放式平台，收集反馈并排定优先级（ UserVoice的替代方案）。(L0, L1) `MIT` `Docker`
+- [Formbricks](https://formbricks.com) - Experience Management Suite基于全球最大的调查堆栈构建。在客户旅程的每一步优雅地收集反馈，了解客户的需求。(L0, L1) `AGPL-3.0` `Nodejs/Docker`
+- [Framadate](https://framadate.org/abc/) - 用于规划约会或快速轻松地做出决定的在线服务：进行民意调查，定义要选择的日期或主题，将民意调查链接发送给您的朋友或同事，讨论并做出决定。(L0, L1) `CECILL-B` `PHP`
+- [Gancio](https://gancio.org/) - 分享当地社区活动和议程。(L0, L1) `AGPL-3.0` `Nodejs`
+- [gathio](https://docs.gath.io/) - 自毁、可共享、无需注册的活动页面。(L0, L1) `GPL-3.0` `Nodejs/Docker`
+- [HeyForm](https://heyform.net) - 表单生成器，允许任何人为调查、问卷、测验和投票创建引人入胜的对话表单。（ L0 ） `AGPL-3.0` `Docker`
+- [hitobito](https://hitobito.com) - 管理包含成员、事件等的复杂组层次结构。(L0, L1) `AGPL-3.0` `Ruby`
+- [LimeSurvey](https://www.limesurvey.org) - 功能丰富的基于网络的投票软件。支持广泛的调查逻辑。(L0, L1) `GPL-2.0` `PHP`
+- [Meetable](https://events.indieweb.org) - 最小事件聚合器。（ L0 ） `MIT` `PHP`
+- [Mobilizon](https://mobilizon.org) - 帮助您查找、创建和组织活动和群组的联合工具。（ L0 ） `AGPL-3.0` `Elixir/Docker`
+- [OpnForm](https://opnform.com) - 漂亮的表单生成器。（ L0 ， L1 ） `AGPL-3.0` `PHP/Nodejs/Docker`
+- [Revel](https://www.letsrevel.io) `⚠` - 以社区为中心的活动管理和票务平台。（ L0、L1、L2 ） `MIT` `Python/Docker`
 
 
 <a id="proxy"></a>
@@ -1855,20 +1855,20 @@ _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [proxy](https://en.wikipedia.org/wiki/Proxy_server) is a server application that acts as an intermediary between a client requesting a resource and the server providing that resource. This section about forward (i.e. outgoing) proxies. For reverse proxies, see the Web Server section.
+L0是一种服务器应用程序，充当请求资源的客户端和提供该资源的服务器之间的中介。本节介绍转发（即传出）代理。有关反向代理，请参阅Web服务器部分。
 
 _Related: [Web Servers Web 服务器](#web-servers)_
 
-- [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. (L0) `Apache-2.0` `Rust/deb`
-- [GitProxy](https://git-proxy.finos.org/) - Proxy for Git that applies rules and workflows to all outgoing git push operations and ensures they are compliant. It supports both HTTP/HTTPS and SSH protocols with security scanning and validation. (L0) `Apache-2.0` `Nodejs/Docker`
-- [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library built on libvips, with on-demand resizing, cropping, filtering, format conversion and image composition, signed URLs and streaming pipelines for high-concurrency throughput. `Apache-2.0` `Docker`
-- [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. (L0) `MIT` `Go/Docker/K8S`
-- [Outline Server](https://getoutline.org/) - Proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. (L0) `Apache-2.0` `Docker/Nodejs`
-- [Privoxy](https://www.privoxy.org) - Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPL-2.0` `C/deb`
-- [sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH (serveo/ngrok alternative). `MIT` `Go/Docker`
-- [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install. `Apache-2.0` `Docker`
-- [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. (L0) `GPL-2.0` `C/deb`
-- [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon. (L0) `GPL-2.0` `C/deb`
+- [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - 支持代理链、协议检测、MITM拦截、ICAP适配和透明代理的前向代理服务器。（ L0 ） `Apache-2.0` `Rust/deb`
+- [GitProxy](https://git-proxy.finos.org/) - 适用于Git的代理，可将规则和工作流应用于所有传出git推送操作，并确保它们符合要求。它通过安全扫描和验证支持HTTP/HTTPS和SSH协议。（ L0 ） `Apache-2.0` `Nodejs/Docker`
+- [imagor](https://github.com/cshum/imagor) - 基于libvips构建的快速、安全的图像处理服务器和Go库，具有按需调整大小、裁剪、过滤、格式转换和图像合成、签名URL和流媒体管道，以实现高并发吞吐量。 `Apache-2.0` `Docker`
+- [imgproxy](https://imgproxy.net/) - 用于调整和转换远程图像的快速安全的独立服务器。（ L0 ） `MIT` `Go/Docker/K8S`
+- [Outline Server](https://getoutline.org/) - 为每个访问密钥运行Shadowsocks实例的代理服务器和用于管理访问密钥的REST API。（ L0 ） `Apache-2.0` `Docker/Nodejs`
+- [Privoxy](https://www.privoxy.org) - 具有高级过滤功能的非缓存Web代理，可增强隐私、修改网页数据和HTTP标头、控制访问以及删除广告和其他令人讨厌的互联网垃圾邮件。 `GPL-2.0` `C/deb`
+- [sish](https://github.com/antoniomika/sish) - HTTP (S)/WS (S)/TCP仅使用SSH （ servo/ngrok替代方案）隧道到本地主机。 `MIT` `Go/Docker`
+- [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server) - SOCKS5代理服务器，内置身份验证和Telegram机器人，用于用户管理和用户数据统计（方便您按GB数据付费）。它被dockerized化，安装简单。 `Apache-2.0` `Docker`
+- [Squid](http://www.squid-cache.org/) - 支持HTTP、HTTPS、FTP等的Web缓存代理。它通过缓存和重复使用经常请求的网页来减少带宽并缩短响应时间。（ L0 ） `GPL-2.0` `C/deb`
+- [Tinyproxy](https://tinyproxy.github.io/) - 轻量级HTTP/HTTPS代理后台程序。(L0) `GPL-2.0` `C/deb`
 
 
 <a id="recipe-management"></a>
@@ -1876,18 +1876,18 @@ _Related: [Web Servers Web 服务器](#web-servers)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
+用于管理L0的软件和工具。
 
-- [Bar Assistant](https://barassistant.app/) - Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. (L0, L1) `MIT` `PHP/Docker`
-- [CookCLI](https://cooklang.org) - Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. (L0) `MIT` `Rust`
-- [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. (L0) `BSD-3-Clause` `Docker`
-- [ManageMeals](https://managemeals.com/) - Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. (L0) `GPL-3.0` `Docker`
-- [Mealie](https://nightly.mealie.io/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. (L0, L1) `MIT` `Python`
-- [RecipeSage](https://github.com/julianpoy/recipesage) - Recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. (L0) `AGPL-3.0` `Nodejs`
-- [Recipya](https://recipes.musicavis.ca) - Clean, simple and powerful recipe manager your whole family will enjoy. (L0, L1) `GPL-3.0` `Docker/Go`
-- [Tamari](https://tamariapp.com) - Recipe manager web app with a built-in collection of recipes. Organize by favorites and categories, create shopping lists, and plan meals. (L0, L1) `GPL-3.0` `Docker/Python`
-- [Vanilla Cookbook](https://vanilla-cookbook.readthedocs.io/en/) - Recipe manager designed with complexity under the hood, keeping the user experience as uncluttered, simply vanilla as possible. (L0) `GPL-3.0` `Docker/Nodejs`
-- [What To Cook?](https://github.com/kassner/whattocook) - Get a recipe to cook today, based on the ingredients you have at home. `AGPL-3.0` `Docker`
+- [Bar Assistant](https://barassistant.app/) - 在添加食材、搜索鸡尾酒和创建定制鸡尾酒食谱的同时，管理您的家庭酒吧。(L0, L1) `MIT` `PHP/Docker`
+- [CookCLI](https://cooklang.org) - 使用Cooklang食谱自动化膳食计划和购物的命令行工具，可为UNIX工作流程编写脚本，包括Web服务器。(L0) `MIT` `Rust`
+- [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - 轻松管理您的美食食谱。(L0) `BSD-3-Clause` `Docker`
+- [ManageMeals](https://managemeals.com/) - 管理食谱，通过URL导入食谱并组织它们，而无需任何广告或不必要的文本。（ L0 ） `GPL-3.0` `Docker`
+- [Mealie](https://nightly.mealie.io/) - 以材料设计为灵感的配方管理器，提供类别和标签管理、购物清单、膳食计划和网站定制。Mealie专注于简单的用户互动，让全家人都能使用该应用。(L0, L1) `MIT` `Python`
+- [RecipeSage](https://github.com/julianpoy/recipesage) - 食谱管理器、膳食计划管理器和购物清单管理器，可以直接从任何URL导入食谱。(L0) `AGPL-3.0` `Nodejs`
+- [Recipya](https://recipes.musicavis.ca) - 干净、简单和强大的食谱管理器，您的全家都会喜欢。(L0, L1) `GPL-3.0` `Docker/Go`
+- [Tamari](https://tamariapp.com) - 具有内置食谱集合的食谱管理器Web应用。按收藏夹和类别整理、创建购物清单并规划餐点。(L0, L1) `GPL-3.0` `Docker/Python`
+- [Vanilla Cookbook](https://vanilla-cookbook.readthedocs.io/en/) - 配方管理器设计复杂，尽可能保持用户体验的整洁和简单。（ L0 ） `GPL-3.0` `Docker/Nodejs`
+- [What To Cook?](https://github.com/kassner/whattocook) - 根据您家中的食材，立即获取烹饪食谱。 `AGPL-3.0` `Docker`
 
 
 <a id="remote-access"></a>
@@ -1897,15 +1897,15 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 [Remote desktop](https://en.wikipedia.org/wiki/Remote_desktop_software) and [SSH](https://en.wikipedia.org/wiki/Secure_Shell) servers and web interfaces for remote management of computer systems.
 
-- [Cardea](https://github.com/hectorm/cardea) - SSH bastion server with access control, session recording, and optional TPM-backed key protection. `EUPL-1.2` `Go/Docker`
-- [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user and options where and how to execute a user's session. (L0) `Apache-2.0` `Go/Docker`
-- [Firezone](https://www.firezone.dev/) - Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. (L0) `Apache-2.0` `Elixir/Docker`
-- [Guacamole](https://guacamole.apache.org) - Clientless remote desktop gateway supporting standard protocols like VNC and RDP. (L0) `Apache-2.0` `Java/C`
-- [MeshCentral](https://meshcentral.com/) - Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. (L0) `Apache-2.0` `Nodejs`
-- [ShellHub](https://www.shellhub.io) - Modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface (alternative to sshd). (L0) `Apache-2.0` `Docker`
-- [Sshwifty](https://github.com/nirui/sshwifty) - SSH and Telnet connector made for the Web. (L0) `AGPL-3.0` `Go/Docker`
-- [Termix](https://docs.termix.site/) - Clientless web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (L0) `Apache-2.0` `Docker`
-- [Warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software. `Apache-2.0` `Rust/Docker`
+- [Cardea](https://github.com/hectorm/cardea) - 具有访问控制、会话录制和可选TPM支持的密钥保护的SSH堡垒服务器。 `EUPL-1.2` `Go/Docker`
+- [Engity's Bifröst](https://bifroest.engity.org/) - 高度可定制的SSH服务器，具有多种授权用户的方式以及执行用户会话的位置和方式选项。（ L0 ） `Apache-2.0` `Go/Docker`
+- [Firezone](https://www.firezone.dev/) - 支持WireGuard协议的安全远程访问网关。它提供Web GUI、单行安装脚本、多因素身份验证(MFA)和SSO。(L0) `Apache-2.0` `Elixir/Docker`
+- [Guacamole](https://guacamole.apache.org) - 无客户端远程桌面网关，支持VNC和RDP等标准协议。(L0) `Apache-2.0` `Java/C`
+- [MeshCentral](https://meshcentral.com/) - 运行您自己的Web服务器，以远程管理和控制本地网络或互联网上任何地方的计算机。（ L0 ） `Apache-2.0` `Nodejs`
+- [ShellHub](https://www.shellhub.io) - 用于通过命令行（使用任何SSH客户端）或基于Web的用户界面（替代SSHD ）远程访问Linux设备的现代SSH服务器。（ L0 ） `Apache-2.0` `Docker`
+- [Sshwifty](https://github.com/nirui/sshwifty) - 专为 Web 设计的 SSH 和 Telnet 连接器。（L0） `AGPL-3.0` `Go/Docker`
+- [Termix](https://docs.termix.site/) - 无客户端基于Web的服务器管理平台，具有SSH终端、隧道和文件编辑功能。（ L0 ） `Apache-2.0` `Docker`
+- [Warpgate](https://github.com/warp-tech/warpgate) - 完全透明的SSH、HTTPS、Kubernetes、MySQL和Postgres bastion/PAM ，无需额外的客户端软件。 `Apache-2.0` `Rust/Docker`
 
 
 <a id="resource-planning"></a>
@@ -1913,18 +1913,18 @@ Software and tools for managing [recipes](https://en.wikipedia.org/wiki/Recipe).
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software and tools to help with [resource and supply planning](https://en.wikipedia.org/wiki/Resource_planning), including [enterprise resource and supply planning (ERP)](https://en.wikipedia.org/wiki/Enterprise_resource_planning).
+帮助解决L0 （包括L1 ）问题的软件和工具。
 
 _Related: [Money, Budgeting & Management 金钱、预算与管理](#money-budgeting--management), [Inventory Management 库存管理](#inventory-management)_
 
-- [Dolibarr](https://www.dolibarr.org/) - Modern CRM software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). (L0, L1) `GPL-3.0` `PHP/deb`
-- [ERPNext](https://frappe.io/erpnext) - ERP system to help you run your business. (L0) `GPL-3.0` `Python/Docker`
-- [farmOS](https://farmos.org/) - Web-based farm record keeping application. (L0, L1) `GPL-2.0` `PHP/Docker`
-- [grocy](https://grocy.info/) - ERP beyond your fridge. Groceries & household management solution for your home. (L0, L1) `MIT` `PHP/Docker`
-- [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. (L0) `GPL-2.0` `Docker/Perl`
-- [Odoo](https://www.odoo.com) - Suite of web based business apps for ERP. (L0, L1) `LGPL-3.0` `Python/deb/Docker`
-- [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. (L0) `Apache-2.0` `Java`
-- [Tryton](https://www.tryton.org/) - Business solution. (L0, L1) `GPL-3.0` `Python`
+- [Dolibarr](https://www.dolibarr.org/) - 现代CRM软件包，用于管理您的公司或基金会活动（联系人、供应商、发票、订单、库存、议程、会计等）。(L0, L1) `GPL-3.0` `PHP/deb`
+- [ERPNext](https://frappe.io/erpnext) - 帮助您经营业务的ERP系统。（ L0 ） `GPL-3.0` `Python/Docker`
+- [farmOS](https://farmos.org/) - 基于网络的农场记录保存应用程序。（L0，L1） `GPL-2.0` `PHP/Docker`
+- [grocy](https://grocy.info/) - 超越冰箱的ERP。为您的房源提供生鲜杂货和家居管理解决方案。(L0, L1) `MIT` `PHP/Docker`
+- [LedgerSMB](https://ledgersmb.org/) - 适用于中小企业的集成会计和ERP系统，具备复式记账、预算编制、发票开具、报价、项目管理、订单和库存管理、物流配送等功能。(L0) `GPL-2.0` `Docker/Perl`
+- [Odoo](https://www.odoo.com) - 适用于ERP的基于Web的业务应用程序套件。(L0, L1) `LGPL-3.0` `Python/deb/Docker`
+- [OFBiz](https://ofbiz.apache.org/) - 企业资源计划系统，配备一套灵活的业务应用程序，足以适用于任何行业。（L0） `Apache-2.0` `Java`
+- [Tryton](https://www.tryton.org/) - 业务解决方案。(L0, L1) `GPL-3.0` `Python`
 
 
 <a id="search-engines"></a>
@@ -1932,22 +1932,22 @@ _Related: [Money, Budgeting & Management 金钱、预算与管理](#money-budget
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an [information retrieval system](https://en.wikipedia.org/wiki/Information_retrieval) designed to help find information stored on a computer system. This includes [Web search engines](https://en.wikipedia.org/wiki/Web_search_engine).
+L0 ）是L1 ，旨在帮助查找存储在计算机系统上的信息。这包括L2。
 
-- [Aleph](https://aleph.occrp.org/) - Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. (L0, L1) `MIT` `Docker/K8S`
-- [Amgix](https://amgix.io) - Hybrid search engine built for flexible deployment and real-world messy data. (L0, L1, L2) `AGPL-3.0` `Docker/K8S`
-- [Apache Solr](https://lucene.apache.org/solr/) - Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. (L0) `Apache-2.0` `Java/Docker/K8S`
-- [Fess](https://fess.codelibs.org/) - Powerful and easily deployable Enterprise Search Server. (L0, L1) `Apache-2.0` `Java/Docker`
-- [Hister](https://hister.org/) - Personal web search engine with automatic indexing of visited websites. Supports offline local result previews, local files, multi-user handling and optional semantic search. (L0, L1) `AGPL-3.0` `Go/Docker`
-- [Manticore Search](https://github.com/manticoresoftware/manticoresearch/) - Full-text search and data analytics, with fast response time for small, medium and big data (alternative to Elasticsearch). `GPL-3.0` `Docker/deb/C++/K8S`
-- [MeiliSearch](https://www.meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. (L0) `MIT` `Rust/Docker/deb`
-- [Meme Search](https://github.com/neonwatty/meme-search) - AI-powered meme search engine. Automatically extracts descriptions from images using vision-language models, then indexes with vector embeddings for semantic and keyword search. (L0) `Apache-2.0` `Docker`
-- [OpenSearch](https://opensearch.org) - Distributed and RESTful search engine. (L0) `Apache-2.0` `Java/Docker/K8S/deb`
-- [SearXNG](https://docs.searxng.org/) `⚠` - Internet metasearch engine which aggregates results from various search services and databases (fork of Searx). (L0) `AGPL-3.0` `Python/Docker`
-- [Sosse](https://sosse.readthedocs.io/en/stable/) - Selenium based search engine and crawler with offline archiving. (L0) `AGPL-3.0` `Python/Docker`
-- [Typesense](https://typesense.org) - Blazing fast, typo-tolerant search engine optimized for developer happiness and ease of use. (L0) `GPL-3.0` `C++/Docker/K8S/deb`
-- [Websurfx](https://github.com/neon-mmd/websurfx) `⚠` - Aggregate results from other search engines (metasearch engine) without ads while keeping privacy and security in mind. It is extremely fast and provides a high level of customization (alternative to SearX). `AGPL-3.0` `Rust/Docker`
-- [Yacy](https://yacy.net/en/index.html) - Peer based, decentralized search engine server. (L0) `GPL-2.0` `Java/Docker/K8S`
+- [Aleph](https://aleph.occrp.org/) - 用于索引大量文档（ PDF、Word、HTML ）和结构化（ CSV、XLS、SQL ）数据的工具，便于浏览和搜索。它以调查报告为主要用例。(L0, L1) `MIT` `Docker/K8S`
+- [Amgix](https://amgix.io) - 混合搜索引擎，专为灵活部署和真实世界的凌乱数据而打造。（ L0、L1、L2 ） `AGPL-3.0` `Docker/K8S`
+- [Apache Solr](https://lucene.apache.org/solr/) - 企业级搜索平台，具备全文搜索、搜索结果高亮显示、分面搜索、实时索引、动态聚类以及丰富的文档格式（例如 Word、PDF）处理功能。（L0） `Apache-2.0` `Java/Docker/K8S`
+- [Fess](https://fess.codelibs.org/) - 功能强大且易于部署的企业搜索服务器。(L0, L1) `Apache-2.0` `Java/Docker`
+- [Hister](https://hister.org/) - 具有访问网站自动索引功能的个人网络搜索引擎。支持离线本地结果预览、本地文件、多用户处理和可选语义搜索。(L0, L1) `AGPL-3.0` `Go/Docker`
+- [Manticore Search](https://github.com/manticoresoftware/manticoresearch/) - 全文搜索和数据分析，可快速响应小型、中型和大型数据（ Elasticsearch的替代品）。 `GPL-3.0` `Docker/deb/C++/K8S`
+- [MeiliSearch](https://www.meilisearch.com) - 超相关、即时和容错全文搜索API。（ L0 ） `MIT` `Rust/Docker/deb`
+- [Meme Search](https://github.com/neonwatty/meme-search) - 人工智能驱动的模因搜索引擎。使用视觉语言模型自动从图像中提取描述，然后使用矢量嵌入进行索引以进行语义和关键词搜索。（ L0 ） `Apache-2.0` `Docker`
+- [OpenSearch](https://opensearch.org) - 分布式 RESTful 搜索引擎。（L0） `Apache-2.0` `Java/Docker/K8S/deb`
+- [SearXNG](https://docs.searxng.org/) `⚠` - 互联网元搜索引擎，汇总来自各种搜索服务和数据库的结果（ Searx分支）。（ L0 ） `AGPL-3.0` `Python/Docker`
+- [Sosse](https://sosse.readthedocs.io/en/stable/) - 具有离线存档功能的基于Selenium的搜索引擎和爬虫。（ L0 ） `AGPL-3.0` `Python/Docker`
+- [Typesense](https://typesense.org) - 针对开发人员满意度和易用性进行了优化的快速、容错搜索引擎。(L0) `GPL-3.0` `C++/Docker/K8S/deb`
+- [Websurfx](https://github.com/neon-mmd/websurfx) `⚠` - 汇总来自其他搜索引擎（元搜索引擎）的无广告结果，同时牢记隐私和安全性。它速度极快，并提供高水平的定制（ SearX的替代品）。 `AGPL-3.0` `Rust/Docker`
+- [Yacy](https://yacy.net/en/index.html) - 基于对等的去中心化搜索引擎服务器。（ L0 ） `GPL-2.0` `Java/Docker/K8S`
 
 
 <a id="self-hosting-solutions"></a>
@@ -1955,30 +1955,30 @@ A [search engine](https://en.wikipedia.org/wiki/Search_engine_(computing)) is an
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Software for easy installation, management and configuration of self-hosted services and applications.
+用于轻松安装、管理和配置自托管服务和应用程序的软件。
 
-- [DietPi](https://dietpi.com/) - Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home. (L0) `GPL-2.0` `Shell`
-- [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. (L0) `MIT` `Shell`
-- [Dropserver](https://dropserver.org) - Application platform for your personal web services. (L0) `Apache-2.0` `Go/Deno`
-- [FreedomBox](https://freedombox.org/) - Community project to develop, design and promote personal servers running free software for private, personal, communications. (L0) `AGPL-3.0` `Python/deb`
-- [HomeButler](https://homebutler.dev) - Installs and manages a curated catalog of applications via Docker Compose, maps containers and exposed ports, verifies backups restore, and reports what changed since the last run with CLI, JSON, web and MCP interfaces. (L0) `MIT` `Docker/Go`
-- [HomelabOS](https://homelabos.com) - Offline privacy-centric data-center. Deploy over 100 services with a few commands. (L0) `MIT` `Docker`
-- [HomeServerHQ](https://www.homeserverhq.com/) - All-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. (L0) `GPL-3.0` `Shell`
-- [LibreServer](https://libreserver.org/) - Home server configuration based on Debian. (L0) `AGPL-3.0` `Shell`
-- [Mother-of-All-Self-Hosting](https://github.com/mother-of-all-self-hosting/mash-playbook) - Ansible playbook which helps you host services as Docker containers on your own server. `AGPL-3.0` `Ansible/Docker`
-- [NextCloudPi](https://github.com/nextcloud/nextcloudpi) - Nextcloud preinstalled and preconfigured, with a text and web management interface and all the tools needed to self host private data. With installation images for Raspberry Pi, Odroid, Rock64, Docker, and a curl installer for Armbian/Debian. `GPL-2.0` `Shell/PHP`
-- [Nirvati](https://nirvati.org) - Easily 1-click spin up popular apps from a convenient web interface. (L0) `AGPL-3.0` `Rust/K8S`
-- [OpenMediaVault](https://www.openmediavault.org/) - Network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. (L0) `GPL-3.0` `PHP`
-- [Sandstorm](https://sandstorm.io/) - Personal server for running apps on your own hardware easily and securely. (L0, L1) `Apache-2.0` `C++/Shell`
-- [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) `⚠` - Modular server management based on NixOS modules and focused on best practices. `AGPL-3.0` `Nix`
-- [StartOS](https://start9.com) - Browser-based, graphical Operating System (OS) that makes running a personal server as easy as running a personal computer. (L0) `MIT` `Rust`
-- [Syncloud](https://syncloud.org/) - OS with an app store and automatic updates for apps such as Nextcloud, Jellyfin, Bitwarden and Paperless, including HTTPS, a domain name and remote access without a public IP. (L0) `GPL-3.0` `Go/Shell`
-- [Tipi](https://runtipi.io/) - Homeserver manager. One command setup, one click installs for your favorite home server apps. (L0) `GPL-3.0` `Shell`
-- [UBOS](https://ubos.net/) - Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl`
-- [Websoft9](https://www.websoft9.com) `⚠` - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ apps. (L0, L1, L2) `LGPL-3.0` `Shell/Python`
-- [WikiSuite](https://wikisuite.org) - Most comprehensive and integrated Free / Libre enterprise software suite. (L0) `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`
-- [xsrv](https://xsrv.readthedocs.io/) - Install and manage services/applications on your own server(s). (L0) `GPL-3.0` `Ansible/Shell`
-- [YunoHost](https://yunohost.org/) - Server operating system aiming to make self-hosting accessible to everyone. (L0, L1) `AGPL-3.0` `Python/Shell`
+- [DietPi](https://dietpi.com/) - 针对单板计算机优化的最小Debian操作系统，允许您轻松安装和管理在家自托管的几项服务。（ L0 ） `GPL-2.0` `Shell`
+- [DockSTARTer](https://dockstarter.com/) - DockSTARTer可帮助您开始在Docker中运行家庭服务器应用程序。（ L0 ） `MIT` `Shell`
+- [Dropserver](https://dropserver.org) - 为您的个人网络服务提供应用平台。（ L0 ） `Apache-2.0` `Go/Deno`
+- [FreedomBox](https://freedombox.org/) - 社区项目，旨在开发、设计和推广运行用于私人、个人和通信的免费软件的个人服务器。（ L0 ） `AGPL-3.0` `Python/deb`
+- [HomeButler](https://homebutler.dev) - 通过Docker Compose安装和管理精选的应用程序目录，映射容器和暴露的端口，验证备份还原，并报告自上次使用CLI、JSON、Web和MCP接口运行以来发生的变化。（ L0 ） `MIT` `Docker/Go`
+- [HomelabOS](https://homelabos.com) - 离线以隐私为中心的数据中心。只需几个命令即可部署100多个服务。（ L0 ） `MIT` `Docker`
+- [HomeServerHQ](https://www.homeserverhq.com/) - 一体化家庭服务器基础设施和安装程序。即使落后于CGNAT ，也能在不到一小时的时间内设置完毕的电子邮件服务器、VPN和公共网站。(L0) `GPL-3.0` `Shell`
+- [LibreServer](https://libreserver.org/) - 基于Debian的家庭服务器配置。（ L0 ） `AGPL-3.0` `Shell`
+- [Mother-of-All-Self-Hosting](https://github.com/mother-of-all-self-hosting/mash-playbook) - Ansible Playbook可帮助您在自己的服务器上将服务托管为Docker容器。 `AGPL-3.0` `Ansible/Docker`
+- [NextCloudPi](https://github.com/nextcloud/nextcloudpi) - Nextcloud预安装和预配置，具有文本和Web管理界面以及自托管私有数据所需的所有工具。包含Raspberry Pi、Odroid、Rock64、Docker的安装映像，以及用于Armbian/Debian的curl安装程序。 `GPL-2.0` `Shell/PHP`
+- [Nirvati](https://nirvati.org) - 从方便的网络界面轻松一键启动热门应用程序。（ L0 ） `AGPL-3.0` `Rust/K8S`
+- [OpenMediaVault](https://www.openmediavault.org/) - 基于Debian Linux的网络连接存储（ NAS ）解决方案。它包含SSH、(S) FTP、SMB/CIFS、DAAP媒体服务器、RSync、BitTorrent客户端等服务。(L0) `GPL-3.0` `PHP`
+- [Sandstorm](https://sandstorm.io/) - 用于在您自己的硬件上轻松安全地运行应用程序的个人服务器。(L0, L1) `Apache-2.0` `C++/Shell`
+- [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) `⚠` - 基于NixOS模块的模块化服务器管理，专注于最佳实践。 `AGPL-3.0` `Nix`
+- [StartOS](https://start9.com) - 基于浏览器的图形操作系统（ OS ） ，使运行个人服务器与运行个人计算机一样简单。（ L0 ） `MIT` `Rust`
+- [Syncloud](https://syncloud.org/) - 带有应用商店的操作系统，以及对Nextcloud、Jellyfin、Bitwarden和Paperless等应用程序的自动更新，包括HTTPS、域名和无需公共IP的远程访问。(L0) `GPL-3.0` `Go/Shell`
+- [Tipi](https://runtipi.io/) - 家庭服务器管理器。一键设置命令，一键安装您最喜爱的家庭服务器应用程序。(L0) `GPL-3.0` `Shell`
+- [UBOS](https://ubos.net/) - 在独立机箱（个人服务器和物联网设备）上运行的Linux发行版。单命令安装和管理应用程序- Jenkins、Mediawiki、Owncloud、WordPress等，以及其他功能。 `GPL-3.0` `Perl`
+- [Websoft9](https://www.websoft9.com) `⚠` - GitOps驱动，多应用程序托管云服务器和家庭服务器，一键部署200多个应用程序。（ L0、L1、L2 ） `LGPL-3.0` `Shell/Python`
+- [WikiSuite](https://wikisuite.org) - 最全面和集成的免费/自由企业软件套件。（ L0 ） `GPL-3.0/LGPL-2.1/Apache-2.0/MPL-2.0/MPL-1.1/MIT/AGPL-3.0` `Shell/Perl/deb`
+- [xsrv](https://xsrv.readthedocs.io/) - 在您自己的服务器上安装和管理服务/应用程序。(L0) `GPL-3.0` `Ansible/Shell`
+- [YunoHost](https://yunohost.org/) - 服务器操作系统旨在让所有人都可以使用自助出租功能。(L0, L1) `AGPL-3.0` `Python/Shell`
 
 
 <a id="software-development"></a>
@@ -1999,18 +1999,18 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [API management](https://en.wikipedia.org/wiki/API_management) is the process of creating and publishing [application programming interfaces (APIs)](https://en.wikipedia.org/wiki/API), enforcing their usage policies, controlling access, nurturing the subscriber community, collecting and analyzing usage statistics, and reporting on performance. 
 
-- [Aastro](https://voidrunner3074.github.io/aastro-docs) - Extensible API Gateway written in Go. (L0) `Apache-2.0` `Go/Docker`
-- [DreamFactory](https://www.dreamfactory.com/) - Turns any SQL/NoSQL/Structured data into Restful API. (L0) `Apache-2.0` `PHP/Docker/K8S`
-- [Fusio](https://www.fusio-project.org/) - API management platform which helps to build and manage REST APIs. (L0, L1) `AGPL-3.0` `PHP/Docker`
-- [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API. (L0) `MIT` `Nodejs`
-- [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. (L0) `Apache-2.0` `Haskell/Docker/K8S`
-- [Hoppscotch Community Edition](https://hoppscotch.io) - Fast and beautiful API request builder. (L0) `MIT` `Nodejs/Docker`
-- [Kong](https://konghq.com/kong/) - Microservice API Gateway and Platform. (L0) `Apache-2.0` `Lua/Docker/K8S/deb`
-- [Lura](https://luraproject.org/) - High-performance API Gateway. (L0) `Apache-2.0` `Go`
-- [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. (L0) `Apache-2.0` `Docker/Python`
-- [Para](https://paraio.org) - Flexible and modular backend framework/server for object persistence, API development and authentication. (L0) `Apache-2.0` `Java/Docker`
-- [Svix](https://svix.com) - Webhooks as a service that makes it super easy for API providers to send webhooks. (L0) `MIT` `Docker/Rust`
-- [Tyk](https://tyk.io) - Fast and scalable API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. (L0) `MPL-2.0` `Go/Docker/K8S`
+- [Aastro](https://voidrunner3074.github.io/aastro-docs) - 用Go编写的可扩展API网关。（ L0 ） `Apache-2.0` `Go/Docker`
+- [DreamFactory](https://www.dreamfactory.com/) - 将任何SQL/NoSQL/结构化数据转换为Restful API。（ L0 ） `Apache-2.0` `PHP/Docker/K8S`
+- [Fusio](https://www.fusio-project.org/) - API管理平台，有助于构建和管理REST API。(L0, L1) `AGPL-3.0` `PHP/Docker`
+- [Graphweaver](https://graphweaver.com/) - 将多个数据源转换为单个GraphQL API。（ L0 ） `MIT` `Nodejs`
+- [Hasura](https://hasura.io) - 具有细粒度访问控制的Postgres上的快速、即时实时GraphQL API ，也会触发数据库事件的Webhook。（ L0 ） `Apache-2.0` `Haskell/Docker/K8S`
+- [Hoppscotch Community Edition](https://hoppscotch.io) - 快速漂亮的API请求生成器。（ L0 ） `MIT` `Nodejs/Docker`
+- [Kong](https://konghq.com/kong/) - 微服务API网关和平台。（ L0 ） `Apache-2.0` `Lua/Docker/K8S/deb`
+- [Lura](https://luraproject.org/) - 高性能API网关。（ L0 ） `Apache-2.0` `Go`
+- [Opik](https://www.comet.com/site/products/opik/) `⚠` - 使用一套可观察性工具评估、测试和发布LLM应用程序，以校准整个开发和生产生命周期的语言模型输出。（ L0 ） `Apache-2.0` `Docker/Python`
+- [Para](https://paraio.org) - 灵活的模块化后端框架/服务器，用于对象持久化、API开发和身份验证。（ L0 ） `Apache-2.0` `Java/Docker`
+- [Svix](https://svix.com) - Webhook作为一种服务，使API提供商能够非常轻松地发送Webhook。（ L0 ） `MIT` `Docker/Rust`
+- [Tyk](https://tyk.io) - 快速且可扩展的API网关。Tyk开箱即用，提供具有API网关、API分析、开发人员门户和API管理仪表板的API管理平台。(L0) `MPL-2.0` `Go/Docker/K8S`
 
 
 <a id="software-development---continuous-integration--deployment"></a>
@@ -2042,15 +2042,15 @@ _Related: [Automation 自动化](#automation)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [feature toggle](https://en.wikipedia.org/wiki/Feature_toggle) in software development provides an alternative to maintaining multiple feature branches in source code.
+软件开发中的L0提供了在源代码中维护多个功能分支的替代方案。
 
 _Related: [Software Development - IDE & Tools 软件开发 - IDE 与工具](#software-development---ide--tools)_
 
-- [Featbit](https://www.featbit.co/) - Enterprise-grade feature flag platform that you can self-host. (L0) `MIT` `Docker/K8S`
-- [Flagsmith](https://flagsmith.com) - Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). (L0) `BSD-3-Clause` `Docker/K8S`
-- [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). (L0) `GPL-3.0` `Docker/K8S/Go`
-- [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). (L0) `MIT` `Go`
-- [Nona](https://nonaconfig.com) - Remote configuration and feature flag service with a single REST API, multiple environments, and official JavaScript and .NET clients (alternative to Firebase Remote Config). (L0) `Apache-2.0` `Docker`
+- [Featbit](https://www.featbit.co/) - 企业级功能标记平台，您可以自助出租。（ L0 ） `MIT` `Docker/K8S`
+- [Flagsmith](https://flagsmith.com) - 用于向应用程序添加功能标志的仪表板、API和SDK （ LaunchDarkly的替代方案）。（ L0 ） `BSD-3-Clause` `Docker/K8S`
+- [Flipt](https://flipt.io) - 支持多个数据后端的功能标记解决方案（ LaunchDarkly的替代方案）。（ L0 ） `GPL-3.0` `Docker/K8S/Go`
+- [GO Feature Flag](https://gofeatureflag.org) - 简单、完整和轻量级的功能标志解决方案（ LaunchDarkly的替代方案）。（ L0 ） `MIT` `Go`
+- [Nona](https://nonaconfig.com) - 具有单个REST API、多个环境以及官方JavaScript和.NET客户端（ Firebase远程配置的替代方案）的远程配置和功能标志服务。（ L0 ） `Apache-2.0` `Docker`
 
 
 <a id="software-development---ide--tools"></a>
@@ -2058,22 +2058,22 @@ _Related: [Software Development - IDE & Tools 软件开发 - IDE 与工具](#sof
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-An [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) is a software application that provides comprehensive facilities to computer programmers for software development.
+L0是一种软件应用程序，为计算机程序员提供全面的软件开发设施。
 
 _Related: [Software Development - Low Code 软件开发 - 低代码](#software-development---low-code)_
 
-- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. (L0) `MIT` `PHP/Docker`
-- [code-server](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
-- [Coder](https://coder.com/) - Remote development machines on your own infrastructure. (L0) `AGPL-3.0` `Go/Docker/K8S/deb`
-- [Eclipse Che](https://www.eclipse.org/che/) - Workspace server and cloud IDE. (L0) `EPL-1.0` `Docker/Java`
-- [Hopp](https://gethopp.app) - Remote pair programming app with low-latency 4K screen sharing, drawing, and remote control, with clients for macOS and Windows (alternative to Tuple, Pop, Drovio). (L0) `AGPL-3.0` `Docker`
-- [Judge0 CE](https://judge0.com) - API to compile and run source code. (L0) `GPL-3.0` `Docker`
-- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Web-based environment for interactive and reproducible computing. (L0, L1) `BSD-3-Clause` `Python/Docker`
-- [Langfuse](https://langfuse.com) - LLM engineering platform for model tracing, prompt management, and application evaluation. Langfuse helps teams collaboratively debug, analyze, and iterate on their LLM applications such as chatbots or AI agents. (L0, L1, L2) `MIT` `Docker`
-- [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - Feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. (L0, L1) `MIT` `Nodejs`
-- [Lowdefy](https://www.lowdefy.com/) - Build internal tools, BI dashboards, admin panels, CRUD apps and workflows in minutes using YAML / JSON. (L0) `Apache-2.0` `Nodejs/Docker`
-- [RapidForge](https://rapidforge.io/) - Lightweight platform for building webhooks, scheduled tasks and pages. Implement your logic with Bash or Lua. (L0) `Apache-2.0` `Go/Nodejs`
-- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. (L0) `AGPL-3.0` `Java/C++`
+- [Atheos](https://www.atheos.io) - 基于Web的IDE框架，占地面积小，要求最小，源自Codiad。（ L0 ） `MIT` `PHP/Docker`
+- [code-server](https://github.com/coder/code-server) - 浏览器中的VS代码，托管在远程服务器上。 `MIT` `Nodejs/Docker`
+- [Coder](https://coder.com/) - 您自己的基础设施上的远程开发机器。（ L0 ） `AGPL-3.0` `Go/Docker/K8S/deb`
+- [Eclipse Che](https://www.eclipse.org/che/) - 工作区服务器和云IDE。（ L0 ） `EPL-1.0` `Docker/Java`
+- [Hopp](https://gethopp.app) - 具有低延迟4K屏幕共享、绘图和远程控制功能的远程配对编程应用，适用于macOS和Windows客户端（可替代Tuple、Pop、Drovio ）。（ L0 ） `AGPL-3.0` `Docker`
+- [Judge0 CE](https://judge0.com) - 用于编译和运行源代码的API。（ L0 ） `GPL-3.0` `Docker`
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - 用于交互式和可重现计算的基于Web的环境。(L0, L1) `BSD-3-Clause` `Python/Docker`
+- [Langfuse](https://langfuse.com) - 用于模型跟踪、提示管理和应用评估的LLM工程平台。Langfuse帮助团队在他们的LLM应用程序（如聊天机器人或AI代理）上协同调试、分析和迭代。（ L0、L1、L2 ） `MIT` `Docker`
+- [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - React、Vue、Svelte、Solid、Typescript、Python、Go、Ruby、PHP和90多种其他语言的功能丰富的客户端代码游乐场。(L0, L1) `MIT` `Nodejs`
+- [Lowdefy](https://www.lowdefy.com/) - 使用YAML/JSON在几分钟内构建内部工具、BI仪表板、管理面板、CRUD应用和工作流。(L0) `Apache-2.0` `Nodejs/Docker`
+- [RapidForge](https://rapidforge.io/) - 轻量级平台，用于构建Webhook、计划任务和页面。使用Bash或Lua实现您的逻辑。（ L0 ） `Apache-2.0` `Go/Nodejs`
+- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - 基于Web浏览器的R. IDE （ L0 ） `AGPL-3.0` `Java/C++`
 
 
 <a id="software-development---localization"></a>
@@ -2083,10 +2083,10 @@ _Related: [Software Development - Low Code 软件开发 - 低代码](#software-d
 
 [Localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) is the process of adapting code and software to other languages.
 
-- [Accent](https://www.accent.reviews/) - Developer-oriented translation tool. (L0) `BSD-3-Clause` `Elixir/Docker`
-- [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop. (L0) `Apache-2.0` `Docker/Java`
-- [Traduora](https://traduora.co) - Translation management platform for teams. (L0) `AGPL-3.0` `Docker/K8S/Nodejs`
-- [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. (L0) `GPL-3.0` `Python/Docker/K8S`
+- [Accent](https://www.accent.reviews/) - 面向开发人员的翻译工具。（ L0 ） `BSD-3-Clause` `Elixir/Docker`
+- [Tolgee](https://tolgee.io) - 开发人员和翻译人员友好的基于网络的本地化平台，使用户能够直接在他们开发的应用程序中进行翻译。(L0) `Apache-2.0` `Docker/Java`
+- [Traduora](https://traduora.co) - 团队翻译管理平台。（ L0 ） `AGPL-3.0` `Docker/K8S/Nodejs`
+- [Weblate](https://weblate.org) - 基于Web的翻译工具，具有紧密的版本控制集成。（ L0 ） `GPL-3.0` `Python/Docker/K8S`
 
 
 <a id="software-development---low-code"></a>
@@ -2094,19 +2094,19 @@ _Related: [Software Development - Low Code 软件开发 - 低代码](#software-d
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [low-code](https://en.wikipedia.org/wiki/Low-code_development_platform) development platform (LCDP) provides a development environment used to create application software through a graphical user interface.
+L0开发平台（ LCDP ）提供用于通过图形用户界面创建应用软件的开发环境。
 
 _Related: [Software Development - IDE & Tools 软件开发 - IDE 与工具](#software-development---ide--tools)_
 
-- [Appsmith](https://www.appsmith.com/) - Build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. (L0) `Apache-2.0` `Java/Docker/K8S`
-- [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. (L0) `BSD-3-Clause` `Docker`
-- [Halo](https://www.halo.run) - Powerful and easy-to-use website building tool (documentation in Chinese). (L0, L1, L2) `GPL-3.0` `Java/Docker`
-- [Manifest](https://manifest.build) - Complete backend that fits into 1 YAML file. (L0, L1) `MIT` `Nodejs`
-- [PocketBase](https://pocketbase.io/) - Backend for your next SaaS and Mobile app in one file. (L0) `MIT` `Go/Docker`
-- [Saltcorn](https://saltcorn.com/) - No-code database application builder for web and mobile applications. One platform for user interface, data backend, durable workflows, email, PDF generation, and AI applications. (L0) `MIT` `Docker/Nodejs`
-- [SQLPage](https://sql-page.com) - SQL-only dynamic website builder. (L0) `MIT` `Rust/Docker`
-- [ToolJet](https://tooljet.io/) - Low-code framework to build & deploy internal tools with minimal engineering effort (alternative to Retool and Mendix). (L0) `GPL-3.0` `Nodejs/Docker/K8S`
-- [TrailBase](https://trailbase.io/) - Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. (L0, L1) `OSL-3.0` `Rust/Docker`
+- [Appsmith](https://www.appsmith.com/) - 构建管理面板、CRUD应用和工作流。构建所需的一切，速度提高10倍。（ L0 ） `Apache-2.0` `Java/Docker/K8S`
+- [Appwrite](https://appwrite.io) - 面向Web、本地和移动开发人员的端到端后端服务器🚀。（ L0 ） `BSD-3-Clause` `Docker`
+- [Halo](https://www.halo.run) - 功能强大且易于使用的网站建设工具（中文文档）。（ L0、L1、L2 ） `GPL-3.0` `Java/Docker`
+- [Manifest](https://manifest.build) - 完成适合1个YAML文件的后端。(L0, L1) `MIT` `Nodejs`
+- [PocketBase](https://pocketbase.io/) - 在一个文件中为您的下一个SaaS和移动应用程序提供后端。(L0) `MIT` `Go/Docker`
+- [Saltcorn](https://saltcorn.com/) - 适用于Web和移动应用程序的无代码数据库应用程序生成器。一个用于用户界面、数据后端、持久工作流程、电子邮件、PDF生成和人工智能应用程序的平台。（ L0 ） `MIT` `Docker/Nodejs`
+- [SQLPage](https://sql-page.com) - 仅SQL动态网站生成器。(L0) `MIT` `Rust/Docker`
+- [ToolJet](https://tooljet.io/) - 以最少的工程工作量构建和部署内部工具的低代码框架（替代重新工具和Mendix ）。（ L0 ） `GPL-3.0` `Nodejs/Docker/K8S`
+- [TrailBase](https://trailbase.io/) - 具有类型安全REST和实时API、内置JS/TS运行时、身份验证和管理员UI的开放、亚毫秒、单一可执行FireBase替代方案。(L0, L1) `OSL-3.0` `Rust/Docker`
 
 
 <a id="software-development---project-management"></a>
@@ -2114,45 +2114,45 @@ _Related: [Software Development - IDE & Tools 软件开发 - IDE 与工具](#sof
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Tools and software for [software project management](https://en.wikipedia.org/wiki/Software_project_management).
+L0的工具和软件。
 
 _Related: [Ticketing 工单](#ticketing), [Task Management & To-do Lists 任务管理与待办清单](#task-management--to-do-lists)_
 
-- [Cgit](https://git.zx2c4.com/cgit/about/) - Fast lightweight web interface for git repositories. (L0) `GPL-2.0` `C`
-- [Forgejo](https://forgejo.org) - Lightweight software forge focused on scaling, federation, and privacy (fork of Gitea). (L0, L1, L2) `MIT` `Docker/Go`
-- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`
-- [Gerrit](https://www.gerritcodereview.com/) - Code review and project management tool for Git-based projects. (L0) `Apache-2.0` `Java/Docker`
-- [gitbucket](https://gitbucket.github.io/) - Git platform powered with easy installation, high extensibility & GitHub API compatibility (alternative to GitHub). (L0) `Apache-2.0` `Scala/Java`
-- [Gitea](https://gitea.com) - Git with a cup of tea! Painless all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. (L0, L1) `MIT` `Go/Docker/K8S`
-- [GitLab](https://about.gitlab.com) - Git repository management, code reviews, issue tracking, activity feeds and wikis. (L0, L1) `MIT` `Ruby/deb/Docker/K8S`
-- [Gogs](https://gogs.io/) - Painless Git Service written in Go. (L0) `MIT` `Go`
-- [Huly](https://huly.io) - All-in-one project management platform (alternative to Linear, Jira, Slack). (L0, L1) `EPL-2.0` `Docker/K8S/Nodejs`
-- [Ideon](https://www.theideon.com) - Project workspace built around an infinite canvas; embed GitHub, GitLab, Gitea, and Forgejo repositories alongside notes, links, and tasks, with real-time collaboration. (L0) `AGPL-3.0` `Docker`
-- [Kaneo](https://kaneo.app/) - Project management platform focused on simplicity and efficiency. (L0, L1) `MIT` `K8S/Docker`
-- [Leantime](https://leantime.io) - Lean project management system for small teams and startups helping to manage projects from ideation through delivery. (L0) `AGPL-3.0` `PHP/Docker`
-- [Mindwendel](https://www.mindwendel.com/) - Brainstorm and upvote ideas and thoughts within your team. (L0, L1) `AGPL-3.0` `Docker/Elixir`
-- [minimal-git-server](https://github.com/mcarbonne/minimal-git-server) - Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. `MIT` `Docker`
-- [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. (L0) `AGPL-3.0` `Ruby/Docker`
-- [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. (L0) `MIT` `Java/Docker/K8S`
-- [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. (L0) `GPL-3.0` `Ruby/deb/Docker`
-- [Paca](https://paca-ai.org) - AI-native project management platform where AI agents and humans collaborate as Scrum teammates on the same board and sprints. Configurable via config files and WASM plugins (alternative to Jira, Trello, ClickUp). (L0) `Apache-2.0` `Docker/K8S`
-- [Pagure](https://pagure.io/pagure) - Lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. (L0) `GPL-2.0` `Docker/Python/deb`
-- [Phorge](https://we.phorge.it/) - Community-driven platform for collaborating, managing, organizing and reviewing software development projects. (L0) `Apache-2.0` `PHP`
-- [Plane](https://plane.so) - Track issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). (L0, L1) `AGPL-3.0` `Docker`
-- [ProjeQtOr](https://www.projeqtor.org/) - Complete, mature, multi-user project management system with extensive functionality for all phases of a project. (L0, L1) `AGPL-3.0` `PHP`
-- [Redmine](https://www.redmine.org/) - Flexible project management web application. (L0) `GPL-2.0` `Ruby`
-- [Review Board](https://www.reviewboard.org/) - Extensible and friendly code review tool for projects and companies of all sizes. (L0, L1) `MIT` `Python/Docker`
-- [RhodeCode](https://rhodecode.com/) - Unify and simplify repository management for Git, Subversion, and Mercurial. (L0) `AGPL-3.0` `Python`
-- [Rukovoditel](https://www.rukovoditel.net/) - Configurable project management, web-based application. (L0) `GPL-2.0` `PHP`
-- [SCM Manager](https://www.scm-manager.org/) - Easiest way to share and manage your Git, Mercurial and Subversion repositories over http. (L0) `BSD-3-Clause` `Java/deb/Docker/K8S`
-- [Smederee](https://smeder.ee) - Frugal platform which is dedicated to help people build great software together leveraging the power of the Darcs version control system. (L0) `AGPL-3.0` `Scala`
-- [Sourcehut](https://sourcehut.org/) - Full web git interface with no javascript. (L0, L1) `GPL-2.0` `Go`
-- [Taiga](https://www.taiga.io/) - Agile Project Management Tool based on the Kanban and Scrum methods. (L0) `MPL-2.0` `Docker/Python/Nodejs`
-- [Titra](https://titra.io/) - Time-tracking solution for freelancers and small teams. (L0) `GPL-3.0` `Javascript/Docker`
-- [Trac](https://trac.edgewall.org/) - Enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python/deb`
-- [Traq](https://traq.io/) - Project management and issue tracking system written in PHP. (L0) `GPL-3.0` `PHP/Nodejs`
-- [Tuleap](https://www.tuleap.org/) - Libre suite to plan, track, code and collaborate on software projects. (L0) `GPL-2.0` `PHP`
-- [ZenTao](https://www.zentao.pm/) - Agile(scrum) project management system/tool. (L0) `AGPL-3.0` `PHP`
+- [Cgit](https://git.zx2c4.com/cgit/about/) - Git仓库的快速轻量级Web界面。（ L0 ） `GPL-2.0` `C`
+- [Forgejo](https://forgejo.org) - 轻量级软件锻造专注于扩展、联合和隐私（ Gitea的分支）。（ L0、L1、L2 ） `MIT` `Docker/Go`
+- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - 具有wiki和错误跟踪器的分布式版本控制系统。 `BSD-2-Clause-FreeBSD` `C`
+- [Gerrit](https://www.gerritcodereview.com/) - 基于Git的项目的代码审查和项目管理工具。（ L0 ） `Apache-2.0` `Java/Docker`
+- [gitbucket](https://gitbucket.github.io/) - Git平台支持易于安装、高扩展性和GitHub API兼容性（ GitHub的替代品）。（ L0 ） `Apache-2.0` `Scala/Java`
+- [Gitea](https://gitea.com) - 享用一杯茶！轻松的一体化软件开发服务，包括Git托管、代码审查、团队协作、软件包注册和CI/CD。(L0, L1) `MIT` `Go/Docker/K8S`
+- [GitLab](https://about.gitlab.com) - Git存储库管理、代码审查、问题跟踪、活动源和维基。(L0, L1) `MIT` `Ruby/deb/Docker/K8S`
+- [Gogs](https://gogs.io/) - 用Go编写的无痛Git服务。（ L0 ） `MIT` `Go`
+- [Huly](https://huly.io) - 一体化项目管理平台（替代Linear、Jira、Slack ）。(L0, L1) `EPL-2.0` `Docker/K8S/Nodejs`
+- [Ideon](https://www.theideon.com) - 围绕无限画布构建的项目工作区；通过实时协作，将GitHub、GitLab、Gitea和Forgejo存储库与笔记、链接和任务一起嵌入。(L0) `AGPL-3.0` `Docker`
+- [Kaneo](https://kaneo.app/) - 项目管理平台侧重于简化和效率。(L0, L1) `MIT` `K8S/Docker`
+- [Leantime](https://leantime.io) - 面向小型团队和初创公司的精益项目管理系统，帮助管理从构思到交付的项目。（ L0 ） `AGPL-3.0` `PHP/Docker`
+- [Mindwendel](https://www.mindwendel.com/) - 在团队中集思广益，对想法和想法投赞成票。(L0, L1) `AGPL-3.0` `Docker/Elixir`
+- [minimal-git-server](https://github.com/mcarbonne/minimal-git-server) - 轻量级git服务器，具有管理存储库的基本CLI ，支持多个帐户并在容器中运行。 `MIT` `Docker`
+- [Octobox](https://octobox.io/) `⚠` - 收回对GitHub通知的控制权。（ L0 ） `AGPL-3.0` `Ruby/Docker`
+- [OneDev](https://onedev.io/) - 一体化DevOps平台。具有Git管理、问题跟踪和CI/CD。简单而强大。（ L0 ） `MIT` `Java/Docker/K8S`
+- [OpenProject](https://www.openproject.org) - 管理您的项目、任务和目标。通过工作包进行协作，并将其链接到您在Github上的拉取请求。(L0) `GPL-3.0` `Ruby/deb/Docker`
+- [Paca](https://paca-ai.org) - 这是一个原生AI项目管理平台，AI代理和人类可以像Scrum团队成员一样在同一看板和迭代周期中协作。可通过配置文件和WASM插件进行配置（可替代Jira、Trello和ClickUp）。（L0） `Apache-2.0` `Docker/K8S`
+- [Pagure](https://pagure.io/pagure) - 轻量级、强大且灵活的基于 Git 的 Forge 框架，其特性为联合式和去中心化开发奠定了基础。（L0） `GPL-2.0` `Docker/Python/deb`
+- [Phorge](https://we.phorge.it/) - 社区驱动的平台，用于协作、管理、组织和审核软件开发项目。（ L0 ） `Apache-2.0` `PHP`
+- [Plane](https://plane.so) - 以最简单的方式跟踪问题、史诗和产品路线图（ JIRA、线性和高度的替代方案）。(L0, L1) `AGPL-3.0` `Docker`
+- [ProjeQtOr](https://www.projeqtor.org/) - 完整、成熟、多用户的项目管理系统，为项目的所有阶段提供广泛的功能。(L0, L1) `AGPL-3.0` `PHP`
+- [Redmine](https://www.redmine.org/) - 灵活的项目管理网络应用程序。（L0） `GPL-2.0` `Ruby`
+- [Review Board](https://www.reviewboard.org/) - 适用于各种规模的项目和公司的可扩展且友好的代码审查工具。(L0, L1) `MIT` `Python/Docker`
+- [RhodeCode](https://rhodecode.com/) - 统一并简化 Git、Subversion 和 Mercurial 的版本控制管理。（L0） `AGPL-3.0` `Python`
+- [Rukovoditel](https://www.rukovoditel.net/) - 可配置的项目管理，基于 Web 的应用程序。（L0） `GPL-2.0` `PHP`
+- [SCM Manager](https://www.scm-manager.org/) - 通过 HTTP 协议共享和管理 Git、Mercurial 和 Subversion 代码库的最简单方法。(L0) `BSD-3-Clause` `Java/deb/Docker/K8S`
+- [Smederee](https://smeder.ee) - 这是一个经济实惠的平台，致力于帮助人们利用 Darcs 版本控制系统的强大功能，共同构建优秀的软件。(L0) `AGPL-3.0` `Scala`
+- [Sourcehut](https://sourcehut.org/) - 完全基于 Web 的 Git 界面，无需 JavaScript。（L0，L1） `GPL-2.0` `Go`
+- [Taiga](https://www.taiga.io/) - 基于看板和 Scrum 方法的敏捷项目管理工具。（L0） `MPL-2.0` `Docker/Python/Nodejs`
+- [Titra](https://titra.io/) - 自由职业者和小型团队的时间跟踪解决方案。（ L0 ） `GPL-3.0` `Javascript/Docker`
+- [Trac](https://trac.edgewall.org/) - 增强的软件开发项目的Wiki和问题跟踪系统。 `BSD-3-Clause` `Python/deb`
+- [Traq](https://traq.io/) - 用PHP编写的项目管理和问题跟踪系统。（ L0 ） `GPL-3.0` `PHP/Nodejs`
+- [Tuleap](https://www.tuleap.org/) - Libre套件，用于规划、跟踪、编码和协作软件项目。（ L0 ） `GPL-2.0` `PHP`
+- [ZenTao](https://www.zentao.pm/) - 敏捷（ SCRUM ）项目管理系统/工具。（ L0 ） `AGPL-3.0` `PHP`
 
 
 <a id="software-development---testing"></a>
@@ -2160,11 +2160,11 @@ _Related: [Ticketing 工单](#ticketing), [Task Management & To-do Lists 任务�
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
+L0的工具和软件。
 
-- [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI. (L0) `MIT/Apache-2.0` `Rust`
-- [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. (L0, L1) `Apache-2.0` `Docker`
-- [WebHook Tester](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
+- [Bencher](https://bencher.dev/) - 一套持续的基准测试工具，旨在捕捉CI中的性能回归。（ L0 ） `MIT/Apache-2.0` `Rust`
+- [Request Inbox](https://request-inbox.com/) - 收集并检查HTTP请求以进行测试和调试。创建和管理收件箱、捕获详细的请求数据、配置自定义响应。(L0, L1) `Apache-2.0` `Docker`
+- [WebHook Tester](https://github.com/tarampampam/webhook-tester) - 用于测试WebHooks等的强大工具。 `MIT` `Docker/Go/deb/K8S`
 
 
 <a id="static-site-generators"></a>
@@ -2189,29 +2189,29 @@ _Related: [Blogging Platforms 博客平台](#blogging-platforms), [Photo Galleri
 
 _Related: [Software Development - Project Management 软件开发 - 项目管理](#software-development---project-management), [Ticketing 工单](#ticketing)_
 
-- [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. (L0, L1) `MIT` `Nodejs/Docker/K8S`
-- [AppFlowy](https://appflowy.io/) - Build detailed lists of to-do’s for different projects while tracking the status of each one (alternative to Notion). (L0) `AGPL-3.0` `Rust/Dart/Docker`
-- [dayGLANCE](https://dayglance.app) - Day planner with drag-and-drop time blocking, inbox, recurring tasks, habits, routines, goals, projects and Pomodoro focus mode, plus iCal and CalDAV calendar sync. Data stays in the browser, with optional WebDAV or GLANCEvault sync. (L0, L1) `MIT` `Javascript/Docker`
-- [Donetick](https://donetick.com) - Task and chore management tool for personal and family use, with advanced scheduling, flexible assignment, and group sharing capabilities, detailed history, automation via API, simple and modern design. (L0, L1) `AGPL-3.0` `Go/Docker`
-- [Focus Flow](https://github.com/francesco-gaglione/focus_flow_cloud) - Complete ecosystem for time management using the Pomodoro technique. `MIT` `Docker/K8S`
-- [HamsterBase Tasks](https://tasks.hamsterbase.com) - Tool to help organize ideas and build great things. Plan, organize, build and ship. (L0, L1) `AGPL-3.0` `Docker`
-- [Kan](https://kan.bn/) - Flexible kanban app that helps you organise work, track progress, and deliver results (alternative to Trello). (L0) `AGPL-3.0` `Docker`
-- [Kanboard](https://kanboard.org/) - Simple visual task board. (L0) `MIT` `PHP`
-- [Listaway](https://github.com/jeffrpowell/listaway/) - List management app for creating and publicly sharing lists of items. Supports auth, admin tools, item notes and priorities, and opt-in public read-only links with randomized URLs (alternative to Amazon Lists). (L0) `MIT` `Docker`
-- [myTinyTodo](https://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. (L0, L1) `GPL-2.0` `PHP`
-- [Nullboard](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. (L0) `BSD-2-Clause` `Javascript`
-- [OpenHabitTracker](https://openhabittracker.net) - Track habits, tasks and notes with time tracking, calendar view and completion statistics. (L0, L1) `GPL-3.0` `Docker`
-- [Our Shopping List](https://codeberg.org/nanawel/our-shopping-list) - Simple shared list application including shopping lists and any other small todo-list that needs to be used collaboratively. (L0) `AGPL-3.0` `Docker`
-- [Super Productivity](https://super-productivity.com) - Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject. (L0) `MIT` `Docker`
+- [4ga Boards](https://4gaboards.com) - 简洁易用的实时看板管理，实现直观的任务跟踪。配备优雅的深色模式、可折叠待办事项列表和多任务处理工具，显著提升团队效率。（L0，L1） `MIT` `Nodejs/Docker/K8S`
+- [AppFlowy](https://appflowy.io/) - 为不同项目构建详细的待办事项列表，同时跟踪每个项目的状态（ Notion的替代方案）。（ L0 ） `AGPL-3.0` `Rust/Dart/Docker`
+- [dayGLANCE](https://dayglance.app) - 具有拖放时间块、收件箱、重复任务、习惯、例程、目标、项目和番茄工作法焦点模式的日程安排器，以及iCal和CalDAV日历同步。通过可选的WebDAV或GLANCEvault同步，数据会保留在浏览器中。(L0, L1) `MIT` `Javascript/Docker`
+- [Donetick](https://donetick.com) - 适用于个人和家庭使用的任务和家务管理工具，具有高级调度，灵活的分配和组共享功能，详细的历史记录，通过API实现的自动化，简单而现代的设计。(L0, L1) `AGPL-3.0` `Go/Docker`
+- [Focus Flow](https://github.com/francesco-gaglione/focus_flow_cloud) - 使用番茄工作法管理时间的完整生态系统。 `MIT` `Docker/K8S`
+- [HamsterBase Tasks](https://tasks.hamsterbase.com) - 帮助组织想法和建立伟大事物的工具。规划、组织、建造和运输。(L0, L1) `AGPL-3.0` `Docker`
+- [Kan](https://kan.bn/) - 灵活的看板应用程序，可帮助您组织工作、跟踪进度和交付结果（ Trello的替代方案）。（ L0 ） `AGPL-3.0` `Docker`
+- [Kanboard](https://kanboard.org/) - 简单视觉任务板。（ L0 ） `MIT` `PHP`
+- [Listaway](https://github.com/jeffrpowell/listaway/) - 用于创建和公开共享项目列表的列表管理应用。支持身份验证、管理工具、项目备注和优先级，以及选择加入具有随机URL的公共只读链接（替代Amazon Lists ）。（ L0 ） `MIT` `Docker`
+- [myTinyTodo](https://www.mytinytodo.net/) - 以AJAX风格管理待办事项列表的简单方法。使用PHP、jQuery、SQLite/MySQL。符合GTD。（ L0、L1 ） `GPL-2.0` `PHP`
+- [Nullboard](https://github.com/apankrat/nullboard) - 单页简约看板；紧凑、高可读性和快速使用。(L0) `BSD-2-Clause` `Javascript`
+- [OpenHabitTracker](https://openhabittracker.net) - 使用时间跟踪、日历视图和完成统计信息跟踪习惯、任务和笔记。(L0, L1) `GPL-3.0` `Docker`
+- [Our Shopping List](https://codeberg.org/nanawel/our-shopping-list) - Simple shared list application including shopping lists and any other small todo-list that needs to be used collaboratively. ([Demo](https://osl.lanterne-rouge.info/)) `AGPL-3.0` `Docker`
+- [Super Productivity](https://super-productivity.com) - Advanced todo list app with integrated timeboxing and time tracking capabilities. Integrates with Jira, GitHub, GitLab, Redmine and OpenProject. ([Source Code](https://github.com/super-productivity/super-productivity)) `MIT` `Docker`
 - [Task Keeper](https://github.com/nymanjens/piga) - List editor for power users, backed by a server. `Apache-2.0` `Scala`
 - [Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - File based task management board that and that supports Markdown syntax. `MIT` `Docker`
-- [Taskwarrior](https://taskwarrior.org/) - Command line tool that manages your TODO list. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. (L0) `MIT` `C++`
-- [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. (L0, L1) `MIT` `PHP`
-- [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s Getting Things Done™ methodology. (L0) `GPL-2.0` `Ruby`
-- [tududi](https://tududi.com/) - Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration. (L0) `MIT` `Docker`
-- [Vikunja](https://vikunja.io/) - To-do app to organize your life. (L0, L1) `AGPL-3.0/GPL-3.0` `Go`
-- [Wekan](https://wekan.github.io/) - Trello-like kanban. (L0) `MIT` `Nodejs`
-- [Will Be Done](https://will-be-done.app/) - Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). (L0, L1) `AGPL-3.0` `Docker/Nodejs`
+- [Taskwarrior](https://taskwarrior.org/) - Command line tool that manages your TODO list. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
+- [Tellor](https://tellor.cc/) - Minimalist single-user kanban todo app. Clean, simplified, and compact UI. Can import boards from Trello. ([Demo](https://tellor.cc/demo/?b=18486f63be6bb5f2), [Source Code](https://github.com/Voldrix/Tellor)) `MIT` `PHP`
+- [Tracks](https://www.getontracks.org/) - Web-based application to help you implement David Allen’s Getting Things Done™ methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPL-2.0` `Ruby`
+- [tududi](https://tududi.com/) - Task management tool with hierarchical structure, smart recurring tasks, and seamless Telegram integration. ([Source Code](https://github.com/chrisvel/tududi)) `MIT` `Docker`
+- [Vikunja](https://vikunja.io/) - To-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code](https://github.com/go-vikunja/vikunja)) `AGPL-3.0/GPL-3.0` `Go`
+- [Wekan](https://wekan.github.io/) - Trello-like kanban. ([Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+- [Will Be Done](https://will-be-done.app/) - Offline-first task manager with weekly planning, project boards, real-time sync, Vim keybindings, desktop quick add, and import from popular task managers (alternative to TickTick, Todoist). ([Demo](https://demo.will-be-done.app/), [Source Code](https://github.com/will-be-done/will-be-done)) `AGPL-3.0` `Docker/Nodejs`
 
 
 <a id="ticketing"></a>
@@ -2223,19 +2223,19 @@ _Related: [Software Development - Project Management 软件开发 - 项目管理
 
 _Related: [Task Management & To-do Lists 任务管理与待办清单](#task-management--to-do-lists), [Software Development - Project Management 软件开发 - 项目管理](#software-development---project-management)_
 
-- [BugPin](https://bugpin.io) - Visual bug reporting and ticketing tool for web applications. (L0) `AGPL-3.0/MIT` `Docker`
-- [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. (L0) `MPL-2.0` `Perl`
-- [Frappe Helpdesk](https://frappe.io/helpdesk) - Helpdesk software which helps you streamline your company's support, offers an easy setup, clean user interface, and automation tools to resolve customer queries efficiently. (L0) `AGPL-3.0` `Docker`
-- [FreeScout](https://freescout.net/) - Email-based customer support application, help desk and shared mailbox (alternative to Zendesk and Help Scout). (L0, L1) `AGPL-3.0` `PHP/Docker`
-- [GlitchTip](https://glitchtip.com) - Error tracking app to collect errors reported by your app. (L0) `MIT` `Python/Docker/K8S`
-- [ITFlow](https://itflow.org) - Client IT documentation, ticketing, invoicing and accounting for MSPs (Managed Service Providers). (L0, L1) `GPL-3.0` `PHP`
-- [Libredesk](https://libredesk.io/) - Modern omnichannel customer support desk. Live chat, email, and more in a single binary. (L0, L1) `AGPL-3.0` `Docker/Go/Nodejs`
-- [MantisBT](https://www.mantisbt.org/) - Bug tracker, fits best for software development. (L0, L1) `GPL-2.0` `PHP`
-- [OTOBO](https://otobo.io/en/) - Flexible web-based ticketing system used for customer service, help desk, IT service management. (L0, L1) `GPL-3.0` `Perl/Docker`
-- [Request Tracker](https://www.bestpractical.com/rt/) - Enterprise-grade issue tracking system. (L0) `GPL-2.0` `Perl`
-- [Roundup Issue Tracker](https://www.roundup-tracker.org/) - Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. (L0) `MIT/ZPL-2.0` `Python/Docker`
-- [Rustrak](https://rustrak.github.io/rustrak/) - Error tracking server compatible with Sentry SDKs, using 32 MB of memory at idle with SQLite storage. (L0) `GPL-3.0` `Rust/Docker`
-- [Zammad](https://zammad.org/) - Easy to use but powerful support and ticketing system. (L0) `AGPL-3.0` `Ruby/deb`
+- [BugPin](https://bugpin.io) - Visual bug reporting and ticketing tool for web applications. ([Source Code](https://github.com/aranticlabs/bugpin)) `AGPL-3.0/MIT` `Docker`
+- [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. ([Source Code](https://github.com/bugzilla/bugzilla)) `MPL-2.0` `Perl`
+- [Frappe Helpdesk](https://frappe.io/helpdesk) - Helpdesk software which helps you streamline your company's support, offers an easy setup, clean user interface, and automation tools to resolve customer queries efficiently. ([Source Code](https://github.com/frappe/helpdesk)) `AGPL-3.0` `Docker`
+- [FreeScout](https://freescout.net/) - Email-based customer support application, help desk and shared mailbox (alternative to Zendesk and Help Scout). ([Demo](https://demo.freescout.net/login), [Source Code](https://github.com/freescout-help-desk/freescout)) `AGPL-3.0` `PHP/Docker`
+- [GlitchTip](https://glitchtip.com) - Error tracking app to collect errors reported by your app. ([Source Code](https://gitlab.com/glitchtip/glitchtip)) `MIT` `Python/Docker/K8S`
+- [ITFlow](https://itflow.org) - Client IT documentation, ticketing, invoicing and accounting for MSPs (Managed Service Providers). ([Demo](https://demo.itflow.org), [Source Code](https://github.com/itflow-org/itflow)) `GPL-3.0` `PHP`
+- [Libredesk](https://libredesk.io/) - Modern omnichannel customer support desk. Live chat, email, and more in a single binary. ([Demo](https://demo.libredesk.io), [Source Code](https://github.com/abhinavxd/libredesk)) `AGPL-3.0` `Docker/Go/Nodejs`
+- [MantisBT](https://www.mantisbt.org/) - Bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
+- [OTOBO](https://otobo.io/en/) - Flexible web-based ticketing system used for customer service, help desk, IT service management. ([Demo](https://otobo.io/en/service-management-plattform/otobo-demo/), [Source Code](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+- [Request Tracker](https://www.bestpractical.com/rt/) - Enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
+- [Roundup Issue Tracker](https://www.roundup-tracker.org/) - Simple-to-use and -install issue tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python/Docker`
+- [Rustrak](https://rustrak.github.io/rustrak/) - Error tracking server compatible with Sentry SDKs, using 32 MB of memory at idle with SQLite storage. ([Source Code](https://github.com/rustrak/rustrak)) `GPL-3.0` `Rust/Docker`
+- [Zammad](https://zammad.org/) - Easy to use but powerful support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
 
 
 <a id="time-tracking"></a>
@@ -2245,16 +2245,16 @@ _Related: [Task Management & To-do Lists 任务管理与待办清单](#task-mana
 
 [Time-tracking software](https://en.wikipedia.org/wiki/Time-tracking_software) is a category of computer software that allows its users to record time spent on tasks or projects.
 
-- [ActivityWatch](https://activitywatch.net) - Automatically track how you spend time on your devices. (L0) `MPL-2.0` `Python`
-- [Beaver Habit Tracker](https://github.com/daya0576/beaverhabits) - Habit tracking app to save your precious moments in your fleeting life. (L0) `BSD-3-Clause` `Docker`
-- [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). (L0, L1) `AGPL-3.0` `Docker/Nodejs`
-- [Kimai](https://www.kimai.org/) - Track work time and print out a summary of your activities on demand. (L0, L1) `AGPL-3.0` `PHP`
-- [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. (L0) `AGPL-3.0` `Docker`
-- [TimeTagger](https://timetagger.app) - Time-tracker based on an interactive timeline and powerful reporting. (L0, L1) `GPL-3.0` `Python`
-- [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. (L0) `GPL-3.0` `Docker`
-- [Traggo](https://traggo.net/) - Tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. (L0) `GPL-3.0` `Docker/Go`
-- [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. (L0) `GPL-3.0` `Go/Docker`
-- [Ziit](https://ziit.app) - Swiss army knife of code time tracking (alternative to WakaTime). (L0) `AGPL-3.0` `Docker`
+- [ActivityWatch](https://activitywatch.net) - Automatically track how you spend time on your devices. ([Source Code](https://github.com/ActivityWatch/activitywatch)) `MPL-2.0` `Python`
+- [Beaver Habit Tracker](https://github.com/daya0576/beaverhabits) - Habit tracking app to save your precious moments in your fleeting life. ([Demo](https://beaverhabits.com/demo)) `BSD-3-Clause` `Docker`
+- [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
+- [Kimai](https://www.kimai.org/) - Track work time and print out a summary of your activities on demand. ([Demo](https://www.kimai.org/demo/), [Source Code](https://github.com/kimai/kimai)) `AGPL-3.0` `PHP`
+- [solidtime](https://www.solidtime.io) - Modern time tracking application for freelancers and agencies. ([Source Code](https://github.com/solidtime-io/solidtime)) `AGPL-3.0` `Docker`
+- [TimeTagger](https://timetagger.app) - Time-tracker based on an interactive timeline and powerful reporting. ([Demo](https://timetagger.app/app/demo), [Source Code](https://github.com/almarklein/timetagger)) `GPL-3.0` `Python`
+- [TimeTracker](https://timetracker.drytrix.com/) - Track time across projects and clients, with timers, kanban tasks, CRM, expense tracking, multi-currency invoicing (PDF, Peppol/ZugFerd e-invoicing), reports, OIDC/SSO, and a REST API. ([Source Code](https://github.com/drytrix/TimeTracker)) `GPL-3.0` `Docker`
+- [Traggo](https://traggo.net/) - Tag-based time tracking tool. In Traggo there are no tasks, only tagged time spans. ([Source Code](https://github.com/traggo/server)) `GPL-3.0` `Docker/Go`
+- [Wakapi](https://wakapi.dev/) - Tracking tool for coding statistics, compatible with WakaTime. ([Source Code](https://github.com/muety/wakapi)) `GPL-3.0` `Go/Docker`
+- [Ziit](https://ziit.app) - Swiss army knife of code time tracking (alternative to WakaTime). ([Source Code](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
 
 
 <a id="travel-organization"></a>
@@ -2266,8 +2266,8 @@ Travel organization software to record bookings, view itinerary, plan activities
 
 _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling), [Maps and Global Positioning System (GPS) 地图与全球定位系统（GPS）](#maps-and-global-positioning-system-gps)_
 
-- [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. (L0, L1) `MIT` `Docker`
-- [TREK](https://github.com/liketrek/TREK) - Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. (L0) `AGPL-3.0` `Docker/K8S`
+- [Surmai](https://surmai.app/) - Collaborative personal and family travel organizer. ([Demo](https://demo.surmai.app), [Source Code](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
+- [TREK](https://github.com/liketrek/TREK) - Collaborative trip planner with interactive maps, day-by-day itineraries, budgets, packing lists, reservations, journey journaling, and PWA support. ([Demo](https://demo.liketrek.com/)) `AGPL-3.0` `Docker/K8S`
 
 
 <a id="url-shorteners"></a>
@@ -2278,14 +2278,14 @@ _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling), [Ma
 [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [disadvantages](https://en.wikipedia.org/wiki/URL_shortening#Disadvantages) of URL shorteners.
 
 - [bit](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener. `MIT` `Docker/Crystal`
-- [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). (L0, L1, L2) `MIT` `Rust/Docker`
-- [clink](https://git.crueter.xyz/crueter/clink) - Super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. (L0) `AGPL-3.0` `C`
-- [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. (L0) `MIT` `Docker`
-- [Kutt](https://kutt.to) - Modern URL shortener with support for custom domains and custom URLs. (L0, L1) `MIT` `Nodejs/Docker`
-- [rs-short](https://git.42l.fr/42l/rs-short) - Lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. (L0) `MPL-2.0` `Rust`
-- [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. (L0, L1) `MIT` `PHP/Docker`
-- [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. (L0) `MIT` `PHP`
-- [YOURLS](https://yourls.org/) - Set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. (L0) `MIT` `PHP`
+- [Chhoto URL](https://chhoto.link) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Source Code](https://github.com/SinTan1729/chhoto-url), [Clients](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
+- [clink](https://git.crueter.xyz/crueter/clink) - Super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.crueter.xyz)) `AGPL-3.0` `C`
+- [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
+- [Kutt](https://kutt.to) - Modern URL shortener with support for custom domains and custom URLs. ([Demo](https://kutt.to), [Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
+- [rs-short](https://git.42l.fr/42l/rs-short) - Lightweight link shortener written in Rust, with features such as caching, spambot protection and phishing detection. ([Demo](https://s.42l.fr/)) `MPL-2.0` `Rust`
+- [Shlink](https://shlink.io) - URL shortener with REST API and command line interface. Includes official progressive web application and docker images. ([Source Code](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT` `PHP/Docker`
+- [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
+- [YOURLS](https://yourls.org/) - Set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 
 <a id="video-surveillance"></a>
@@ -2298,13 +2298,13 @@ Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.
 _Related: [Media Streaming - Video Streaming 媒体流 - 视频流](#media-streaming---video-streaming)_
 
 - [Bluecherry](https://github.com/bluecherrydvr/bluecherry-apps) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. `GPL-2.0` `PHP`
-- [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. (L0) `MIT` `Docker/Python/Nodejs`
+- [Frigate](https://frigate.video/) - Monitor your security cameras with locally processed AI. ([Source Code](https://github.com/blakeblackshear/frigate)) `MIT` `Docker/Python/Nodejs`
 - [motionEye](https://github.com/motioneye-project/motioneye) - Online interface for the software Motion, a video surveillance program with motion detection. `GPL-3.0` `Python/Docker`
-- [Secluso](https://secluso.com) - Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. (L0) `GPL-3.0` `Rust`
+- [Secluso](https://secluso.com) - Private DIY home security camera system for Raspberry Pi, with end-to-end encrypted remote access and mobile apps for live video, alerts, and recording playback. ([Source Code](https://github.com/secluso/core)) `GPL-3.0` `Rust`
 - [SentryShot](https://codeberg.org/SentryShot/sentryshot) - Video surveillance management system. `GPL-2.0` `Docker/Rust`
 - [Strix](https://github.com/eduard256/Strix) - Auto-discovers working stream URLs for IP cameras and generates ready-to-use Frigate and go2rtc configs. `MIT` `Go/Docker`
-- [Viseron](https://viseron.netlify.app/) - Local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. (L0) `MIT` `Docker`
-- [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. (L0) `GPL-2.0` `PHP/deb`
+- [Viseron](https://viseron.netlify.app/) - Local-only NVR and AI Computer Vision software. With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor. ([Source Code](https://github.com/roflcoopter/viseron)) `MIT` `Docker`
+- [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 
 <a id="vpn"></a>
@@ -2329,25 +2329,25 @@ Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/We
 
 _Related: [Proxy 代理](#proxy)_
 
-- [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. (L0) `BSD-3-Clause` `Go/Docker`
-- [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. (L0) `Apache-2.0` `C/deb/Docker`
-- [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. (L0, L1, L2) `AGPL-3.0` `deb/Docker/K8S/Python`
-- [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready web server with automatic HTTPS. (L0) `Apache-2.0` `Go/deb/Docker`
-- [Ferron](https://ferron.sh/) - Fast, memory-safe web server written in Rust. (L0) `MIT` `Rust/Docker/deb`
+- [Algernon](https://algernon.roboticoverlords.org/) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support. ([Source Code](https://github.com/xyproto/algernon)) `BSD-3-Clause` `Go/Docker`
+- [Apache HTTP Server](https://httpd.apache.org/) - Secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards. ([Source Code](https://svn.apache.org/repos/asf/httpd/httpd/trunk/)) `Apache-2.0` `C/deb/Docker`
+- [BunkerWeb](https://www.bunkerweb.io) - Next-gen Web Application Firewall (WAF) that will protect your web services. ([Demo](https://demo.bunkerweb.io), [Source Code](https://github.com/bunkerity/bunkerweb), [Clients](https://docs.bunkerweb.io/latest/plugins/)) `AGPL-3.0` `deb/Docker/K8S/Python`
+- [Caddy](https://caddyserver.com/) - Powerful, enterprise-ready web server with automatic HTTPS. ([Source Code](https://github.com/caddyserver/caddy)) `Apache-2.0` `Go/deb/Docker`
+- [Ferron](https://ferron.sh/) - Fast, memory-safe web server written in Rust. ([Source Code](https://github.com/ferronweb/ferron)) `MIT` `Rust/Docker/deb`
 - [go-doxy](https://github.com/yusing/godoxy) - Lightweight, simple, and performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
-- [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. (L0) `GPL-2.0` `C/deb/Docker`
-- [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. (L0) `BSD-3-Clause` `C/deb/Docker`
-- [Nginx Proxy Manager](https://nginxproxymanager.com/) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. (L0) `MIT` `Docker`
-- [NGINX](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. (L0) `BSD-2-Clause` `C/deb/Docker`
-- [Pangolin](https://digpangolin.com/) - Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale). (L0) `AGPL-3.0` `Docker`
-- [Pomerium](https://www.pomerium.io) - Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your own websites to public Internet. (L0) `Apache-2.0` `Go/Docker`
-- [SafeLine](https://waf.chaitin.com/) - Web application firewall / reverse proxy to protect your web apps from attacks and exploits. (L0, L1) `GPL-3.0` `Docker`
-- [Static Web Server](https://static-web-server.net/) - Cross-platform, high-performance, and asynchronous web server for static file serving. (L0) `Apache-2.0/MIT` `Rust/Docker`
+- [HAProxy](https://www.haproxy.org/) - Very fast and reliable reverse-proxy offering high availability, load balancing, and proxying for TCP and HTTP-based applications. ([Source Code](https://git.haproxy.org/?p=haproxy.git;a=tree)) `GPL-2.0` `C/deb/Docker`
+- [Lighttpd](https://www.lighttpd.net/) - Secure, fast, compliant, and very flexible web server that has been optimized for high-performance environments. ([Source Code](https://git.lighttpd.net/lighttpd/lighttpd1.4)) `BSD-3-Clause` `C/deb/Docker`
+- [Nginx Proxy Manager](https://nginxproxymanager.com/) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([Source Code](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Docker`
+- [NGINX](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code](https://github.com/nginx/nginx)) `BSD-2-Clause` `C/deb/Docker`
+- [Pangolin](https://digpangolin.com/) - Identity-aware tunneled reverse proxy with dashboard UI, access control, and WireGuard-based tunnels (alternative to Cloudflare Tunnel, Tailscale). ([Source Code](https://github.com/fosrl/pangolin)) `AGPL-3.0` `Docker`
+- [Pomerium](https://www.pomerium.io) - Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your own websites to public Internet. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go/Docker`
+- [SafeLine](https://waf.chaitin.com/) - Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ([Demo](https://demo.waf.chaitin.com/), [Source Code](https://github.com/chaitin/SafeLine)) `GPL-3.0` `Docker`
+- [Static Web Server](https://static-web-server.net/) - Cross-platform, high-performance, and asynchronous web server for static file serving. ([Source Code](https://github.com/static-web-server/static-web-server)) `Apache-2.0/MIT` `Rust/Docker`
 - [SWAG (Secure Web Application Gateway)](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) client and fail2ban integration. `GPL-3.0` `Docker`
-- [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. (L0) `MIT` `Go/Docker`
-- [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). (L0) `GPL-3.0` `C/Lua/Docker`
-- [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). (L0) `BSD-2-Clause` `Go/deb/Docker`
-- [Zoraxy](https://zoraxy.aroz.org/) - General purpose HTTP reverse proxy and forwarding tool. (L0) `AGPL-3.0` `Go/Docker`
+- [Traefik](https://traefik.io/) - HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Source Code](https://github.com/traefik/traefik)) `MIT` `Go/Docker`
+- [UUSEC WAF](https://waf.uusec.com/) - Industry-leading high-performance, AI and semantic technology web application firewall and API security gateway (fork of nginx). ([Source Code](https://github.com/Safe3/uusec-waf)) `GPL-3.0` `C/Lua/Docker`
+- [Vinyl Cache](https://vinyl-cache.org/) - Web application accelerator/caching HTTP reverse proxy (formerly Varnish). ([Source Code](https://code.vinyl-cache.org/vinyl-cache/vinyl-cache)) `BSD-2-Clause` `Go/deb/Docker`
+- [Zoraxy](https://zoraxy.aroz.org/) - General purpose HTTP reverse proxy and forwarding tool. ([Source Code](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`
 
 
 <a id="wikis"></a>
@@ -2361,29 +2361,29 @@ _Related: [Note-taking & Editors 笔记与编辑器](#note-taking--editors), [St
 
 _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - Wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software)_
 
-- [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. (L0) `GPL-1.0` `Perl/Docker`
-- [BookStack](https://www.bookstackapp.com/) - Organize and store information. Stores documentation in a book like fashion. (L0, L1) `MIT` `PHP/Docker`
-- [django-wiki](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. (L0) `GPL-3.0` `Python`
-- [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). (L0) `AGPL-3.0` `Docker/Nodejs`
-- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. (L0) `AGPL-3.0` `Go`
-- [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. (L0) `GPL-2.0` `PHP`
-- [Feather Wiki](https://feather.wiki) - Lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. (L0, L1, L2) `AGPL-3.0` `Javascript`
+- [AmuseWiki](https://amusewiki.org/) - Amusewiki is based on the Emacs Muse markup, remaining mostly compatible with the original implementation. It can work as a read-only site, as a moderated wiki, or as a fully open wiki or even as a private site. ([Source Code](https://github.com/melmothx/amusewiki)) `GPL-1.0` `Perl/Docker`
+- [BookStack](https://www.bookstackapp.com/) - Organize and store information. Stores documentation in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://codeberg.org/bookstack/bookstack)) `MIT` `PHP/Docker`
+- [django-wiki](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`
+- [docmost Community Edition](https://docmost.com/) - Collaborative wiki and documentation software (alternative to Confluence, Notion). ([Source Code](https://github.com/docmost/docmost)) `AGPL-3.0` `Docker/Nodejs`
+- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code](https://github.com/documize/community)) `AGPL-3.0` `Go`
+- [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain text files, therefore no database is required. ([Source Code](https://github.com/dokuwiki/dokuwiki)) `GPL-2.0` `PHP`
+- [Feather Wiki](https://feather.wiki) - Lightning fast and infinitely extensible tool for creating personal non-linear notebooks, databases, and wikis that is entirely self-contained, runs in your browser, and is only 58 kilobytes in size. ([Demo](https://feather.wiki/?page=gallery#wikis), [Source Code](https://codeberg.org/Alamantus/FeatherWiki), [Clients](https://feather.wiki/?page=gallery#extensions)) `AGPL-3.0` `Javascript`
 - [Gitit](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPL-2.0` `Haskell`
-- [LeafWiki](https://github.com/perber/leafwiki) - Fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. (L0) `MIT` `Docker/Go`
-- [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. (L0, L1) `GPL-2.0` `PHP`
-- [Otter Wiki](https://otterwiki.com/) - Simple, easy to use wiki software using markdown. (L0) `MIT` `Docker`
+- [LeafWiki](https://github.com/perber/leafwiki) - Fast wiki for people who think in folders, not feeds. Fast editing. Tree navigation. Markdown on disk. ([Demo](https://demo.leafwiki.com)) `MIT` `Docker/Go`
+- [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - Wiki software package that powers Wikipedia and all other Wikimedia projects, serving hundreds of millions of users each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), [Source Code](https://phabricator.wikimedia.org/source/mediawiki/)) `GPL-2.0` `PHP`
+- [Otter Wiki](https://otterwiki.com/) - Simple, easy to use wiki software using markdown. ([Source Code](https://github.com/redimp/otterwiki)) `MIT` `Docker`
 - [PmWiki](https://www.pmwiki.org) - Wiki-based system for collaborative creation and maintenance of websites. `GPL-3.0` `PHP`
-- [Raneto](https://raneto.com/) - Knowledgebase platform that uses static Markdown files. (L0) `MIT` `Nodejs`
-- [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. (L0) `BSD-3-Clause` `Nodejs`
-- [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. (L0, L1) `LGPL-2.1` `PHP`
-- [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. (L0) `AGPL-3.0` `PHP`
-- [WackoWiki](https://wackowiki.org/) - Light and easy to install multilingual Wiki-engine. (L0) `BSD-3-Clause` `PHP`
-- [Wiki-Go](https://leomoon.com/downloads/web-apps/wiki-go/) - Modern, feature-rich, databaseless flat-file wiki platform. (L0, L1) `GPL-3.0` `Go/Docker`
-- [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. (L0, L1) `AGPL-3.0` `Nodejs/Docker/K8S`
-- [WikiDocs](https://www.wikidocs.app/) - Databaseless markdown flat-file wiki engine. (L0) `MIT` `PHP/Docker`
-- [WiKiss](https://wikiss.tuxfamily.org/) - Wiki, simple to use and install. (L0) `GPL-2.0` `PHP`
-- [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. (L0, L1) `LGPL-2.1` `Java/Docker/deb`
-- [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. (L0) `GPL-2.0` `Python/deb`
+- [Raneto](https://raneto.com/) - Knowledgebase platform that uses static Markdown files. ([Source Code](https://github.com/ryanlelek/Raneto)) `MIT` `Nodejs`
+- [TiddlyWiki](https://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code](https://github.com/TiddlyWiki/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`
+- [Tiki](https://tiki.org/HomePage) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Try-Tiki), [Source Code](https://gitlab.com/tikiwiki/tiki)) `LGPL-2.1` `PHP`
+- [W](https://w.club1.fr) - Lightweight, mutli-user, flat-file-database Wiki engine. Create pages quickly and edit them in your Web browser using Mardown/HTML/CSS/JS. The main difference with other wiki is that you are encouraged to customize each page style individually. ([Source Code](https://github.com/vincent-peugnet/wcms)) `AGPL-3.0` `PHP`
+- [WackoWiki](https://wackowiki.org/) - Light and easy to install multilingual Wiki-engine. ([Source Code](https://github.com/WackoWiki/wackowiki)) `BSD-3-Clause` `PHP`
+- [Wiki-Go](https://leomoon.com/downloads/web-apps/wiki-go/) - Modern, feature-rich, databaseless flat-file wiki platform. ([Demo](https://wikigo.leomoon.com), [Source Code](https://github.com/leomoon-studios/wiki-go)) `GPL-3.0` `Go/Docker`
+- [Wiki.js](https://js.wiki/) - Modern, lightweight and powerful wiki app using Git and Markdown. ([Demo](https://docs.requarks.io), [Source Code](https://github.com/Requarks/wiki)) `AGPL-3.0` `Nodejs/Docker/K8S`
+- [WikiDocs](https://www.wikidocs.app/) - Databaseless markdown flat-file wiki engine. ([Source Code](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+- [WiKiss](https://wikiss.tuxfamily.org/) - Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPL-2.0` `PHP`
+- [XWiki](https://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](https://www.xwikiplayground.org/xwiki/bin/view/Main/), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java/Docker/deb`
+- [Zim](https://zim-wiki.org/) - Graphical text editor used to maintain a collection of wiki pages. Each page can contain links to other pages, simple formatting and images. ([Source Code](https://github.com/zim-desktop-wiki/zim-desktop-wiki)) `GPL-2.0` `Python/deb`
 
 
 --------------------
@@ -2455,7 +2455,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 - Other Awesome lists: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
 - Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
-- [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! (L0) `MIT` `CSS`
+- [theme.park](https://theme-park.dev/) - A collection of themes/skins for 50 selfhosted apps! ([Source Code](https://github.com/GilbN/theme.park/)) `MIT` `CSS`
 
 --------------------
 
@@ -2470,3 +2470,5 @@ Contributing guidelines can be found [here](https://github.com/awesome-selfhoste
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+
+
