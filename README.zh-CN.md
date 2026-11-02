@@ -3,9 +3,9 @@
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted.svg?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
 
-自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从L0提供商那里消费。
+自托管是在您自己的服务器上托管和管理应用程序的做法，而不是从[SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html)提供商那里消费。
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted on your own server(s). Non-Free software is listed on the [Non-Free](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) page.
+这是一个可在您自己的服务器上托管的 [自由软件](https://en.wikipedia.org/wiki/Free_software)、[网络服务](https://en.wikipedia.org/wiki/Network_service) 和 [Web 应用程序](https://en.wikipedia.org/wiki/Web_application) 清单。非自由软件列于 [非自由](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/non-free.md) 页面。
 
 **[HTML version](https://awesome-selfhosted.net/) (recommended)**, [Markdown version](https://github.com/awesome-selfhosted/awesome-selfhosted) (legacy).
 
@@ -247,7 +247,7 @@ _Related: [Archiving and Digital Preservation (DP) 存档与数字化保存（DP
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-L0是由离散的日记式文本条目（帖子）组成的讨论或信息网站。
+[blog](https://en.wikipedia.org/wiki/Blog)是由离散的日记式文本条目（帖子）组成的讨论或信息网站。
 
 _Related: [Static Site Generators 静态站点生成器](#static-site-generators), [Content Management Systems (CMS) 内容管理系统（CMS）](#content-management-systems-cms)_
 
@@ -892,7 +892,7 @@ _Related: [Community-Supported Agriculture (CSA) 社区支持农业（CSA）](#c
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-L0 ，也称为Feed聚合器、Feed阅读器、新闻阅读器、L1阅读器，是一种将报纸/博客/视频博客/播客等网络内容聚合在一个位置以方便查看的应用程序。
+[news aggregator](https://en.wikipedia.org/wiki/News_aggregator)，也称为Feed聚合器、Feed阅读器、新闻阅读器、[RSS](https://en.wikipedia.org/wiki/RSS)阅读器，是一种将报纸/博客/视频博客/播客等网络内容聚合在一个位置以方便查看的应用程序。
 
 - [Bubo Reader](https://github.com/georgemandis/bubo-rss) - 不合理的最小RSS源阅读器。（ L0 ） `MIT` `Nodejs`
 - [CommaFeed](https://www.commafeed.com/) - 受Google Reader启发的RSS阅读器。(L0, L1) `Apache-2.0` `Java/Docker`
@@ -1650,7 +1650,7 @@ _Related: [Personal Dashboards 个人仪表盘](#personal-dashboards)_
 
 网络实用程序是帮助管理、监控和排除计算机网络故障的工具和软件。
 
-_See also: [awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring)_
+另请参阅：[awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-sysadmin#monitoring)_
 
 - [beelzebub](https://beelzebub-honeypot.com/) `⚠` - 蜜罐框架旨在为检测和分析网络攻击提供高度安全的环境。（ L0 ） `MIT` `Docker/K8S/Go`
 - [Canary Tokens](https://canarytokens.org) - 生成称为金丝雀令牌的轻量级嵌入式蜜罐触发器，用于检测未经授权的访问。（ L0 ） `BSD-3-Clause` `Docker/Python`
@@ -2094,7 +2094,7 @@ _Related: [Software Development - Low Code 软件开发 - 低代码](#software-d
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-L0开发平台（ LCDP ）提供用于通过图形用户界面创建应用软件的开发环境。
+[low-code](https://en.wikipedia.org/wiki/Low-code_development_platform)开发平台（ LCDP ）提供用于通过图形用户界面创建应用软件的开发环境。
 
 _Related: [Software Development - IDE & Tools 软件开发 - IDE 与工具](#software-development---ide--tools)_
 
@@ -2293,7 +2293,7 @@ _Related: [Booking and Scheduling 预订与排程](#booking-and-scheduling), [Ma
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Video surveillance, also known as [Closed-circuit television (CCTV)](https://en.wikipedia.org/wiki/Closed-circuit_television), is the use of video cameras for surveillance in areas that require additional security or ongoing monitoring.
+视频监控，也称为[Closed-circuit television (CCTV)](https://en.wikipedia.org/wiki/Closed-circuit_television)是指在需要额外安保或持续监控的区域使用摄像头进行监控。
 
 _Related: [Media Streaming - Video Streaming 媒体流 - 视频流](#media-streaming---video-streaming)_
 
@@ -2312,7 +2312,7 @@ _Related: [Media Streaming - Video Streaming 媒体流 - 视频流](#media-strea
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.
+A [virtual private network (VPN)](https://en.wikipedia.org/wiki/Virtual_private_network)将专用网络扩展到公共网络，并使用户能够通过共享或公共网络发送和接收数据，就好像他们的计算设备直接连接到专用网络一样。
 
 **请访问 [awesome-sysadmin/VPN](https://github.com/awesome-foss/awesome-sysadmin#vpn)**
 
@@ -2325,7 +2325,7 @@ _See also: [Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-Web Servers and Reverse Proxies. A [web server](https://en.wikipedia.org/wiki/Web_server) is a piece of software and underlying hardware that accepts requests via [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (the network protocol created to distribute web content) or its secure variant [HTTPS](https://en.wikipedia.org/wiki/HTTPS). A [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy) is a proxy server that appears to any client to be an ordinary web server, but in reality merely acts as an intermediary that forwards requests to one or more ordinary web servers.
+Web服务器和反向代理。A [web server](https://en.wikipedia.org/wiki/Web_server)是一个软件和底层硬件，通过以下方式接受请求 [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)（为分发 Web 内容而创建的网络协议）或其安全变体 [HTTPS](https://en.wikipedia.org/wiki/HTTPS). A [Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)是一种代理服务器，在任何客户端看来都是普通的Web服务器，但实际上只是充当将请求转发到一个或多个普通Web服务器的中介。
 
 _Related: [Proxy 代理](#proxy)_
 
@@ -2355,7 +2355,7 @@ _Related: [Proxy 代理](#proxy)_
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-A [wiki](https://en.wikipedia.org/wiki/Wiki) is a publication collaboratively edited and managed by its own audience directly using a web browser.
+A [wiki](https://en.wikipedia.org/wiki/Wiki)是由自己的受众直接使用Web浏览器协作编辑和管理的出版物。
 
 _Related: [Note-taking & Editors 笔记与编辑器](#note-taking--editors), [Static Site Generators 静态站点生成器](#static-site-generators), [Knowledge Management Tools 知识管理工具](#knowledge-management-tools)_
 
@@ -2449,7 +2449,7 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
-- Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html)
+-发现/过滤超赞自托管应用的替代前端/门户：[awweso.me](https://awweso.me/), [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html)
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - 精心策划的令人惊叹的开源系统管理员资源列表。
 - Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](https://libreprojects.net/), [Easy Indie App](https://easyindie.app)
 - Other Awesome lists: [Awesome Big Data](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
@@ -2462,14 +2462,15 @@ _See also: [Wikimatrix](https://www.wikimatrix.org/), [List of wiki software - W
 <a id="contributing"></a>
 ## Contributing 贡献
 
-Contributing guidelines can be found [here](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md).
+可以找到贡献指南 [here](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md).
 
 <a id="license"></a>
 ## License 许可证
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
+此列表位于 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) 许可证
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).  
 The list of authors can be found in the [AUTHORS](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/AUTHORS) file.
+
 
 
 

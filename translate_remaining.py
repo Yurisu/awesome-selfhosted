@@ -42,6 +42,41 @@ def is_prose(line):
     return True
 
 LINK_RE = re.compile(r'\[[^\]]*\]\(https?://[^)]+\)')
+# 用于切分的带捕获组版本：split 后奇数下标为链接，偶数下标为纯文本片段
+SPLIT_RE = re.compile(r'(\[[^\]]*\]\(https?://[^)]+\))')
+
+def _mt_call(text):
+    """调用 MyMemory 翻译单段文本。返回 (translated_text_or_None, stop_flag)。
+    stop_flag=True 表示配额耗尽/持续限流，调用方应停止且不缓存该条。"""
+    global STOP
+    q = urllib.parse.quote(text)
+    url = ("https://api.mymemory.translated.net/get?q=%s"
+           "&langpair=en|zh-CN&de=selfhost-translate@example.com") % q
+    backoff = 20
+    for attempt in range(5):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            data = json.load(urllib.request.urlopen(req, timeout=15))
+            st = data.get("responseStatus")
+            t = data.get("responseData", {}).get("translatedText", "")
+            if st == 200 and t:
+                if "YOU USED ALL" in t.upper() or "QUOTA" in str(data.get("responseDetails", "")).upper():
+                    STOP = True
+                    return None, True
+                return t, False
+            if st == 429:
+                if attempt < 4:
+                    time.sleep(backoff)
+                    backoff = min(backoff * 2, 120)
+                    continue
+                STOP = True
+                return None, True
+            if st in (402, 403) or "QUOTA" in str(data.get("responseDetails", "")).upper():
+                STOP = True
+                return None, True
+        except Exception:
+            time.sleep(2)
+    return None, False
 
 def translate(text, retries=5):
     global STOP
@@ -53,52 +88,33 @@ def translate(text, retries=5):
     if has_cjk(text):
         cache[text] = text
         return text
-    orig = text  # 保留含真实链接的原始文本，失败时回退用
-    links = LINK_RE.findall(text)
-    for i, lk in enumerate(links):
-        text = text.replace(lk, f"\u0002L{i}\u0002", 1)
-    q = urllib.parse.quote(text)
-    url = ("https://api.mymemory.translated.net/get?q=%s"
-           "&langpair=en|zh-CN&de=selfhost-translate@example.com") % q
-    backoff = 20
-    for attempt in range(retries):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            data = json.load(urllib.request.urlopen(req, timeout=15))
-            st = data.get("responseStatus")
-            t = data.get("responseData", {}).get("translatedText", "")
-            # 真正的配额耗尽：停止且不缓存，便于后续续传重试
-            if st == 200 and t:
-                if "YOU USED ALL" in t.upper() or "QUOTA" in str(data.get("responseDetails", "")).upper():
-                    STOP = True
-                    return orig
-                for i, lk in enumerate(links):
-                    t = t.replace(f"\u0002L{i}\u0002", lk)
-                # 防御：若仍有残留占位符（翻译服务丢弃了控制符），还原剩余链接
-                for mm in re.finditer(r'\u0002L(\d+)\u0002', t):
-                    idx = int(mm.group(1))
-                    if idx < len(links):
-                        t = t[:mm.start()] + links[idx] + t[mm.end():]
-                if "\u0002" in t:  # 链接彻底丢失，放弃该条，回退原文
-                    return orig
-                cache[text] = t
-                time.sleep(DELAY)
-                return t
-            # 429 限流：退避后重试；持续限流则优雅停止（回退原文，不缓存）
-            if st == 429:
-                if attempt < retries - 1:
-                    time.sleep(backoff)
-                    backoff = min(backoff * 2, 120)
-                    continue
-                STOP = True
-                return orig
-            if st in (402, 403) or "QUOTA" in str(data.get("responseDetails", "")).upper():
-                STOP = True
-                return orig
-        except Exception:
-            time.sleep(2)
-    # 网络/解析失败：保留原文（含真实链接），不缓存（下次重试）
-    return orig
+    orig = text  # 含真实链接的原始文本，失败时回退用
+    # 链接保护：按 [text](url) 切分为片段，仅翻译链接之间的纯文本，链接整体原样保留，
+    # 从根本上避免翻译服务丢弃占位符导致链接丢失（旧版 \u0002 占位符被 MyMemory 剥离）。
+    segs = SPLIT_RE.split(text)  # 偶数下标=纯文本片段，奇数下标=链接
+    out = []
+    for i, seg in enumerate(segs):
+        if i % 2 == 1:
+            out.append(seg)  # 链接整体保留，绝不送入翻译
+            continue
+        if not seg.strip():
+            out.append(seg)
+            continue
+        if has_cjk(seg) or not re.search(r'[A-Za-z]{3,}', seg):
+            out.append(seg)
+            continue
+        t, stop = _mt_call(seg)
+        if stop:
+            # 配额耗尽：本条回退原文（含真实链接），不缓存，便于后续续传
+            return orig
+        out.append(t if t is not None else seg)  # 网络失败则保留该片段原文
+    result = "".join(out)
+    # 完整性校验：翻译后链接数量必须与原文一致，否则放弃该条（绝不提交破损链接）
+    if len(LINK_RE.findall(result)) != len(LINK_RE.findall(orig)):
+        return orig
+    cache[text] = result
+    time.sleep(DELAY)
+    return result
 
 def process_entry(line):
     m = entry_re.match(line)
